@@ -1,0 +1,243 @@
+
+
+< BACK TO MAIN BLOG
+
+
+Which International Money Transfer Platform Is The Cheapest? 
+
+
+
+
+Ming Feng
+
+
+14th August 2018 
+
+A stint in Bloomberg gifted me with a beer belly, which only grew larger when I moved on to become a Professional Trader. Now I turn caffeine into digestible finance-related content. You can contribute your thoughts like Ming Feng here.
+
+
+2 min readTo transfer money overseas can sometimes be a real headache. This is especially so for expats in Singapore where this form of service impacts them the most.
+In fact, one can incur a loss everytime they adopt a service to transfer money overseas due to a few reasons:
+
+Every platform charges a possible service or transfer fees
+Platforms usually give consumers a less favourable exchange rate to increase their profit margin
+
+For consumers making a huge amount of transaction, the need to optimise cost and fees becomes even more important.
+TL;DR – Players in the market: Worldremit, Instarem, TransferWise, SingX, DBS
+
+All the stated players are Registered Remittance Business with the Monetary Authority of Singapore
+SingX transfers to 30+ countries worldwide including Australia, Bangladesh, Canada, Europe, NZ, Thailand, US, and the UK
+Out of the 7 currencies, Instarem has the best rates for 5 currencies namely Indian Rupee (INR), European Euro (EUR), Phillippine Peso (PHP), Indonesian Rupiah (IDR), Malaysian Ringgit (MYR).
+Most platforms do not support Chinese Yuan (CNY) except Transferwise, Worldremit and DBS.
+
+
+Further Reading: Comparing all platforms with commonly used currencies
+To better determine the cheapest platform in the market, we compare them using the rates for some of the most exchanged currencies in the world.
+*Note: All fees are deducted before conversion.
+Best platform to send S$1,000 to US Dollar (USD)
+
+
+
+ RateFeeTotal Amount To Receive
+
+
+
+
+InstaremUSD 0.727SGD 2.50
+(0.25%)USD 725.18
+
+
+TransferwiseUSD 0.72703SGD 5.48
+(0.35% + SGD 2.00)USD 723.05
+
+
+WorldremitUSD 0.72SGD 3.00USD 717.84
+
+
+SingXUSD 0.7273SGD 8.00USD 721.48
+
+
+DBSUSD 0.7288SGD 0USD 728.81
+
+
+
+Best platform to send S$1,000 to Indian Rupee (INR)
+
+
+
+ RateFeeTotal Amount To Receive
+
+
+
+
+Instarem50.65 INRSGD 2.50
+(0.25%)50,521 INR
+
+
+Transferwise50.67 INRSGD 5.47
+(0.5% + SGD 0.50)50,395 INR
+
+
+Worldremit49.27 INRSGD 3.0049,122 INR
+
+
+SingX50.70 INRSGD 4.0050,497 INR
+
+
+DBS49.99 INRSGD 049,990 INR
+
+
+
+Best platform to send S$1,000 to European Euro (EUR)
+
+
+
+ RateFeesTotal Amount To Receive
+
+
+
+
+Instarem0.6373 EUR2.50 SGD
+(0.25%)635.71 EUR
+
+
+Transferwise0.6374 EUR4.48 SGD
+(0.35% + 1 SGD)634.55 EUR
+
+
+Worldremit0.6293 EUR3 SGD623.62 EUR
+
+
+SingX0.6373 EUR8 SGD632.20 EUR
+
+
+DBS0.61860 SGD618.62 EUR
+
+
+
+Best platform to send S$1,000 to Philippine Peso (PHP)
+
+
+
+ RateFeesTotal Amount To Receive
+
+
+
+
+Instarem38.8788 PHP2.50 SGD
+(0.25%)38,782 PHP
+
+
+Transferwise38.8895 PHP10.43 SGD
+(0.65% + 4 SGD)38,484 PHP
+
+
+Worldremit38.4640 PHP3 SGD38,349 PHP
+
+
+SingX38.8838 PHP6 SGD38,650 PHP
+
+
+DBS38.7687 PHP0 SGD38,769 PHP
+
+
+
+Best platform to send S$1,000 to Indonesian Rupiah (IDR)
+
+
+
+ RateFeesTotal Amount To Receive
+
+
+
+
+Instarem10,634 IDR2.50 SGD
+(0.25%)10,607,685 IDR
+
+
+Transferwise10,636 IDR7.46 SGD
+(0.6% + 1.50 SGD)10,556,364 IDR
+
+
+
+Worldremit10,500 IDR3 SGD10,468,665 IDR
+
+
+SingX10,636 IDR10 SGD10,529,640 IDR
+
+
+DBS10,309 IDR0 SGD10,309,278 IDR
+
+
+
+Best platform to send S$1,000 to Malaysian Ringgit (MYR)
+
+
+
+ RateFeesTotal Amount To Receive
+
+
+
+
+Instarem2.9786 MYR2.50 SGD
+(0.25%)2,971 MYR
+
+
+Transferwise2.9797 MYR7.46 SGD
+(0.5% + 2.50 SGD)2,957 MYR
+
+
+Worldremit2.9560 MYR3 SGD2,947 MYR
+
+
+SingX2.9803 MYR6 SGD2,962 MYR
+
+
+DBS2.9464 MYR0 SGD2,946 MYR
+
+
+
+Best platform to send S$1,000 to Chinese Yuan (CNY)
+
+
+
+ Rate 
+(per 1 SGD)FeeTotal Amount To Receive
+
+
+
+
+InstaremNANANA
+
+
+Transferwise5.0087 CNY19.70 SGD
+(1.5% + 5 SGD)
+4,910 CNY
+
+
+WorldremitRequires number in China so we didn't try
+
+
+SingXNANANA
+
+
+DBS4.9505 CNY0 SGD4,951 CNY
+
+
+
+Seedly Personal Finance Community’s Insight
+
+Royston Lee: I use Transferwise. No issued so far and would recommend it
+Dixon Soo: Just try to use DBS USA REMIT, 0% service charge. I always use it to transfer funds to Gemini.
+Royston Cheng: DBS do have one of the better forex rates. However, I’ve been using Transferwise for the last 4 years. I was one of the earlier users. Have never looked back ever since.
+Siti Putri: Just do DBS remit same day transfer. I transfer 4-digits too every month from DBS to my interactive broker account to invest. I find the exchange rate reasonable and it is free and 1 day transfer fast.
+
+If you have any questions, head over to our Seedly Q&A to get your questions answered or read different perspectives as well. Check out our Seedly blog for more unbiased opinions on your personal finance journey.
+Share with us if you have any experience with online remittance platform or even a better alternative by commenting below! Also, don’t forget to share this with your friends!
+I’ll see you in the next one, and until then, may the Personal Finance force be with you!
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

@@ -1,0 +1,243 @@
+
+
+< BACK TO MAIN BLOG
+
+
+P2P Lending Platforms: Seedin vs Funding Societies vs MoolahSense vs Capital Match vs CoAssets vs Minterest 
+
+
+
+
+Ming Feng
+
+
+19th June 2019 
+
+A stint in Bloomberg gifted me with a beer belly, which only grew larger when I moved on to become a Professional Trader. Now I turn caffeine into digestible finance-related content. You can contribute your thoughts like Ming Feng here.
+
+
+7 min readThere has been a ton of news surrounding Peer-to-Peer (P2P) platforms and the SME loans space in Singapore recently.
+Especially with Grab introducing their very own SME Working capital loans solution to an already seemingly crowded loans market.
+However, as a consumer, you may be considering how you can diversify into this new alternative form of investing and are currently wondering which is the best P2P lending platform in Singapore.
+In this article, we’re doing a detailed comparison between the six main players (correct as of 19 June 2019) in the Singapore P2P lending market. 
+In fact, if you’re keen to short cut your learning, we’re doing a SeedlyTV EP07 on 27th June 2019, Thursday at 8pm where we are inviting 4 CEOs of these P2P platforms together on ONE show to shed light on all things P2P.
+Pictured above: Happening on the SeedlyQnA platform SeedlyTV EP07 – P2P Lending in SG
+You can find out more at this FB Event link to be notified when we go LIVE. Scroll all the way down to find out more information about this SeedlyTV EP07 – P2P Showdown, as well!
+Disclaimer: P2P investing is a high-risk investment. This article does not constitute financial advice but is an unbiased comparison between the players in the Singapore market today. This is also non-sponsored, so we’re writing this from a consumer’s unbiased perspective.
+Peer-to-peer (P2P) Crowdfunding Platforms: Solving Issues with SME Loans
+One common challenge when running any business is funding. For young businesses especially, getting loans through the banks can be challenging due to a few reasons:
+
+The lack of collateral (necessary for bank loans)
+Young credit history (which makes banks reluctant to loan)
+Imperfect financial record
+Long processing time
+
+With peer-to-peer lending platforms in place, small businesses now have a new avenue to turn to, when in need of funding.
+How Do Peer-to-Peer Crowdfunding Platforms Work?
+
+
+P2P lending platforms connect the public to businesses in need of funding.
+Public investors can lend money to these businesses and get returns based on interest rates when borrowers repay the loans.
+
+Pros and Cons of investing in P2P Lending
+Pros
+
+Low Barrier of Entry: Low investment commitment (minimum investment of S$100, or less for some platforms)
+Diversification: Alternative investment products to diversify your portfolio
+Returns: Attractive returns of more than 10% usually (higher than inflation)
+Monthly Returns: Investment principal with interest earned returned to investors on a monthly basis.
+
+Cons
+
+High Risks: Given that the loans are for SMEs, there is a risk that investor lose their investment when the company defaults on payment
+Platform risk: If the platform (the middleman) you invest in closes down, your investments will not be managed effectively
+
+Read User Reviews  
+With our amazing community members, we have come together to write user reviews in a simple way to understand covering the pros and cons of each product and returns. 
+
+Do note that there is a MAS circular applicable to all licensed and regulated crowdfunding platform, where all platforms are required to publish their past 3 years’ performance on their websites.
+This can be found on their statistics page on their individual website.
+Real User Reviews on P2P Platforms
+
+Note: Default rates are as of Q2 2019’s statistics.
+The default rate for P2P lending mentioned above refers to loans that have late repayment of more than 90 days the in past 12 months.
+While having the lowest charges can be one of the considerations for your investment, there are definitely more factors to consider. Hence, real user reviews will definitely give a whole lot more insights to each product before you make a decision on the platform of your choice. 
+
+Comparison: Seedin, Moolahsense, Funding Societies, CoAssets, Capital Match, Minterest
+All the mentioned platforms are regulated by the Monetary Authority of Singapore (MAS). They were issued with Capital Markets Services License.
+We tried out all their onboarding process, and they are generally quite easy and does not take up much time.
+Here’s the ultimate comparison of P2P Platforms in Singapore:
+
+
+
+ TeamMethod2019 Q2 Default Rate
+(Late repayment of more than 90 days in past 12 months)FeesEntrySafety Net
+
+
+
+
+SeedinFounder
+(Edifice Pte Ltd)Business Term1%15%
+(on interest earned)$1,000 per campaignFunds handled by escrow agency, Vistra
+
+
+Funding SocietiesEx Management Consutant
+(Accenture, McKinsey)Business Term Loans, Secured Loan
+&
+Invoice Financing1.2%18%
+(on interest earned)$20 per campaign
+(initial deposit $500)Funds handled by escrow agency, Vistra
+
+
+Capital MatchEx Director
+(Rocket Internet, McKinsey)Business Term Loans
+&
+Invoice Financing<5%20%
+(on interest earned)$1,000 per campaign
+(initial deposit $1,000)Funds handled by escrow agency, Watiga Trust
+
+
+CoAssetsEx Director
+(Real Estate Research & Investment firm)Business Term0% 0%
+(on investors)$1,000 per campaignFunds handled by escrow agency
+
+
+MoolahSenseEx Vice President
+(Macquarie Capital)Business Term Loans
+&
+Invoice Financing13.64%1%
+(on all repayments)$100 per campaign
+(initial deposit $1,000)Funds held separately with OCBC
+
+
+MinterestEx BankersBusiness Term Loans
+&
+Invoice Financing0.68%15%
+(on interest earned)$50 per campaign
+(initial deposit $1,000)Funds handled by escrow agency, Vistra
+
+
+
+*Important Disclaimer: P2P investing is a high-risk investment. We cannot stress this enough!
+
+Funding Societies
+
+History: Kelvin Teo and Reynold Wijaya founded Funding Societies in 2015 while studying for their MBA at Harvard. Prior to Funding Societies, Kelvin is a management consultant at Accenture and McKinsey & Co., while Reynold is a leading executive in a family business conglomerate in Indonesia.
+Funding: Series A (2016) – US$7.5M | Series B (2018) – US$25M. Backers include SoftBank Ventures Asia, Sequoia Capital, Alpha JWC Ventures, LINE Ventures, and others.
+Interface: Modern, clear and rather easy to use.
+Has a statistics page to allow a quick overview of some of their numbers.
+Pricing: 18% of the interest rate earned from investors
+Loans funded: More than S$400 M as of 21 February 2019 (regional)
+Rate of default: 0.88% as of 21 February 2019 (regional). This is, however, a combination of all the countries they operate in and we believe that Indonesia might have bumped up the number a little.
+Risk Management:
+Borrowers: Credit assessment is based on the company’s cash flow (based on past financial data and upcoming projects), and the company/owner’s capacity & willingness to repay the loan. Personal (usually company directors) or corporate guarantor is required. These details are summarised in the form of the factsheet for every loan, and accessible by investors before and during crowdfunding.
+Platform: Funding Societies holds the investors’ funds in a trust account. Should they become insolvent one day, the funds will continue to be handled by an escrow agency, Vistra. Loan agreements in place will continue to be valid and a reputable agency will be assigned to fulfil the service duties.
+Skin in the game: Funding Societies’ founders invest a bit of their money in every loan they dispatch.
+
+Funding Societies User Reviews
+
+Seedin
+
+History: Established in 2013 with the vision to connect local businesses, SeedIn has facilitated over SGD $2 Billion to SMEs across Asia Pacific.
+Funding: Unknown
+Interface: Modern, clear and rather easy to use.
+Best Pricing: 15% on interest earned
+Loans funded: $2.88 billion (Across Asia Pacific as of December 2018)
+Rate of default: 0% so far
+(Note: Loans are considered default when there is a late payment of more than 90 days)
+Risk Management:
+Borrowers: There are many factors that go into Seedin’s credit decision making process. There is a minimum requirement in that the businesses to be either registered as a Singapore Private Limited or Limited Liability Partnership Entity(s).
+Platform: Seedin holds the investors’ funds in a trust account. Should they become insolvent one day, the funds will continue to be handled by an escrow agency, Vistra. Loan agreements in place will continue to be valid and a reputable agency will be assigned to fulfil the service duties.
+
+Seedin User Reviews
+
+MoolahSense
+
+History: First crowd-financing campaign in year 2014. Founded by Lawrence Yong who was a Vice President at Macquarie Capital before he founded MoolahSense.
+Funding: Undisclosed. Seed round led by East Ventures and Pix Vine Capital.
+Interface: Modern, clear and easy to use
+Has a statistics page to allow a quick overview on some of their numbers.
+Best Pricing: 1% on repayment.
+Loans funded: $37.9 million as of 11 October 2017
+Rate of default: 3.48%
+Risk Management:
+Borrowers: Credit assessment model that assesses potential Issuers according to the nature and outlook of the industry they operate in, the strength of their financials and overall business model as well as the background and character of its Directors.
+Platform: Should Moolah Sense become insolvent one day, DP Information Group to transfer servicing function to ensure that investors continue to receive monthly repayments on the loans that have been dispatched.
+
+MoolahSense User Reviews
+Capital Match
+
+History: Established in 2014 to create a more inclusive channel for companies to access debt financing and for investors to generate strong fixed-income returns. Founded by Pawel Kuznicki who was a tech entrepreneur with venture development before founding Capital Match.
+Funding: Raised US$710K from Series A in August 2015. Investors include Innosight Ventures, Crystal Horse Investments, CE-Tech Invest.
+Interface: More heavy on numbers, fewer graphics.
+Best Pricing: The price quote on the platform to investors are net of fees. The net interest (net of all fees) per loan from 14% to 35% annualized with an average net interest of 22%.
+Loans funded: $54.6 million as of 11 October 2017
+Rate of default: 5%. Take note that Capital Match is on invoice financing, hence a rate of below 5% is rather healthy.
+Risk Management:
+Borrowers: Invoice financing offers more secured arrangement over unsecured loans. Only invoices issued to large debtors (corporates, government entities etc.) are accepted, and Capital Match always verifies invoices and in most cases redirect the payment from a large debtor to our bank account. This allows Capital Match a high level of control of the repayments.
+Platform: Should Capital Match become insolvent one day, investors continue to receive monthly repayments on the loans that have been dispatched.
+
+Capital Match User Reviews
+
+CoAssets
+
+History: Established in 2013, CoAssets is Southeast Asia’s first public listed crowdfunding site with offices in Singapore, Australia, Malaysia, China and Indonesia. Founded by Getty Goh who founded Ascendants Assets Pte Ltd, a real estate research firm before founding CoAssets.
+Funding: Listed on the Australian Securities Exchange (ASX)
+Interface: Modern, clear and rather easy to use.
+Best Pricing: 0% on investors. Charges 3%-5% on the fund raised
+Loans funded: $9.5 million as of 31 August 2017
+Rate of default: 1.47% write off rate
+Risk Management:
+Borrowers: Investors’ funds are held by a licensed escrow agent. Should they become insolvent one day, the funds will continue to be handled by an escrow agency. Loan agreements in place will continue to be valid and a reputable agency will be assigned to fulfill the service duties.
+Uses CoAssets Risk Assessment Model (CRAM) that was developed together with Ernst & Young (EY) to evaluate the companies they dispatch loans to. 
+Platform: Should CoAssets become insolvent one day, investors continue to receive monthly repayments on the loans that have been dispatched.
+
+CoAssets User Reviews
+
+Minterest
+
+History: Recently recognised as the top 25 Fintech Companies in Asia in 2017 by APAC CIO Outlook, Minterest is founded by a team of former bankers. Founded by Charis Liau and Ronnie Chia whom both worked together in the same bank for more than 10 years. 
+Funding: Founders and seed investors
+Interface: Modern, clear and rather easy to use.
+Best Pricing: 0% on investors.
+Loans funded: $53 million as of 3 October 2019
+Rate of default: 0.68% 
+(Note: Loans are considered default after 2 months of non-payment)
+Risk Management:
+Borrowers: Minterest has its proprietary credit assessment model that reflects both quantitative and qualitative factors taking into account business and financial risks of each borrower and their respective financing requirements. Data is also sourced from third party independent information providers (eg. Dun & Bradstreet, Credit Bureau Singapore) etc. More than 200 data points are processed through their proprietary model to generate a MintGrade rating.
+Platform: Minterest holds the investors’ funds in a trust account. Should they become insolvent one day, the funds will continue to be handled by an escrow agency, Vistra. Loan agreements in place will continue to be valid and a reputable agency will be assigned to fulfil the service duties.
+
+Minterest User Reviews
+Conclusion: Seek to mitigate your risks with P2P investing
+Should you decide to invest in any of the P2P platforms, do take note:
+
+P2P investing is a high-risk investment. Only invest in the portion of your money set aside for risky investments.
+Always diversify when investing in P2P. Eg. Instead of throw all of your S$1,000 into one company on the platform, split them up into 10 companies of S$100 each.
+Diversify your investment into companies across different industries.
+
+
+BONUS: P2P Showdown – How You Can Start Investing With P2P platforms?
+
+Do you still have questions about P2P lending?
+Then you’ll want to tune in to Seedly TV EP07 where we have assembled the head honchos from all of the P2P lending platforms:
+
+Getty Goh (CEO, CoAssets) 
+Pawel Kuznicki (CEO, Capital Match)
+Ronnie Chia (CEO, Minterest) 
+Kelvin Teo (CEO, Funding Societies)
+
+And they’ll be sharing about:
+
+What is P2P lending about?
+Who should be looking to invest via P2P Lending?
+How much do you need to get started investing?
+How to mitigate your risk on P2P lending platforms?
+Why this could be a way to grow your wealth over a long time period?
+
+They’ll also be taking questions LIVE. So be sure to tune in on 27 June 2019, Thursday from 8 – 9pm.
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

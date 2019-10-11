@@ -1,0 +1,138 @@
+
+
+< BACK TO MAIN BLOG
+
+
+What Nikko AM ETFs’ Smaller Board Lot Size Mean For You As An Investor 
+
+
+
+
+Kenneth Fong
+
+
+19th August 2019 
+
+Editor of Seedly's blog. Owner of a 4-room HDB BTO and married to a financial clutz. Probably the closest to an adult you can find on the Seedly team. You can contribute your thoughts like Kenneth here.
+
+
+2 min read
+With effect from 19 August 2019, Nikko Asset Management Asia Limited has reduced its board lot size of four exchange-traded funds (ETFs) from 100 units to 10 units.
+The four ETFs that are affected are:
+
+ABF Singapore Bond Index Fund (SGX: A35)
+Nikko AM Singapore STI ETF (SGX: G3B)
+NikkoAM-StraitsTrading Asia ex Japan REIT ETF (SGX: CFA)
+Nikko AM SGD Investment Grade Corporate Bond ETF (SGX: MBH)
+
+This is good news for retail investors, like you and I, as we have more flexibility when it comes to investing our hard-earned money.
+For beginner investors who are just starting out, here’s why this announcement is good news for you.
+Easier To Build More Balanced And Diversified Portfolios
+Let’s say you choose to build a portfolio with only two ETFs: 50% allocation in stocks and 50% allocation in bonds.
+You decide to go with:
+
+Nikko AM Singapore STI ETF (SGX: G3B) for stocks
+ABF Singapore Bond Index Fund (SGX: A35) for bonds
+
+There are OF COURSE other stocks and bond options that may be better, there’s the whole theory behind why your portfolio allocation should be reflective of your years in age (read: becoming more defensive as you grow older), there’s also (arguably) the problem of over-concentration of your portfolio in the Singapore market without diversifying globally…
+Source: imgflip
+But bear with me here.
+This is JUST for illustration.
+As of 16 Aug 2019 when the market closed, Nikko AM Singapore STI ETF costs $3.22 a share, while ABF Singapore Bond Index Fund costs $1.19 a share.
+Assuming you have $500 to invest every month, you have $250 for stocks and the remaining $250 for bonds.
+.
+.
+.
+Here’s the problem.
+Before today, if you buy a minimum of one lot (100 shares) of Nikko AM Singapore STI ETF, it’ll cost you $322 (I’m not including brokerage fees and etc. for the sake of simplicity here).
+See the problem? You’re already dipping into your bond funds.
+With this reduction in board lot size for these Nikko AM managed ETFs, you can now buy seven lots (70 shares) of Nikko Am Singapore STI ETF which will cost you $225.40.
+And that’s well within the budget.
+Any additional funds can be rolled over to the next month or to build up an emergency war chest for when there’re good deals to be had.
+Improve Liquidity And Trading Volumes
+You’ve probably heard or read about investing in the Straits Times Index as a simple strategy for beginner investors seeking exposure to Singapore’s market.
+
+The two most popular (arguably) options in the market right now are SPDR Straits Times Index ETF (SGX: ES3) and Nikko AM Singapore STI ETF (SGX: G3B).
+
+Read more: A Singaporean’s Guide to STI ETF: Nikko AM vs SPDR STI ETF
+While the Nikko AM STI ETF has lower liquidity and trading volume as compared to the SPDR STI ETF, this reduction in board lot size should improve that across all four Nikko AM managed ETFs.
+The smaller lot sizes should also allow robo advisors and portfolio managers to allocate small unit sizes of ETFs more efficiently as well.
+Beware Of Brokerage Commission Fees
+Back in 2015 when the Singapore Exchange announced that it was reducing the standard board lot size from 1,000 units to 100 units, most brokerage firms did not adjust their commission fees.
+So considering that this reduction is only for four Nikko AM managed ETFs…
+It’s a sure bet that none of the brokerages are changing their commission fees either (as of time of writing).
+In fact, here’s a look at what the current online brokerage fees in Singapore are:
+Stock Brokerage (online) Fees Comparison in Singapore
+
+
+
+Brokerages FirmMinimum FeesTrading Fees (based on contract amount)
+(S$)
+
+
+
+
+ <$50K  $50K to $100K $100K
+
+
+Stock Holding: CDP
+
+
+KGI Securities
+(formerly AmFraser)$250.275%0.22%0.18%
+
+
+CGS-CIMB Securities$250.275%0.22%0.18%
+
+
+DBS Vickers$250.28%0.22%0.18%
+
+
+Maybank Kim Eng$250.275%0.22%0.18%
+
+
+Lim & Tan Securities$250.28%0.22%0.18%
+
+
+Phillips Securities (Poems)$250.28%0.22%0.18%
+
+
+OCBC Securities$250.275%0.22%0.18%
+
+
+UOB KayHian$250.275%0.22%0.20%
+
+
+RHB Securities
+(formerly DMG)$250.275%0.22%0.18%
+
+
+Stock Holding: Custodian
+
+
+FSMOne.com$100.08%0.08%0.08%
+
+
+Citibank$280.25%0.20%0.18%
+
+
+Standard Chartered$100.20%0.20%0.20%
+
+
+Saxo Capital Markets$9-$150.10% to 0.12%0.10% to 0.12%0.10% to 0.12%
+
+
+
+While smaller lot sizes mean higher liquidity (potentially), it does not mean that you should buy and sell often.
+The reason is simple.
+Your online brokerage will charge commission fees for every transaction you make. When you buy shares, you get charged. And when you sell them, you get charged as well.
+So if you do plan to trade often, it’s in your interest to choose a brokerage account with low commission fees.
+And if you’re a small-time investor, it’s important to take note of the minimum commission fees that will be charged regardless of how little you’re trading.
+Looking at the table above, many brokerages charge a minimum sum of $25 per transaction which could eat up your profits.
+And frankly, it’s damn siao to be paying that amount when you’re investing something like $500 a month.
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

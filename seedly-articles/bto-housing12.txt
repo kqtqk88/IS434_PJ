@@ -1,0 +1,175 @@
+
+
+< BACK TO MAIN BLOG
+
+
+Hidden Fees And T&Cs To Take Note When Choosing An Electricity Retailer 
+
+
+
+
+Kenneth Fong
+
+
+11th July 2019 
+
+Editor of Seedly's blog. Owner of a 4-room HDB BTO and married to a financial clutz. Probably the closest to an adult you can find on the Seedly team. You can contribute your thoughts like Kenneth here.
+
+
+7 min read“By the way, how much are we paying for electricity?” asked the wife recently, while I was looking through our mail.
+I picked out the utility bill and handed it to her, “Nah.”
+“What! We’re paying $100+ every month?! So ex, sia… My friend is only paying $60 a month leh.”
+“Maybe it’s because she’s not sleeping in air-conditioned comfort every…”
+“I think she switched to one of those electricity retailers on the Open Electricity Market,” quipped the wife while completely ignoring what I said.
+She added, “Maybe we should do that too! WE just need to find the cheapest electricity retailer and switch!”
+
+And by ‘we’, she means that I need to go and figure it out while she chills in bed with her Kindle.
+
+TL;DR: Should I Choose An Electricity Retailer Solely Based On Price?
+Lucky for you, I’ve become an expert (sort of) after going through tonnes of electricity retailers’ fact sheets, hidden fees, as well as their terms and conditions.
+
+Here are some – if I daresay – equally important things to consider when choosing an OEM retailer:
+
+Administrative fee
+AMI meter installation fee
+Auto-renewal of contract clause
+Carbon tax
+Early termination charges
+Late payment fee
+Paper bill
+Security deposit
+Transmission loss factor
+U-Save GST Voucher
+
+Want even more help in deciding which electricity plan is the best for you?
+Why not check out Seedly’s Comparison Tool and read real user reviews to make the best decision?
+
+ 
+
+Interesting Things I Learnt About The Open Electricity Market
+While doing research on the various electricity retailers on the market, I realised that both retailers and consumers have been focused on one thing, and one thing only: price.
+And that’s a big mistake.
+When I started going through the various fact sheets and exploring the murky depths of the “Terms and Conditions” which EVERYBODY reads through line by line before signing on the dotted line (read: No. Nobody does that.)
+I discovered that there’re more factors to consider before deciding which retailer to go for.
+Here’s what I found:
+1) Administrative Fee
+This varies from retailer to retailer and should actually be called the “Like that also can?” fee because there really aren’t any laws governing this.
+It’s also a very good reason why you should read the fine print before signing anything.
+For example, iSwitch charges a $4.95 (excluding GST) monthly service charge for the IT systems and infrastructure that they have put in place to better serve their customers.
+Source: iSwitch
+For those who hate math, it’s basically a $5.30 (after GST) Service Charge that’s tagged onto your monthly electricity bill. So remember to factor that in when choosing a plan from iSwitch.
+Tuas Power, on the other hand, charges a one-time administrative fee of $53.50 (after GST) if an applicant signs up on behalf of the account holder and fails to provide them with the mandatory supporting documents.
+Source: Tuas Power
+So… Just make sure to submit ALL your necessary documents on time!
+
+2) Advanced Metering Infrastructure (AMI) Meter Installation Fee
+According to Energy Market Authority (EMA) Singapore, advanced meters or AMI meters allow electricity consumption to be measured digitally at half-hourly intervals.
+If you’re wondering, “Wait a minute. Then how is SP Group currently taking electricity readings?”
+Well… It’s done manually.
+cue gasps
+An SP Group rep comes down personally, once every 2 months to take a reading via your analogue meter. The first month is an estimation of your consumption, while the second month will be accurate to the reading taken.
+The new AMI meter will eliminate the need for physical readings to be taken because everything will be done digitally.
+And just in case you’re wondering what an AMI meter looks like:
+Source: Hardwarezone
+Also, here are some commonly asked questions:
+1) Do I Need To Install An AMI Meter If I’m Switching To An Electricity Retailer?
+No. It’s completely optional.
+In fact, I contacted SP Group and learnt that in the not too far-off future there will be a nationwide upgrade of analogue meters to AMI meters.
+2) How Much Does It Cost To Have An AMI Meter Installed? And How Do I Go About Doing It?
+If you wish to have an AMI meter installed, you can apply for it through your chosen electricity retailer.
+In turn, they will work with SP Group to install the AMI meter for you. It will cost you $42.80 (after GST) regardless of which retailer you approach for the AMI meter installation.
+3) Can I Have An AMI Meter Installed If I’m Still On SP Group?
+No.
+You can only choose to have an AMI meter installed IF you choose to purchase electricity from the open electricity market. If you’re sticking to SP Group, then you’ll just have to wait for the eventual upgrade – which is free by the way – to get an AMI meter.
+4) How Do I Know If I Have An AMI Meter Currently Installed On My Premises?
+If you’re still unsure after looking at your electricity meter, all you have to do is contact SP Group at [email protected] or 1800-233-8000 to find out.
+
+3) Auto-Renewal Of Contract Clause
+According to EMA, “If you choose a contract with automatic renewal, the retailer must offer a renewed electricity rate that is lower than the regulated tariff at the point of renewal.”
+This is a good thing because retailers cannot charge you 18 cents per KWH one day and then automatically renew you on a contract which charges you 50 cents per KWH.
+FYI, almost ALL electricity retailer contracts include this automatic renewal clause.
+For reference, here is Ohm Energy‘s Fixed Ohm plan’s clause
+Source: Ohm
+Most retailers are also required to inform you of the renewal “within 30 calendar days from the start of the renewed contract term” but you’ll also have to inform them of your choice, usually no later than 8 to 10 business days prior to the expiry date of your contract.
+So Why Is This Potentially An Issue?
+Notice how every retailer has crazy promotions and super low rates? The thing is, these rates are only for new sign-ups and will only last for as long as the promotional period.
+Once your contract expires, you’ll be automatically renewed onto the same plan which may or may not be at a vastly different rate from the promotional one which you sign up for initially.
+So it’s a good idea to be aware of when your contract expires, and make sure that you apply for termination before it is too late!
+
+4) Carbon Tax
+Just so you know, we’re ALL subject to a carbon tax under the Carbon Pricing Act (CPA) – effective since 1 Jan 2019.
+Some power plants and the retailers they work with, pass this cost to consumers. Which is why we’re all given $5 more per quarter for our U-Save GST Voucher to offset this tax – for this 2019 at least.
+So how much is this tax, you ask?
+Source: NEA
+Too cheem? Here it is in simpler English.
+It costs power-generating companies $5 for every tonne of emission they produce to create electricity. The current emission factor set by EMA is 50.03kg CO2-e/GJ, and carbon price per MWh of generation output is $1.84/MWh.
+And… here it is in simpler-er English.
+ For a typical 4- to 5-room HDB flat, the monthly carbon tax is around $0.60 to $0.80.
+So if you wish to avoid this tax, you’ll want to look for retailers who absorb the carbon tax.
+
+5) Early Termination Charges
+This really varies A LOT between retailers.
+Here are Best Electricity‘s charges:
+Source: Best Electricity
+Ohm Energy charges a flat $42.80 (after GST) for every remaining full month left in your agreement term:
+Source: Ohm Energy
+While Tuas Power charges a $200 flat rate:
+Source: Tuas Power
+
+6) Late Payment Fee
+This one’s pretty standard.
+It’s a 1% interest per month on the unpaid outstanding balance.
+And if you’re going, “Aiya, only 1% what…”
+Do yourself a favour and read this to find out what that 1% a month in interest could grow into.
+
+7) Paper Bill
+Retailers such as Best Electricity, Ohm Energy and Tuas Power have integrated SP Group billing. Meaning you don’t need to do anything as you will still see your electricity bill on the same utility bill.
+For the other retailers like Geneco, you don’t have the option of a hardcopy paper bill even if you would like to pay for it.
+Source: Geneco
+Whereas retailers like Keppel Electric charges $2.14 per paper bill if you opt-in for it.
+Source: Keppel Electric
+
+8) Security Deposit
+Thanks to regulations imposed by the government on the Open Electricity Market, it’s been mandated that electricity retailers “should not be collecting more than twice your average monthly electricity bill as a security deposit from you”.
+Sunseap currently does not require you to pay a deposit (on top of the one you left with SP group if you’re going “What ‘another deposit’?!”).
+Source: Sunseap
+Diamond Electric also currently does not require you to pay a deposit. However, they have listed the amounts for the various house types as a reference:
+Source: Diamond Electric
+Whereas most of the other retailers, like Ohm Energy and Geneco would need to hold 65% of the security deposit as determined and published by SP Group for its residential premises.
+And just in case you’re wondering why you need to leave a security deposit…
+Remember leaving one when you opened an account with SP Group as part of the collection of your BTO keys at HDB Hub?
+Yeah…
+It’s just to ensure that you can pay your last bill should you decide to end your relationship with the electricity retailer.
+
+9) Transmission Loss Factor
+Transmission Loss Factor (TLF) accounts for the energy that’s lost as electricity passes through the system to get to your home. Depending on the retailer, TLF charges may or may not be passed to you.
+Since our power is delivered at 230V, the current stipulated transmission loss factor for that is 1.031651.
+Source: Open Electricity Market
+The best-case scenario: You want to choose a plan where TLF charges aren’t passed to you.
+Currently, most retailers are waiving the TLF factor to stay competitive. But this might change anytime so double-check with your retailer before signing anything.
+Oh, and even within the same retailer, different plans may or may not be charged on usage adjusted for TLF (read: inclusive of TLF).
+A good example of this is Ohm Energy who will bear the TLF charges (for now at least) if you choose their Fixed Ohm plan. However, you will be charged on usage adjusted for TLF if you went for the Market Ohm plan instead.
+Source: Ohm Energy
+This probably explains why Fixed Ohm is priced at 18.90 cents per KWH whereas Market Ohm is a flat $10.70 a month – the latter seemingly cheaper.
+Conclusion? You gotta read the fine print!
+
+10) U-Save GST Voucher
+Remember the GST Vouchers that were announced for 2019?
+Source: Ministry Of Finance
+You’re probably panicking NOW and are wondering “What happens to my U-Save GST Voucher?” if you decide to switch to an electricity retailer…
+Relax. You won’t lose it.
+It’s automatically credited every quarter, to the utility account of the HDB household, which means that you’ll continue to receive it.
+If you’re wondering why your vouchers weren’t used to offset your electricity bill, it’s because your U-Save GST vouchers will be used to offset your SP Group bills first. Any excess that is left over after settling your water and gas bills will then be used to pay your electricity retailer.
+
+A Shocking Realisation
+Did any of these charges and considerations come at a… Shock? (Haha… Okay, not funny.)
+If you’re still confused and don’t know how to pick the best electricity plan for yourself, why not use Seedly’s Comparison Tool and read real user reviews to make a better decision? It’s free to use and lists ALL the different plans from the various retailers in Singapore, along with credit card promos and deals.
+All it takes is just a few clicks and you just might SAVE BIG on your next electricity bill…
+I Want To Save Money On My Electricity Bill!
+Know of any other hidden fees or terms and conditions that everyone else should know about? Let me know in the comments below!
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

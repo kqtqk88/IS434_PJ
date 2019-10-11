@@ -1,0 +1,71 @@
+
+
+< BACK TO MAIN BLOG
+
+
+The Beginner’s Guide to Tracking Credit Card Rewards (4 SIMPLE STEPS) 
+
+
+
+
+Ruth Lum
+
+
+10th April 2019 
+
+Breaking down 'chim' finance knowledge into manageable pieces so you don't have to. You can contribute your thoughts like Ruth here.
+
+
+2 min read“Keeping track of rewards points and miles is easy.” – said nobody ever.
+Do you find it daunting to track your credit card rewards? Do you lack the time to intricately track your spendings and make sure you’re hitting the reward tiers? Here’s the guide for you.
+When we say “track reward points”, we refer to anything from points that might be expiring soon, deadlines for completing bonus spending requirements, when points are credited, and what loyalty programmes you’re entitled to. AIN’T NOBODY GOT TIME FOR THAT?!
+Failure to make payments on time could negatively impact your credit score and nobody wants that.
+
+A common question about tracking CC rewards posted on Seedly’s Q&A platform
+
+Kudos to those who attempt to game the rewards points system – we’re curious how they keep track! Question via Seedly’s Q&A platform.
+While it’s great that banks entice you with all these attractive points and deals, we often struggle with the same set of challenges when it comes to tracking rewards.
+
+You don’t have time
+Banks (for some strange reason) don’t help you keep track by calendar month (hmm…)
+Excel spreadsheets scare you
+
+Sound familiar to you? This guide is for you.
+Let’s take the OCBC 365 Credit Card for example.
+
+The main cashback clause states: “To enjoy the above cashback, you need to spend a minimum of S$800 based on posted transactions in a calendar month. If you spend less than S$800, a flat 0.3% cashback is awarded.”
+This card rewards you for spendings on dining, groceries, land transport, petrol, travel etc. And if you’re familiar, you would know that banks like DBS and OCBC do not have the function for you to sort your transactions by categories (IKR?!)
+For those who aren’t on the OCBC app, this is how the OCBC ibanking transaction page looks like:
+
+Besides making transfers, keeping you up to date on your transactions and making sure you’re not involved in any credit card syndicates, that’s about all that I do on the app.
+Identifying THE PROBLEMS with tracking by bank apps or doing it manually.
+Short of doing everything manually, bank apps fall short in several crucial ways.
+
+Lack of category function
+Unable to compute how much spending per category
+Transaction labels appear like complicated codes
+
+It’s great that our bank tokens are now pretty much obsolete, but our bank apps are still not comprehensive enough to help us track credit card rewards.
+
+Image credit: keropok.com
+Resolving the problems by syncing your bank using the Seedly app
+Step 1: Sync your bank accounts to view transactions
+Step 2: Filter all transactions via required categories
+So if your credit card calls for a minimum spending of $800 on specific categories, THIS IS WHERE YOU’LL SEE THE LIGHT.
+Step 3: Indicate the calendar month you’re tracking
+Step 4: Pull down to refresh and check spending totals
+
+Tracking your credit card spendings and rewards via the Seedly expense tracker.
+ 
+Yep, the app tells me I sadly did not hit my minimum spending last month and hence will not qualify for the cashback rewards. 🙁
+
+Final Thoughts
+For someone who just forayed into the world of credit cards and has little to no clue how to make use of the rewards, the Seedly app does it for you.
+This, coupled with the fact that time is of the essence and it takes up precious time trying to track everything on an excel sheet, why not let a machine (app) do it for you?
+Use this as your best weapon in tackling your finances.
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

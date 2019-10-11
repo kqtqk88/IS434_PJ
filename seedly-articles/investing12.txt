@@ -1,0 +1,123 @@
+
+
+< BACK TO MAIN BLOG
+
+
+How To Detect Manipulation And Fraud In Stocks 
+
+
+
+
+Isaac Chan
+
+
+22nd September 2019 
+
+An aspiring quant (with a background in Finance) who is comfortable with numbers, loves obscure investment strategies and speaks Disney fluently. You can contribute your thoughts like Isaac here.
+
+
+5 min readFraud and manipulation are one of the top concerns investors have when investing in stocks from smaller and more unprofitable companies.
+If a company’s financial statements can’t be trusted, there will be little to base your investment thesis upon. 
+Hence, having some tools to detect manipulation and fraud can be very helpful.
+In this article, I’ll be exploring two techniques to detect such behaviour.
+But before we dive into the techniques, it is important to note that fraud and manipulation aren’t just committed by small companies…
+Disclaimer: Opinions expressed in the article should not be taken as investment advice. Please do your own due diligence.
+The Fall Of A Wall Street Darling: Audit Failure And Company Bankruptcy
+
+If you are a millennial like myself, you might have been too young (then) to be aware of the Enron scandal and bankruptcy which happened in 2001.
+Before Enron went bankrupt, it was one of the largest energy and commodity companies in the world, with a market capitalisation of USD$60 billion and earnings of almost $USD1 billion. 
+The company was also named Fortune Magazine’s “Most Innovative Company” for six years in a row.
+Many claimed that Enron was run by ‘the smartest guys in the room’. Professional investors and analysts all thought that the company had very bright prospects.
+Source: Time Magazine
+However, it was revealed that the company had been artificially manipulating earnings through several accounting techniques, such as “Revenue Recognition”, “Mark-to-Market Accounting” and “Special Purpose Entities”. This was not easily detected as the financial statements were extremely complex and confusing.
+Source: Financial Times
+When the misdeeds of the company were revealed, the share price dropped from a high of USD$90 to less than USD$1 within a few months. 
+Shareholders filed a US$40 billion lawsuit, but the company declared bankruptcy eventually. 
+This scandal also led to the dissolution of Arthur Anderson, one of the big five accounting firms (now there is only the big 4), who was responsible for auditing Enron. 
+What Are Some Quantitative Strategies To Detect Fraud And Manipulation?
+Shocking right?
+Who knew that such a big and successful company could be guilty of fraud! We will revisit Enron in a bit.
+For now, let’s look at two quantitative techniques to detect such behaviour. 
+1. Scaled Total Accruals
+ 
+Source: University Of Southern California
+The Scaled Total Accruals (STA) method was developed by Dr Richard Sloan, a renowned academic in accounting and finance, during his time at the University of Rochester.
+He developed this method to detect the extent to which companies accrue their assets and earnings. The term accrual may sound foreign, but it just means how assets and earnings growth over time. 
+Companies can accrue assets through the use of different accounting techniques and policies. By doing so, they can make the company’s performance look much better than it is.
+One way that companies can manipulate earnings, is by delaying the write-down of money that customers owe them. This leads to the illusion that the company possesses more assets than it has, as well as reduce the losses that the company has incurred. 
+Source: The Telegraph
+Another technique to manipulate earnings is through the changing of depreciation and amortisation policies – which are non-cash expenses – to make it seem that the company is more profitable than it is.
+Sloan’s STA formula is built on how companies can potentially manipulate earnings:
+STA = (CA-CL-Dep) / Total Assets
+CA stands for the change in Current Assets minus the change in Cash.
+CL stands for the change in Current Liabilities minus the change in Long-Term Debt and the change in Taxes Payable.
+Dep refers to Depreciation and Amortisation expense. 
+I know. This all looks very complicated.
+Thankfully, Tobias E. Carlisle, a famous value investor, has helpfully provided a simple substitute for this formula:
+ STA= (Net Income – Cash Flow from Operations) / Total Assets
+Both variations of this formula focus on how working capital like receivables and non-cash expenses like depreciation can be used to manipulate earnings.
+The takeaway here?
+The higher the STA, the higher the chance that the earnings had been manipulated. 
+2. Beneish M-Score
+Source: Indiana University
+The M-score formula was developed by Dr Messod Beneish, a professor of accounting at Indiana University. He developed this formula by identifying earnings manipulators and extracting the common characteristics between these companies. 
+Essentially, the M-score looks at eight different financial ratios. I only focus on a few of the more interesting ones:
+Gross Margin Index
+This ratio measures the decrease in gross profit margin over time. The larger a decrease, the more likely a firm will manipulate earnings.
+This is similar to the intuition that companies that are not profitable, are more likely to manipulate earnings. 
+Sales Growth Index
+This index measures how much revenues have grown over time. The higher the revenue growth, the more likely the firm will manipulate earnings.
+That sounds counter-intuitive, but management often feels pressured for the company to maintain such performance in the future.
+Source: giphy
+This pressure can come from two areas.
+First, for some companies, management is compensated on whether they can maintain or grow performance. A drop in performance might mean a cut in their bonuses.
+Second, investors might think that the company can continue to have such growth rates, and therefore award the shares a higher price. If such positive expectations don’t materialise, share prices might drop. 
+In fact, Enron’s management had been pressured because of the company’s stellar performance in the past. To keep up with the glamour associated with the company, the management were motivated to play fast and loose with the financial statements. 
+Leverage Index
+This metric measures the change in the ratio of debt to total assets.
+The more debt the company takes on, the higher the risk that the company may not be able to pay off debts in the future.
+Source: giphy
+Loans and borrowings also come with specific agreements that might be breached by the company. To prevent such breaches, management might choose to manipulate earnings. 
+Revisiting Enron With The M-Score
+Source: CBS News
+The M-Score was published before the Enron scandal occurred. 
+In fact, using the M-Score technique, a few MBA students from Cornell University identified Enron as an earnings manipulator.
+Sadly, they uncovered this when Enron’s share price was trading at its peak and was still highly admired by professional investors. The glamour associated with the stock convinced them that there was nothing wrong with Enron. 
+Tobias E. Carslise, a renowned Deep Value Investor, also applied the M-Score to Enron before the Enron fraud was uncovered.
+The M-Score gave Enron an astounding 30% probability of being an earnings manipulator. 
+There were also red flags closer to when the fraud had been discovered.
+If more investors had applied the M-score to Enron, could they have avoided the company’s tragedy..?
+The Weaknesses Of These Two Strategies
+Lack Of Qualitative Information
+As with other quantitative strategies, the lack of qualitative information is a flaw of such techniques. This was what made famous investors, such as Warren Buffet and Seth Klarman wary of such mathematical techniques. 
+Source: giphy
+Many indicators are not captured in these two formulas because they are qualitative. 
+One of which would be the integrity of management, which can’t be recorded in any mathematical way.
+Another would be the life cycle of the business, which differs from business to business. 
+Historical Nature Of Strategies
+These quantitative strategies are often built on back-tests of data, which are historical by nature.
+These strategies may also have been developed by testing them in specific countries in a specific period.
+Over time, businesses and industries have evolved which might make these strategies less useful than before. 
+As these strategies are often developed and tested in the US markets, these may not be as useful in Singapore, or other Asian markets, that have different accounting standards and businesses. 
+How To Make Use Of These Strategies Today
+Combined With Other Quantitative Strategies
+Despite several weaknesses, I do think that these strategies can still be helpful for us.
+Especially with other quantitative value strategies, such as Ben Graham’s Net Current Asset Value and Joel Greenblatt’s Magic Formula, which I’ve talked about in my other articles.
+These strategies tend to focus on smaller companies and don’t include any way to exclude companies which might manipulate earnings.
+As such, the STA formula and M-Score can complement these strategies quite well. 
+Include Qualitative Analyses
+As mentioned, qualitative analysis is missing here.
+You should, therefore, look out for other indicators that might suggest that a company might be a manipulator.
+Hence, even if a potential investment looks safe based on the STA formula and M-score, you should not have complete faith in them. 
+Moreover, the qualitative factors to consider should include areas that are not captured by these formulas, such as management integrity. 
+Closing Thoughts
+Avoiding companies that are manipulators or frauds is a crucial step in investing.
+Studies have shown that companies that engage in unusually high accruals tend to have share prices that perform worse over time. 
+Warren Buffet has also suggested that if management is willing to be dishonest in the financial statements, then they are also more likely to be dishonest in other aspects of business management too. 
+The STA and M-score can be useful tools, but they should always be complemented with other techniques to make up for their weaknesses.
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

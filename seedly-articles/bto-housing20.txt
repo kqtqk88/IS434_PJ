@@ -1,0 +1,111 @@
+
+
+< BACK TO MAIN BLOG
+
+
+Singaporean’s Guide To Total Debt Servicing Ratio (TDSR) 
+
+
+
+
+Guest Contributor
+
+
+9th February 2019 
+
+You can contribute your thoughts like Guest here.
+
+
+3 min readFor Property Investing, the Seedly team worked closely with Property Guru, who is an expert in the field, to curate unbiased, non-sponsored content to add value back to our readers.
+Disclaimer: This is not a sponsored post. Opinions expressed in the article should not be taken as investment advice. Please do your own due diligence.
+If you have any questions, feel free to discuss them with Seedly Community here.
+
+What is the TDSR?
+The Total Debt Servicing Ratio (TDSR) is a framework to ensure that people borrow, and banks lend, responsibly.
+In a nutshell, the TDSR limits the amount borrowers can spend on debt repayments to 60 per cent of their gross monthly income.
+Unlike other cooling measures, which are expected to be temporary, the TDSR is a permanent structural reform that all banks and financial institutions must follow when assessing:
+
+housing loans
+the refinancing of housing loans
+loans secured by the property.
+
+Why was TDSR introduced?
+The TDSR was introduced to “strengthen credit underwriting practices by financial institutions” (ensure loans are only issued to borrowers who can afford them) and “encourage financial prudence among borrowers” (help borrowers consider the true budgetary impact of a mortgage).
+The TDSR standardises the framework banks use when assessing a potential borrower’s capacity to make loan repayments and helps prevent high-risk loans being issued.
+So how does the TDSR affect Singaporeans?
+The TDSR limits the amount you can borrow – your loan quantum – by ensuring your monthly repayments account for less than 60 per cent of your income.
+For HDB flats and ECs, mortgage repayments must not account for more than 30 per cent of a borrower’s gross monthly income, even if they have no other debt obligations.
+How does the TDSR impact my ability to secure finance?
+The calculation of the TDSR itself (see below example) is not difficult. However, partly as a result of other cooling measures, and partly because of tweaks made to close loopholes in the original framework, the actual mortgage calculation process has become much more restrictive:
+
+Loan-to-Value ratio limits apply (from a maximum of 80%, it is now down to 30%)
+new rules for loan tenure apply (now with a maximum tenure of 35 years)
+a stress-test interest rate (currently 3.5 per cent for residential properties) is used
+variable income and certain financial assets are subject to a haircut
+guarantors, mortgagors and borrowers are now effectively one and the same.
+
+In the case of HDB flats and ECs
+
+• a Mortgage Servicing Ratio of 30 per cent applies.
+
+In the case of joint borrowers, the TDSR is calculated based on the aggregate gross monthly incomes and debt obligations and:
+
+• the income-weighted average age of borrowers is used to determine loan tenure.
+
+How is TDSR calculated?
+The TDSR is calculated by dividing a borrower’s total monthly debt obligations by gross monthly income.
+Consider the following examples:
+Fixed income:
+
+Ben earns a fixed income of S$10,000 per month. The total of his credit card, car loan and personal loan repayments is S$4,500 per month.
+
+
+ 
+His TDSR threshold is S$6,000 (60% of S$10,000).
+If Ben wanted to apply for a property loan, under TDSR rules the maximum repayment he could make each month would be S$1,500 (S$6,000 – S$4,500). If he wanted a larger loan, he would need to pay off his outstanding debts.
+Variable income:
+Chris earns a fixed income of $7,000 per month plus rental income of $3,000 per month. For TDSR purposes, his variable income is subject to a 30 per cent haircut, so his gross monthly income is $9,100 ($7,000 + $2,100). His existing debt obligations total $4,500.
+
+ 
+Joint applications:
+Shirley has a fixed income of $2,500 per month and debt repayments of $1,000. Her husband’s gross monthly income is $5,000 and his debt repayments total $3,000.
+
+ 
+TDSR Exemptions
+For certain categories of borrowers whose existing loans exceed 60 per cent of their gross monthly income, the Government has issued exemptions to the TDSR framework.
+Owner-occupiers are exempted from the TDSR in cases where:
+
+they do not own any other property, and
+they do not hold any other property loans.
+
+From 1 September 2016, all owner-occupied residential properties, including those bought after the introduction of TDSR, may be refinanced above the TDSR threshold of 60 per cent as long as:
+
+the borrower commits, at the point of refinancing, to a debt reduction plan with his bank comprising a repayment of at least 3 per cent of the outstanding balance over a period of not more than 3 years.
+the borrower satisfies the bank’s credit assessment criteria.
+
+The original TDSR framework also included provision for financial institutions to grant property loans exceeding the 60 per cent threshold provided
+
+they are granted only on an exceptional basis
+they are subject to enhanced credit evaluation by the financial institution
+the reason/s for granting the loan and the details of the loan are reported to MAS.
+
+How does the TDSR apply when upgrading?
+For certain categories of borrowers whose existing loans exceed 60 per cent of their gross monthly income, the Government has issued exemptions to the TDSR framework.
+Owner-occupiers wanting to purchase a HDB flat or EC directly from a property developer are also exempted from the TDSR threshold provided:
+
+they will sell their existing property
+they own no other properties
+they hold no other property loans
+they meet the financial institution’s credit assessment criteria.
+
+
+Seedly Contributor: PropertyGuru
+
+ 
+Propertyguru aims to be the trusted advisor to provide Singaporeans with relevant content, actionable insights and world-class service.
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

@@ -1,0 +1,370 @@
+
+
+< BACK TO MAIN BLOG
+
+
+Which Job Do You Need to Afford Both a Home And a Car in Singapore? 
+
+
+
+
+Guest Contributor
+
+
+1st September 2017 
+
+You can contribute your thoughts like Guest here.
+
+
+2 min readEveryone dreams about one day owning a car and a home. However, this is not an easily achievable wish for most people: homes can cost hundreds of thousands of dollars, while Singapore is notorious for having extremely expensive car prices starting from S$100,000. Then, how much salary do you need to make this dream come true? As it turns out, quite a lot. In fact, 60% of the top 100 jobs in Singapore don’t pay enough for a person to be able to afford both a home and a car.
+How Much You Need to Make to Buy a Home and a Car
+According to ValuePenguin’s analysis, a person needs to make at least S$6,400 per month to afford getting a housing loan and an auto loan while not sacrificing their other expenditures. Here’s how we breakdown the math.
+
+First, an average 4-room HDB flat costs about S$500,000″ in Singapore. Realistically, most people will choose to make the minimum of 20% down payment, which is 20% S$100,000. To service such a loan over 30 years at an average cost of 2%, a person has to make a monthly installment of S$1,478.
+Then, there is another S$60,000 of car loan that you need to get in order to purchase an average car of around S$100,000. Servicing such a loan back at around 3% flat rate over 7 years requires a monthly payment of S$1,190.
+Lastly, there are living expenses and CPF contribution. Using the government’s monthly household expenditure survey, we estimated that an average person spends about S$2,500 per month. By adding all of the above figures together with another 20% CPF contribution, we arrived at a minimum monthly salary of S$6,400 to be able to afford a home and a car in Singapore.
+60% of Top 100 Jobs Don’t Make Enough to Afford a Home and a Car
+This finding really puts into perspective what it means to live in the most expensive city in the world. In fact, the cost of owning just an average home and an average car can be prohibitively expensive for a vast majority of the population. According to Ministry of Manpower’s annual occupational wage survey, it seems that 60% of the top 100 jobs in the country make less than the said S$6,400 that we calculated in our analysis.
+To arrive at this conclusion, we took the weighted average of the median gross income in 2015 and 2014 for 308 jobs that the Ministry of Manpower collected data surveyed. The result was quite striking. While doctors, managers, and executives made well in excess of S$6,400 required to afford a 4-room HDB and an average car like Toyota Corolla, even jobs that are normally regarded as “high paying” jobs like data scientists and financial analysts made median salaries of S$6,300 or less.
+Parting Thoughts
+Of course, this may not hold true for all the people out there. Our analysis here assumes that only one person will be earning an income to finance a family’s home and car purchases. A family with 2 working persons with S$5,000 of monthly living expenses could still afford a home with S$4,793 of monthly salary per person. In this case, top 80 jobs in Singapore made S$4,800 or more on average.
+Also, because we used the “median income” to assess the situation for an average person in each occupation, we underestimate how many jobs can really afford to own a home and a car in case a person is a top performer. If we repeat the same methodology using the 75 percentile income, i.e. the minimum income of the top 25% of each occupation, it turns out that about 80% of top 100 jobs make approximately S$6,400 or more. If you are trying to choose a career path, it may be a good idea to take this into account.
+When scanning our data below, it’s important to note that some professions like trade brokers have a highly volatile stream of income. Also, the MOM survey’s sample size for each profession differed dramatically between 2014 and 2015 for certain jobs like university lecturers, which we adjusted for by taking the weighted average of the median income for each occupation over the two years.
+
+This article first appeared on Value Penguin, a guest contributor on The Seedly Personal Finance blog.
+Editor’s note: In Singapore, the median pay is at S$3,500 and that is an interesting statistic to determine your pay-level here in SG as well.
+Occupation Income Table
+
+
+
+RankOccupationWeighted Average of Median Gross Wage Per Month (2015-2016)Sample Size
+
+
+
+
+1Ophthalmologist40,28098
+
+
+2Financial derivatives dealer/ Broker22,30968
+
+
+3University lecturer16,3681069
+
+
+4Trade broker 
+(including oil and bunker trader)25,02537
+
+
+5Specialist medical practitioner 
+(medical)24,823322
+
+
+6Foreign exchange dealer/ 
+Broker21,747124
+
+
+7Securities and finance dealer/ 
+Broker 15,810530
+
+
+8Chief operating officer/ 
+General Manager20,6364703
+
+
+9Managing director/ 
+Chief executive officer 21,0245116
+
+
+10In-house legal counsel 
+(except judiciary, ministries and statutory boards)16,796693
+
+
+11Ship broker15,50050
+
+
+12Sales professional 
+(institutional sales of financial products)11,1011142
+
+
+13Policy and planning manager13,157529
+
+
+14Financial/Insurance services manager 
+(eg financial institution branch manager)14,54311282
+
+
+15Hydrographic surveyor13,83170
+
+
+16Creative director 
+(advertising)13,147116
+
+
+17Marine superintendent engineer13,573142
+
+
+18Commodities derivatives broker17,06496
+
+
+19Software and applications manager11,9131036
+
+
+20Compliance officer/Risk analyst 
+(financial)12,5271638
+
+
+21Chief information officer/ 
+Chief technology officer11,6884178
+
+
+22Treasury manager12,804251
+
+
+23Human resource manager10,9713688
+
+
+24Network and communications manager11,404827
+
+
+25Business development manager11,3123860
+
+
+26Research and development manager11,214443
+
+
+27Budgeting and financial accounting manager 
+(including financial controller)10,9247331
+
+
+28Technical/Engineering services manager 
+(Eg shipyard manager)10,4656787
+
+
+29IT service manager10,741376
+
+
+30Journalist10,87459
+
+
+31Quality assurance manager10,5581192
+
+
+32Advocate/ 
+Solicitor (practising)10,800351
+
+
+33Postal service manager10,51376
+
+
+34Sales and marketing manager10,09210928
+
+
+35Wholesale trade manager9,7251546
+
+
+36Editor 
+(news and periodicals)9,910362
+
+
+37Manufacturing plant/ 
+Production manager9,4614575
+
+
+38Procurement/
+Purchasing manager9,5961647
+
+
+39Ship engineers and related professional9,830144
+
+
+40Administration manager9,0413823
+
+
+41Financial analyst (eg equities analyst, credit analyst, investment research analyst)8,2031323
+
+
+42Market research analyst8,122345
+
+
+43ICT sales professional8,956327
+
+
+44Health services manager9,2021757
+
+
+45Advertising/ Public relations manager8,888897
+
+
+46Information technology project manager10,191931
+
+
+47Customer service manager8,8181875
+
+
+48Financial/Investment adviser (eg relationship manager)11,3792990
+
+
+49Supply and distribution/ Logistics/ Warehousing manager8,3442338
+
+
+50Premises and facilities maintenance manager (including building security manager)7,9962251
+
+
+51Transport operations manager8,6262827
+
+
+52Building and construction project manager8,1342929
+
+
+53Human resource consultant (excluding executive search consultant)9,139367
+
+
+54Landscape architect8,150186
+
+
+55Park/ Garden/ Nature reserve manager8,09556
+
+
+56University, polytechnic and higher education teacher7,971242
+
+
+57Industrial safety engineer7,6031193
+
+
+58Data scientist7,836242
+
+
+59Management and business consultant8,6741585
+
+
+60Food and drink technologist7,55972
+
+
+61Social welfare manager6,680387
+
+
+62Database administrator7,021241
+
+
+63Civil engineer6,8492546
+
+
+64Building architect7,299727
+
+
+65Network/ Infrastructure architect, engineer and specialist6,7131947
+
+
+66Recreation centre manager6,925475
+
+
+67Medical and pharmaceutical products sales professional6,642384
+
+
+68Systems analyst7,0475090
+
+
+69Software, web and multimedia developer6,6812132
+
+
+70Information technology security specialist6,829743
+
+
+71Wellness centre manager (eg hair/ beauty/ slimming/ spa/ manicure/ massage)6,356155
+
+
+72Electronics engineer6,5325539
+
+
+73Call centre manager6,692136
+
+
+74Information technology testing/ Quality assurance specialist6,047251
+
+
+75Chemical engineer7,391321
+
+
+76Sports coach6,579133
+
+
+77Industrial and production engineer6,2766598
+
+
+78Chemist5,893542
+
+
+79Technical sales professional6,0082722
+
+
+80Clinical research professional6,324348
+
+
+81Travel agency manager5,632153
+
+
+82Artistic director (stage, film, television and radio)5,815116
+
+
+83Real estate agent6,200127
+
+
+84Biologist, botanist, zoologist and related professional5,995351
+
+
+85Aged care services manager6,16371
+
+
+86Applications/ Systems programmer6,1423663
+
+
+87Pharmacologist and related professional6,132272
+
+
+88Insurance sales agent/ Broker (including independent financial planner)7,095178
+
+
+89Mathematician, actuary, statistician and other related professional4,200523
+
+
+90Mechanical engineer5,8418004
+
+
+91Tax accountant6,00082
+
+
+92Telecommunications engineer6,380921
+
+
+93Environmental engineer5,78789
+
+
+94Petroleum and natural gas extraction technician5,903167
+
+
+95Medical diagnostic radiographer5,694505
+
+
+96Electrical engineer5,6801716
+
+
+97Accountant (excluding tax accountant)5,6232601
+
+
+98Education and training institution manager6,5502249
+
+
+99Advertising copywriter5,94571
+
+
+100Interior designer5,127459
+
+
+
+ 
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

@@ -1,0 +1,71 @@
+
+
+< BACK TO MAIN BLOG
+
+
+StashAway Introduces Its First Singapore-Focused Income Portfolio 
+
+
+
+
+Rachel Yeo
+
+
+10th September 2019 
+
+Breaking down complicated financial pieces into idiot-proof articles. You can contribute your thoughts like Rachel here.
+
+
+2 min readRetail investors can now choose to invest in a portfolio of Singapore-listed exchange-traded funds (ETFs) on StashAway, one of Singapore’s robo-advisor services.
+The new income portfolio consists of SGD-denominated ETFs that are traded on the Singapore Exchange, with a portfolio of up to 539 underlying securities that include government bonds, corporate bonds, REITs, and equities.
+ 
+TL;DR: Everything You Need To Know About Stashaway’s Singapore-Focused Income Portfolio
+
+
+ SGD-denominated ETFs that are traded on the Singapore Exchange
+539 underlying securities that include government bonds, corporate bonds, REITs, and equities
+Projected income of 3.75% per annum for the income portfolio 
+StashAway Risk Index at 12% 
+You need a minimum account balance of $10,000 to start investing in the portfolio 
+StashAway’s fees only apply when you first start to invest, and amount to ~1% a year. 
+
+0.8% annual fee to Stashaway
+Approx. 0.2% to the ETF manager
+
+
+Portfolio consists of 6 ETFs: Straits Times Index, SG Government Bonds, SGD Investment Grade Corp bonds, Asia high yield corporate bonds, S-REIT, Asia ex-Japan REIT. 
+
+
+The primary objective of the portfolio is to deliver reliable income, and those interested to invest are recommended to stay invested for 3 to 5 years under the portfolio.
+The projected income for the Singapore-focused income portfolio is projected at 3.75% per annum. This figure varies over time, and is dependent on market conditions.
+Below are screenshots of how your portfolio will look like, as well as your projected income. 
+
+Target asset allocation refers to how your assets are being allocated to different types of investments in your income portfolio. From the above example, 54% of your invested amount was put into Fixed Income, 35% to real estate, 10% in SG equities and 1% is held in cash. 
+
+In the projected income tab, you will be able to see your annual projected income, based on your principal amount. This is based on a 3.75% p.a projected income. In the above example, it is assumed that your principal amount is $100,000, and you will be getting a projected annual income of $3,750 SGD from that. 
+
+You can also check the frequency of your dividend payments. Different ETFs have different payout schedules, in annual, semi-annual and quarterly periods. 
+How Is Your Money Being Invested?
+This Singapore-Focused income portfolio will be powered using the same Economic regime based asset allocation (ERAA), where your risk exposure is kept constant by appropriately adjusting your asset allocation as economic conditions change. To keep things simple, ERAA makes informed data-backed decisions on how to allocate your assets.
+This can be done when you turn on ‘auto-reoptimisation’ in your account so that they can automate things for you according to the market conditions.
+What’s The Catch?
+As a retail investor, you will need a minimum of $10,000 SGD balance to start investing in the Singapore-Focused income portfolio scheme. The income portfolio has a StashAway Risk Index of 12%. 
+What Are The Costs?
+There are no upfront fees, no minimum investment and no minimum balance, so you can withdraw any money you want anytime.
+Stashaway fees only apply when you start using it to invest. (No charge if you only use it as an educational tool, for example.) You’d then have to pay:
+
+0.8% annual fee to Stashaway for up to $25,000 in investments (it decreases if you invest more)
+Approx. 0.2% to the ETF manager
+
+This means that Stashaway fees add up to about 1% per year, which is decent for modest investments amounting to $5,000.
+Investing with StashAway 
+For retail investors with $10,000 to spare, or those who are currently investing in the Singapore’s Savings bond, StashAway’s Singapore-Focused income portfolio can be a great alternative for you. However, as with all investments, you will have to take note of the risks involved, as well as other considerations such as costs, upfront fees, the minimum cash balance and projected income. 
+For those who’ve used StashAway as a robo-advisor, what do you think of it? Do leave a review for StashAway with the Seedly Community! 
+Leave a Review for StashAway
+ 
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

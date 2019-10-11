@@ -1,0 +1,123 @@
+
+
+< BACK TO MAIN BLOG
+
+
+An Average Singaporean’s Guide To: What Does The Yield Curve Inversion Mean? 
+
+
+
+
+Tracy Lim
+
+
+26th August 2019 
+
+SHOW ME THE MONEY. You can contribute your thoughts like Tracy here.
+
+
+3 min readThe world is in a mess right now, and fear has caused a lot of volatility in the markets. 
+And that may get worse. 
+Source: Le Random News Screenshot
+You may have heard about people talking about the yield curve inverting, and almost immediately forming a connection with a recession. 
+Is the yield curve inversion an indicator or recession? What does the yield curve inversion mean?
+
+
+Let me first start by explaining…
+What Is A Treasury Bond?
+The government issues bonds to borrow money. An investor buys the bond using cash.
+In return, the investor gets a fixed sum of interest paid each year. At maturity, the investor will get back the principal, or what we call the face value of the bond. 
+What Does The Yield Curve Show You?
+The yield curve shows you the relationship between the yield-to-maturity (rate of return), and the maturity (duration).
+The yield curve can act in 3 ways:
+
+The upward-sloping yield curve
+Where Long-term interest rate is more than Short-term interest rate
+
+
+The downward-sloping yield curve
+Where Long-term interest rate is less than Short-term interest rate
+
+
+Flat yield curve
+Where the Interest rate is expected to stay the same.
+
+
+What Does A Yield Curve Inversion Tell You?
+Source: markets.ft.com
+Usually, under normal circumstances, you will be expecting the yield curve to be upward sloping. An upward sloping yield curve means that the long-term interest rate is higher than the short-term interest rate.
+A yield curve inversion happens when long-term bond yields fall below short-term bond yields. And that does not happen often, which makes it less normal.
+Think of it this way, if you invest in a bond, say, Singapore Savings Bond, you will want the 10-year rate of return to be higher than the 1-year rate of return. If not, there will be no incentive to keep it for a longer-term, right?
+
+Why Is A Yield Curve Inversion Worrying?
+You are not going to like it, but here’s why a yield curve inversion can be worrying.
+Source: giphy
+Recession.
+An inverted yield curve may indicate that interest rates are expected to fall and signals a recession. The yield curve inverts before the last 7 recessions!
+Source: faculty.fuqua.duke.edu
+Everyone is concerned because past data have shown that after a yield curve inversion, a recession will ensue. The last time that happened was during the Global Financial Crisis.
+The fact that there are many news reports that opined that the economy is going into the recession, is not helping.
+World News
+Here is a brief overview of what is going on with the world:
+Source: giphy
+
+
+US-China Trade war
+
+China said Friday it will impose new tariffs on $75 billion worth of U.S. goods and resume duties. Stocks tumbled and bond yields fell following the announcement. 
+
+Brexit
+Boris Johnson, UK Prime Minister, wants to get the UK out of the European Union. If nothing else happens, the UK will leave with no deal on 31 October 2019. Trump, who has consistently praised Mr Johnson, has predicted a speedy US-UK trade deal after Brexit.
+
+Closer to home, here are some events making headlines:
+
+
+Hong Kong Protests
+
+To sum it in a few words: Tear gas, batons, and a 200,000 human chain.
+
+Japan-Korea Trade War
+South Korea announced on Aug 22 that it would not renew a pact with Japan to share military intelligence that was originally signed in 2016, agreeing that Japan and South Korea directly share military secrets.
+
+
+What Can You Do As An Investor?
+This is purely based on our personal opinion.
+Before we start behaving like ants on the hot pan, here are some actionable we can do in time of such uncertainties.
+Source: Yahoo Finance
+
+
+Exit the market
+
+The easiest way to not be affected (be it positively, or negatively) by the market, is to not be in the market. Right. You can choose to invest your money in other assets that have lower risks (with probably lower potential returns).
+
+Buy more at low prices
+Heard of buying low and selling high?
+When the markets are low, it presents an opportunity for long-term investors to buy more to add to their portfolio!
+Of course, the worry for investors is that after you buy, the prices go even lower. But if you are thinking of investing in the long-term, the shorter-term noises (world news) would be less of a concern to you.
+
+Buy into safe-haven assets like Gold and Silver
+
+ 
+Here’s what the Silver (XAG/USD) chart looks like for now:
+
+Source: Bloomberg
+
+Here’s what the Gold (XAU/USD) chart looks like for now:
+Source: Bloomberg
+
+Diversify, diversify, diversify. 
+Many are choosing to put their money into Gold and Silver, and it is understandable why. Safe-haven assets provide a hedge during uncertain market conditions. 
+Notice that these graphs are over a 1-year time horizon. From the graphs above, you can see how Gold and Silver have seen an increase in attractiveness with investors and/or traders? Imagine how much you would have made if you bought into safe-haven assets one year ago. 
+
+Closing Thoughts
+“Time in the market is more important than timing the market.”
+That would essentially negate the first option up there… And I can of course, only say, to each his own.
+It is getting increasingly hard to time the market, with so many problems going on in the world at the same time. Getting different opinions can also help you make a smarter financial decision.
+Historical data is getting less and less relevant when we look at the present situation, with news changing incessantly. 
+Time to re-assess your risk profile and look at your portfolio holdings, to see whether you can buy/sell/hold!
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

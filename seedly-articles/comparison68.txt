@@ -1,0 +1,104 @@
+
+
+< BACK TO MAIN BLOG
+
+
+The Ultimate Comparison: BlueSG vs Grab vs Uber vs Taxi 
+
+
+
+
+Guest Contributor
+
+
+5th January 2018 
+
+You can contribute your thoughts like Guest here.
+
+
+4 min readTechnology: Grab and Uber
+It is funny how mobile technology such ride-sharing app has changed the way we commute. I cannot really remember the last time I stood by the roadside to flag a taxi, just to have them drive off when I mutter the word “Yishun”.
+
+In fact, tools such as TAXIBOT helps complete the list of money saving tools in the year 2017, and we foresee ride-sharing to be an important part of our lives moving forward in the year 2018.
+Having done a comparison between Uber, Grab and Taxi, we now have a new player in the market.
+
+BlueSG, an electric car sharing service that recently launched in Singapore at the end of 2017, has been making headlines as it already served 5,000 rentals within 3 weeks of operation. It is a service meant to lower the cost of car access that is inflated by things like COE, loans and insurance. Though its “success” is still in question, especially with a number of reports on damaged, faulty BlueSG cars already, the team at ValuePenguin wanted to examine whether this service is actually economically superior to other options like ride-sharing services: can Singaporeans actually save money by sharing electric cars instead of using already-cheap ride-hailing services? As always, it seems like the answer isn’t a clear yes or no.
+BlueSG is very cheap during non-congested hours
+One clear advantage that BlueSG has over other, potentially more “convenient” options like Grab or taxis, is that it does not charge a base fare or a distance-based fare. Instead, it simply charges a fee of S$0.5 per minute. This difference essentially makes it such that BlueSG is much cheaper than its alternatives when there isn’t much traffic causes long delays.
+
+The Ultimate Comparison: BlueSG vs Grab vs Uber vs Taxi
+
+
+
+ BlueSGGrabUberTaxi
+
+
+
+
+Base FareS$0.00S$2.50S$3.00S$3.20
+
+
+Cost per minuteS$0.50S$0.16S$0.22S$0.30
+
+
+Cost per Kilometer (km)S$0.00S$0.50S$0.47S$0.55
+
+
+
+For instance,
+
+A trip from Raffles Place to Bedok Mall, which is about 15 km apart and should take around 18 minutes without traffic.
+Using the pricing data from above, we can calculate that BlueSG is about 30% cheaper than Grab or Uber.
+The result was roughly the same for trips from Raffles Place to other locations like Woodlands Train Station, Jurong West Swimming Complex, Hougang Mall or Tanjong Pagar Centre, as we demonstrate below.
+
+
+Uber or Grab could be cheaper during congested hours
+However, here’s what we actually found out:
+
+Grab and Uber could be cheaper than BlueSG when the traffic is bad and the roads are congested.
+A drive from Raffles Place to Bedok Mall actually took 70% longer (30 minutes) because of traffic.
+In this case, BlueSG cost just as much, if not more than ride-hailing services like Grab and Uber.
+
+
+This dynamic occurs because of BlueSG’s high per minute cost. Although it doesn’t charge a base fair or a distance based fair, BlueSG’s time based fair is about 2x higher than that of other services and inflates your cost significantly if you are stuck in traffic and waste time on the road. If the traffic so severe that your trip duration doubles, then ride hailing services could be cheaper than BlueSG by 15-20%.
+Hidden costs of BlueSG
+Furthermore, BlueSG has a significant cost that is difficult to capture with numbers and calculations: convenience and productivity.
+
+First, by driving yourself, you lose the time to work on other things as you could have while riding Uber or Grab.
+Secondly, since BlueSG is a one-way car-sharing service, you must park the car at one of its parking stations at the end of each ride. This means that you actually have to make the extra effort to get to parking station to begin your trip and to your ultimate destination from the parking lot after your ride. This could easily add extra 10-20 minutes on your trips if you are lucky enough to have BlueSG’s 30+ locations near your place of origin or destination; if not, then BlueSG may not even be a viable mode of transportation for you at all.
+Should an average person makes $8 to S$10 per hour, then the time spent while driving and looking for parking lots could theoretically erase most of the savings.
+
+That’s not all. Given that BlueSG still has a very limited set of operational experience, it still has a lot to figure out. 
+These include how to ensure all the cars are well serviced and are in good condition or how to maintain a sufficiently sized fleet so that its customers can always find a car when they need one. It would be difficult to predict or the quantify the true cost of frustration and other complications that could result from not being able to find a properly working car when you really need one.
+Still, BlueSG’s could potentially be a difference maker, especially its annual plan
+Still, BlueSG is a much cheaper alternative to owning cars.
+
+We estimated that owning a car costs roughly around S$15,000 per year (including the cost of petrol, insurance, loans and maintenance) while using Grab every day could cost about S$13,000 annually.
+In comparison, BlueSG could cost just about S$10,000 for an average driver who spends roughly 21,000 minutes on the road covering 17,500km per year (roughly averaging 50km per hour). Saving S$3,000 to S$5,000 per year could be a game changer for those who don’t mind the extra hassle associated with using a BlueSG car instead of his own car or an on-demand service.
+Furthermore, BlueSG has an annual subscription plan that lowers its price by 34% to S$0.33 per minute, which would definitely make it more affordable than ride-sharing services regardless of traffic conditions.
+Cost-conscious consumers would be wise to wait and observe if BlueSG is able to provide a dependable service and convenient access; if it does, it has a real chance in being a real difference maker for frequent drivers in Singapore to lower their transportation costs significantly without making a big sacrifice.
+
+
+Further Reading: Tools to help you save money on rides
+This article first appeared on Value Penguin, a guest contributor on The Seedly Personal Finance blog.
+2 Useful tools to help you save on rides
+ 
+1) Rides feature on ShopBack App
+A player familiar to many in the eCommerce scene, and ShopBack helps users save on a daily basis. It is now even more unique that consumers can directly input and pull out promos. Simply input your destination and location, a list of prices from the different players eg. GRAB, UBER, COMFORT, and RYDE will be generated for you to choose from. You can even apply promo codes which they update on a weekly basis.
+
+ 
+This is on top of the possible cashback when you use the feature!
+2) TaxiBot ChatBot
+A really cool initiative by the name of TaxiBot helps one solve such inconvenience. With TaxiBot, consumers can start a chat with them through Facebook Messenger as shown below.
+
+Consumers can choose between Uber, Grab, Comfort at a glance or all of them for better comparison. The app will generate a list of available Promo Codes, making it really convenient for consumers.
+3) Seedly Expense Tracking App
+Keeping track of your expenses plays an even more important role, now that ride-hailing is made easy.
+
+The convenience can result in a spending habit on rides which can erode away your savings. Seedly allows you to view all your finances in one place and better keep track of your expenses on Grab and Uber.
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

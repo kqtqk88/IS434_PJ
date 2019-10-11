@@ -1,0 +1,96 @@
+
+
+< BACK TO MAIN BLOG
+
+
+Time Value Of Money: Why $1 Is Worth More Today Than Tomorrow 
+
+
+
+
+Isaac Chan
+
+
+30th August 2019 
+
+An aspiring quant (with a background in Finance) who is comfortable with numbers, loves obscure investment strategies and speaks Disney fluently. You can contribute your thoughts like Isaac here.
+
+
+4 min readYou have most likely heard of the phrase: “Time Is Money”.
+But how about the concept: time value of money?
+Time value of money (TVM) is one of the most basic concepts in finance and investing.
+It is taught in one of the first few lessons of Finance 101 courses since much of investing is built on this theory. 
+The underlying concept of TVM is that one dollar today is worth more than one dollar in the future. And arguably, this is a fairly intuitive idea.
+In fact, when we talk about TVM, the word ‘inflation’ might have popped into your mind. However, inflation is only one of the reasons behind this idea…
+Why Is $1 Worth More Today Than Tomorrow?
+Inflation
+Source: Agah Group
+I remember how a plate of noodles only cost 40 cents when I was in primary school!
+But we’ll be hard-pressed to find such a cheap plate of noodles today.
+My bet is that many of us have experienced inflation first hand, especially if we have noticed how the prices of goods and services have increased over time. 
+This seems bad at first glance, but in fact, an economy with low inflation is a good thing! You can check out one of our Q&A answers to find out more about this. 
+The corrosive power of inflation is why people invest since the purchasing power of your money decreases over time with inflation.
+This simply means that the same amount of money can buy fewer goods in the future than you can now.
+Opportunity Cost Of Investing
+Would you prefer your boss to pay you now, or a year later? More likely, you would want it now! 
+One of the disadvantages of being paid late is that you miss out on investment opportunities.
+The foregone chances of investing would be the opportunity cost of growing your capital through investments.
+Risk
+Source: Lead To The Edge
+Risk is not just related to returns, it is related to time as well.
+The longer you wait to be paid, be it through dividends, repayment of debt or even salary, the higher the risk that you won’t receive the promised payment. 
+Risk is present because it is harder for you to predict the payment ability of an entity much further in the future. Moreover, many other events could happen in the meantime which may disrupt the payment ability.
+Finance and investment professionals have a way of uniting risk and time, in a neat idea called a “Discount Rate”.
+But that would be an article for another day.
+Opportunity Cost Of Personal Growth
+Source: CUInsight.com
+This is not a “finance” concept per se, but it is about investing in yourself.
+Warren Buffet – in several interviews – always stressed the importance of investing in your own personal growth.
+Using the money you have today rather than later, you can invest in books, courses, or activities to improve yourself.
+Warren Buffet has also shared about how knowledge is like compound interest. The more knowledge you have today, the more it would grow as you can grasp concepts more easily and make better (investment) decisions in the future. 
+Exceptions To The Rule
+The theory and reasoning behind the TVM is sound. 
+Here, I am not going to critique the TVM theory but provide certain exceptions to the scenarios mentioned earlier.
+Deflation
+Source: memegenerator.net
+Deflation is in many ways the opposite of inflation, where the general price level of goods and services decrease over time.
+This means that you can actually buy more with the same amount of money, the longer you wait!
+However, deflationary regimes are more of the exceptions to the rule. Central banks always try their best to avoid such scenarios, as deflationary pressures are generally very bad for the economy.
+When There Are No Good Investment Opportunities Around
+Have you ever had the urge to do something when you had absolutely nothing to do? I certainly have, and I’m trying to kick this bad habit as I end up spending time and energy on needless things.
+Source: The School Of Life
+Blaise Pascal, a French mathematician and philosopher, said that “All of humanity’s problems stem from man’s inability to sit quietly in a room alone.”
+The same principle can be applied to how we manage our money. Sometimes, we do need to sit quietly in a room with our money.
+Source: CNBC
+One of the key investment principles mentioned by famous investors is that we should wait for good investment opportunities to come.
+In a recent shareholders’ meeting for Berkshire Hathaway, Warren Buffett was asked why Berkshire Hathaway held so much cash.
+He responded that the amount of cash was left available so that the company could snag up good investment opportunities when they appeared. 
+Sometimes, the best thing to do is nothing, especially when good investment opportunities aren’t around. 
+How Can We Use Time Value Of Money To Our Advantage?
+Start Your Retirement Planning Early
+
+$100 today may not seem much, but after taking into account the effect of compounding, it is definitely worth more in the future.
+So if you start planning for your retirement now, you’ll have a longer time horizon to grow your money and can enjoy your golden years the way you intend to.
+Invest Your Money Wisely
+As I brought up earlier, knowledge compounds.
+By learning more today, you can accelerate your growth in the future. By spending more time on activities and events that will be truly beneficial to your growth today, they can potentially even further your career and your aspirations in the future. 
+Also, we should not be too hasty to invest our money, just because we feel pressured to do so.
+Sometimes, holding cash may be the right thing to do while we search and wait for good investment opportunities. 
+Present And Future Values Of Investments
+Source: Wall Street Mojo
+The next time you are assessing the amount of dividends that a company can pay, take note of the when the dividends will be paid to you.
+The longer you wait for the dividends to come in, the more risk you are taking, and the less valuable the dividends would be worth today. 
+Another potential application of TVM is in calculating the present value of loans, mortgages and savings.
+For example, you can take into account the different durations of repayments to find out which loan has the highest value, instead of just taking note of the quantum of the payments.
+
+Closing Thoughts
+A dollar today is worth more than a dollar tomorrow.
+This is due to inflation, opportunity costs of investing, as well as risks.
+There might be exceptions to this rule, such as when there is deflation and when we should hold cash instead of investing. 
+Though the concept of TVM is simple and intuitive, it reminds us that preparing for retirement earlier is easier and that we should invest our money wisely. TVM is also a practical concept that can be applied to investing and the choosing of financial products. 
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

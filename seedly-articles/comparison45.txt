@@ -1,0 +1,171 @@
+
+
+< BACK TO MAIN BLOG
+
+
+Adult and Student Concession Passes: Are they worth it? (Updated with latest fare changes 30 Oct 2018) 
+
+
+
+
+Ruth Lum
+
+
+28th October 2018 
+
+Breaking down 'chim' finance knowledge into manageable pieces so you don't have to. You can contribute your thoughts like Ruth here.
+
+
+3 min readWhat’s one common financial decision that undergraduates and working adults both have to face? To get or not to get transport concession passes!
+
+The Adult Monthly Travel Pass (AMTP) was introduced in 2014 and functions similar to that of the Undergraduate concession pass.
+
+AMTP upfront payment: $128.10, which covers the cost of a one-month Adult Monthly Travel Pass, $5 card cost and $3.10 personalisation fee
+Undergraduate concession pass upfront payment: Monthly rate, a $5 card cost and $3.10 personalisation fee
+
+As announced on 30 October 2018, bus and train fares will rise by six cents per trip from Dec 29, when the latest annual revision approved by the Public Transport Council (PTC) kicks in.
+How do the new numbers affect you as a commuter?
+
+
+Bus fares will start at 83 cents (up from 77 cents) by card, and S$1.50 (up from S$1.40) by cash.
+Single train trips will start from S$1.50 (up fromS$1.40).
+If you’re tapping into train stations before 7:45am, train fares will start from 33 cents (up from 27 cents).
+If you’re tapping into train stations after 7:45am, train fares start from 83 cents (up from 77 cents).
+
+TL;DR: How do you calculate if the university or adult concession passes help you save money?
+
+First things first: price lists.
+
+
+
+University Student Monthly Concession Pass
+
+
+
+
+Concession PassBenefitPrice$/per weekday
+(Assuming avg.
+22 weekdays
+per month)
+
+
+Bus Concession Pass (BCP)Unlimited travel
+on basic bus services$52.00$2.40
+
+
+Train Concession Pass (TCP)Unlimited travel
+on train rides$45.00$2
+
+
+Hybrid Concession Pass (HCP)Combination of
+BCP and TCP$85.00$3.90
+
+
+
+
+
+
+Adult Monthly Concession Pass
+
+
+
+
+Concession PassBenefitPrice$/per weekday
+(Assuming avg.
+22 weekdays
+per month)
+
+
+Bus Concession Pass (BCP)Unlimited travel
+on basic bus servicesn.a.n.a.
+
+
+Train Concession Pass (TCP)Unlimited travel
+on train ridesn.a.n.a.
+
+
+Hybrid Concession Pass (HCP)Combination of
+BCP and TCP$120$5.50
+
+
+
+From what we found out, most undergrads and working adults have a fixed travel route that they take on a regular basis and can compute their transport spendings based on the distance they travel and how often they travel.
+For those with jobs that require you to move around the island several times a day, calculate an average day’s worth of travel and see how it adds up by following these steps.
+
+Step 1: Calculate your WEEKDAY daily trip fare (which you take on a regular basis) either on gothere.sg or LTA.
+Step 2: Take into account the weekend trips you may have to make.
+
+For e.g. Going to the gym on Saturdays or running errands. These are usually spontaneous trips so you can get a good estimate by factoring in 1-2 trips per weekend for better calculations.
+
+
+Step 3: Add ‘T’ and ‘B’ up and double it (return trips) to get value A, which is the estimated total of your transport costs per day. Then use this formula to derive $X.
+
+
+$X is the total amount you spend on public transport in a month, not counting extra spontaneous trips.
+
+If $X is > $85, you SHOULD get the hybrid concession pass.
+If $X is < $85, you SHOULD NOT get the hybrid concession pass.
+
+However,
+if a big portion of your journey consists of either train or bus rides, use the same formula and final amount of $X to decide if the train only or bus only concessions make more sense for you.
+
+
+When should you get the concession passes?
+If you
+
+live a big distance away from your school or office
+are required to make multiple trips daily for your job or to run errands
+have to change train lines at least twice per trip to get to your destination
+(for tertiary students) have 5 days of school without free days
+are a lazy person and take the bus from one part of school to another even though there is a free campus shuttle bus
+
+When should you not get the concessions?
+If you
+
+live in the neighbouring areas of your destination
+reside on campus during the week
+have a free(…you paid for it in your school fees) campus shuttle or office shuttle bus to the nearest train station
+often tompang a family, friend or colleague who drives
+
+
+Suppose we use Nanyang Technological University (NTU) as an example. NTU is a local university notoriously known for its super ulu location all the way in the west end of Singapore.
+Those who live in neighbourhoods such as Jurong, Bukit Batok and Clementi, travel distances to NTU are rather short.
+Getting from Bukit Batok MRT station to NTU’s CEE school costs $1.33
+
+ 
+Based on the formula above –
+T + B= $1.33
+$1.33 x 2 = $2.66
+($2.66 x 4day-week) x 4 = $42.56
+It is then probably not wise for a bus or train concession in this case.
+On the other hand, students who live across the island from NTU such as in neighbourhoods like Tampines pay $2.01 per trip to school.
+
+Based on the formula above –
+T + B= $2.01
+$2.01 x 2 = $4.02
+($4.02 x 4day-week) x 4 = $64.32
+In this case, it makes perfect sense to get the monthly train concession at just $45. PLUS, you get to exploit your pass and take the bus around campus which is often way less packed than the campus shuttle bus!
+Working adults would have a similar pattern in their travels, except that there may be more trips made in a day and during the weekends for after-work events and gatherings etc.
+Say you live in Yishun and work at Tanjong Pagar MRT station. It costs you $1.75 per trip. You often head for after-work dinner and drinks on Fridays at Clarke Quay, which costs $0.77 one way. On the weekends, you head to Bugis for shopping or to meet friends; this costs you $1.65 for the weekend trip.
+Based on the formula above –
+Weekdays:
+T + B= $1.75
+$1.75 x 2 = $3.50
+[($3.50 x 5day-week)+$0.77] x 4 = $73.08
+Weekends:
+T + B= $1.65
+$1.65 x 2 = $3.30
+$3.30 x 8 weekends = $26.40
+Total transport cost per month: $73.08 + $26.40 = $99.48
+
+Not worth it right?!
+With this cost in mind, it still does not make sense to get the $120 adult pass. The adult pass would only be worth it for someone who makes long trips very often throughout the month, and also travels on weekends.
+
+Woohoo! You got to the end of the article!
+Share with us: Are you paying for a monthly concession? How did you decide to get it and are you maximising its costs?
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

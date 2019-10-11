@@ -1,0 +1,103 @@
+
+
+< BACK TO MAIN BLOG
+
+
+How Risky Is Your Investment? 
+
+
+
+
+Isaac Chan
+
+
+21st August 2019 
+
+An aspiring quant (with a background in Finance) who is comfortable with numbers, loves obscure investment strategies and speaks Disney fluently. You can contribute your thoughts like Isaac here.
+
+
+5 min readTo many of us, the word “risk” has a negative connotation.
+We would much rather take less risky decisions than to take riskier ones and bear the chance of large negative consequences. 
+However, I would like to propose that risky situations provide opportunities as well.
+The Chinese characters for risk, “Wei Ji”, illustrates this connotation well.
+Source: Stillwater Consulting
+The character on the left, “Wei”, represents danger, while the character on the right, “Ji”, represents an opportunity.
+The juxtaposition of these two characters, tell us that danger and opportunity are always present in risky situations. 
+In finance and investing, we are faced with the same prospects too. The key is to navigate the investing landscape with both dangers and opportunities in mind. 
+Disclaimer: Opinions expressed in the article should not be taken as investment advice. Please do your own due diligence.
+Understanding The Types Of Risk In Finance
+In investing, there are different types of risk that we should take into account.
+Here, I will just share about 3 different forms of risk. For the treatment of other kinds of risks such as foreign exchange risk, default risk, etc, you can always visit our Seedly Q&A to ask your questions and learn more.
+Standard Deviation
+Source: QuickMeme
+The standard deviation of a stock’s returns represents the Chinese concept of “risk” well. Standard deviation measures the deviation of a stock’s returns from its expected returns. 
+In this case, if a stock performs well in the market above its expected or historical mean, the standard deviation of the stock increases. 
+Hence, there is greater opportunity for investors to benefit from the above-expected results.
+Of course, “danger” also lies in the sense that the performance of the stock can be much worse than what is expected. 
+Semi-Deviation
+For many investors, the risk that they are concerned about is downside risk or the risk that a security can suffer a decline in value if market conditions change. 
+Unlike standard deviation, this measure of risk ignores volatility which leads to positive results, and only focuses on volatility that leads to negative results.
+The formula for Semi-Deviation is similar to that of Standard Deviation, but it uses a form of return threshold instead.
+Semi-Deviation helps to complement Standard Deviation by separating the different kinds of risks that are present to an investment.
+Beta
+Beta measures the market risk of an investment or the risk that is present to the entire market of stocks. Market risk is derived from events which affect many companies.
+The central banks’ policies on interest rates and the US-China trade war are both market-wide related events that have stirred the markets lately. 
+
+Source: Washington Post
+FYI: Market risk is different from firm-specific risk. 
+Firm-specific risks only include the risk that each firm individually faces. 
+Firm-specific events could include:
+
+loss of customers
+disruption in production, or even
+corporate scandals
+
+All of these largely only affect the firm alone, and not other firms. 
+Analysing Risk Using Risk-Adjusted Returns
+Most of us would prefer to own an investment that can give the same expected returns, but with less risk. Rather than with one that gives higher risk and has the same expected returns. 
+Risk-Adjusted Returns, therefore, helps to analyse the returns that we are getting relative to the amount of risk we are bearing. These measures also allow us to compare the risk and returns from different investments.
+Here are three measures of risk-adjusted returns which complement each other. Feel free to use one or all three to find out the performance of an investment relative to different risks present.
+Sharpe Ratio
+Source: Lindau Nobel Laureate Meetings
+The Sharpe Ratio was developed by Nobel Laureate William F. Sharpe.
+The Sharpe Ratio is the average return earned more than the risk-free rate per unit of volatility. 
+The higher the returns relative to the risk you are bearing, the higher the Sharpe ratio. 
+Sortino Ratio
+Sortino ratio is a variation of the Sharpe ratio, but it focuses on down-side risk instead. Similar to Semi-Deviation, this measure of risk-adjusted return focuses more on negative risk, rather than upside volatility. 
+This ratio is taken by subtracting the risk-free rate from the portfolio’s returns and then dividing it by the downside deviation.
+A stock or portfolio with higher returns and less downside risk would have a higher Sortino Ratio.
+Jensen’s Alpha
+Source: CERN
+Jensen’s alpha is also another risk-adjusted performance measure that looks at the average excess return of a portfolio relative to the amount of market risk present, as well as how the market has performed.
+It is sometimes used as a measure to find out if an investment manager has “beat the market” or benchmark.
+How To Deal With Risk
+Diversifying Your Portfolio
+Source: The College Investor
+I’m sure you have heard about the need for diversification. 
+By diversifying your portfolio, you can reduce firm-specific risk, without sacrificing too much of your returns. However, we should be focused on diversifying our investments so that they are less correlated with each other. 
+Imagine that you invest in an airline’s stocks. You can (perhaps) reduce the risk of this investment by investing in a fuel company that supplies fuel to the airline.
+If the fuel company increases its price of fuel and earns more profits, the shares of the fuel company might go up. Conversely, the profits of the airline might suffer as the cost of running the planes increase. This will cause the share price of the airline to decrease. The opposite will happen if the fuel company slashes the price for its fuel.
+In such a scenario, your risk is hedged by the two different forms of investments. 
+If on the other hand, you only choose to invest in stocks from a different airline, you will reduce less risk than before. If the same fuel company supplies both airlines, then an increase in fuel prices will affect the performance of your portfolio negatively. 
+Being More Certain Of Your Investments
+Source: CNBC
+Warren Buffett has complained about the previously mentioned concepts of risk in his shareholder letters. He argues that if you understand your investments more and are more certain of them, you can pick the correct stocks which have greater potential for positive returns. 
+Such a commonsensical notion of risk and return evades the other mathematical concepts of risks. This is why doing your due diligence is very important, as that reduces the risk that you face when you are investing. 
+One downside of such a strategy is that it is very tough to have a full grasp of every investment you make. Other investors have also criticised Warren Buffett’s investing strategy before. 
+The critics say that by choosing to only invest in companies that Buffett fully understands, he would have trouble identifying and investing in newer companies that have more foreign business models. Therefore, for retail investors like us, trying to understand every investment we make can be quite challenging. 
+Additionally, with our limited understanding of various business models, we may only be exposed to a few different industries. The concentration of our investments in these few industries is also very risky. 
+Having A Long-Term Horizon
+Source: Market Watch
+Focusing on the long-term would not reduce the volatility in our portfolio in the short-term.
+However, when we are concerned more about the value of our portfolio in the long-run, then we would be less concerned about the daily fluctuations of our investments. 
+Of course, this is much easier said than done.
+Psychological biases, the ease of checking our portfolio and the constant barrage of news may often distract us from this goal. 
+Closing Thoughts
+We have to deal with risks in our everyday lives, and it is also the same with our investments. More importantly, we should also try to implement different techniques for us to cope with risks.
+Every person has a different risk appetite as well as different life circumstances. Such factors would ultimately determine how much risk a person can take on while investing. Although the risk may spell danger, we should not neglect the potential opportunities present too. 
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

@@ -1,0 +1,173 @@
+
+
+< BACK TO MAIN BLOG
+
+
+A Homeowner’s Ultimate Guide: Bank Loan Vs HDB Loan Which Is Better? 
+
+
+
+
+Ming Feng
+
+
+23rd July 2019 
+
+A stint in Bloomberg gifted me with a beer belly, which only grew larger when I moved on to become a Professional Trader. Now I turn caffeine into digestible finance-related content. You can contribute your thoughts like Ming Feng here.
+
+
+4 min readGetting your HDB for the first time can be quite an experience. From applying for your unit to getting your house keys, there seem to be an endless amount of information to read up on. To top it off, an HDB flat is one of the big-ticket purchase for many and everyone is trying to make more informed decision to save some bucks.
+Making an informed decision is a HUGE chore.
+To save you from all the hassle, we summarise the differences between a Bank Loan and an HDB Loan into 5 minutes walk in the park.
+
+TL;DR: HDB vs Bank Loan Which Is Better?
+
+
+
+
+ HDB LoanBank Loan
+
+
+
+
+Interest RateCurrently 2.6%
+( 0.1% above the CPF Ordinary Account interest rate.)Currently 1.3% - 2.4%
+(Depends on the bank and benchmark, interest rates fluctuates)
+
+
+ DownpaymentCPF/Cash At least 5% in cash
+The rest using CPF OA savings
+
+
+Maximum Loan New flats: 90% of the purchase price. 
+
+Resale flats: 90% of the resale price or market valuation, whichever is lower.
+75% of the purchase price. 
+
+
+Late Payment Penalty Currently 7.5% per annumDepends on individual banks. Usually less lenient than HDB.
+
+
+
+To Be Eligible For HDB Loan
+
+At least 1 buyer is a Singapore citizen
+Have not taken 2 or more housing loans from HDB previously
+Average gross monthly household income is less than $12,000
+Average gross monthly household income is less than $6,000 for singles buying 5-room or smaller resale flat, or 2-room new flat in a non-mature estate
+Must not own or have disposed of any private residential property in the past 30 months before the date of application for an HDB Loan Eligibility letter
+
+To Be Eligible For Bank Loan
+
+Usually, a good credit score works
+
+
+Bank vs HDB Loan: Interest Rate, Loan Amount And Other Various Factors
+To better illustrate the differences, we decide to test out the calculators that are found on the HDB and various banks website.
+For illustration purpose, we assume:
+
+Cost of new HDB BTO: $300,000
+Age of couple: 28 years old for both 
+Average monthly household income of: $2,500 
+Repayment period: 25 years
+
+What Is The HDB Loan About?
+
+Able to loan up to 90% of the cost, at $270,000
+CPF Ordinary Account’s interest rate is fixed at 2.5% for the longest time (Note: you don’t have to wipe out your CPF Ordinary Account!)
+The interest rate of HDB loan is 0.1% above the CPF Ordinary Account’s interest rate, as of now, the interest rate of HDB loan is at 2.6%
+
+Source: HDB
+With the help of HDB Loan Calculator, it worked out to be a repayment of $1,225 per month for a 25 years loan.
+This works out to be $367,500 in total.
+Scenario: What If You Took A Bank Loan With DBS?
+
+Able to loan up to 75% of the cost, at $225,000.
+DBS Home Loan’s interest rate is set as (Fixed Deposit Home Rate (FHR8) + 1.43% p.a), and for the first 2 years, it is fixed at 2.38% p.a.
+Fixed Deposit Home Rate (FHR8) refers to the prevailing 8 months Singapore dollar fixed deposit interest rate of DBS Bank for amounts within $1,000 to $9,999. FHR8 is 0.95% per annum.
+
+With this, it works out to a monthly repayment of $995.84 per month.
+Source: DBS
+The total loan amount will be at $298,752.
+Note: We are assuming FHR8 remains constant throughout the loan repayment period. In reality, this is very unlikely and the rate might be higher down the road. 
+
+What Is SIBOR Rate And Why Is It Important?
+Besides the FHR, banks also use something called the SIBOR (Singapore Interbank Offered Rates) to determine your home loan.
+If you’re new to this, you’re probably wondering what is SIBOR?
+SIBOR History Chart
+SIBOR is the daily interest rate at which Singapore’s banks offer to lend unsecured funds of a reasonable size to other banks.
+The calculation is done when 12 to a maximum of 20 contributor banks submit their rates to the Association of Banks in Singapore (ABS) before 11am Singapore time during each business day.
+To have a better understanding of the trend, here’s what the charts look like:
+3-Month SIBOR vs SOR Chart Over 2 Years
+Source: sibor.sg
+1-Month SIBOR vs SOR Chart Over 2 Years
+Source: sibor.sg
+What Is The Latest SIBOR?
+Note: the rates listed are correct as of 16 July 2019 and are subjected to change.
+
+
+
+PeriodSIBORSwap Offer Rate (SOR)
+
+
+
+
+1-month1.882501.70990
+
+
+3-month1.996831.76224
+
+
+6-month2.057921.66251
+
+
+12-month2.18500-
+
+
+
+Two main factors affecting the SIBOR will be:
+
+the US Fed Rate
+liquidity of the Singapore banking sector
+
+You can check out the latest SIBOR here.
+
+Mortgage Repayment Calculator
+If you suddenly strike 4D or won the first prize in Toto and make a partial repayment towards the mortgage of your home, you’ll probably want to find out what your remaining mortgage repayment looks like.
+All you need are the following details:
+
+Loan Amount
+Interest rate
+Loan term
+
+Simply plug that into a tool like PropertyGuru’s Mortgage Repayment Calculator to calculate the details of your home loan repayment:
+Source: PropertyGuru
+
+The Seedly Community’s Take On HDB vs Bank Loans
+Seedly is really blessed and fortunate in a way that we have a really helpful Seedly community where members are not selfish with their knowledge!
+We conducted a poll on the types of loans our members use for their HDB.
+Here’s just a sample of some of the most useful feedback which we collected:
+
+Rais Bin Mahmud:
+HDB loan for convenience and not having to worry in future, due to the uncertainty and possibility of fluctuations in bank loans.
+Amy Wang:
+Legal fees for HDB Loans are lower too. On top of that, you can choose to end your loan anytime if you wish to (for bank loans it depends on individual banks).
+Christopher How:
+An interesting point to note will be that future fluctuations are negated because you can refinance to another bank that offers a lower rate. In my case, I switched from OCBC to POSB for a better rate. The only worry comes when your loan is less than 100k. Banks don’t do anymore refinancing for loans below 100k.
+Jay Tee:
+In my opinion, an HDB loan is always better. If you’re going for BTO, it’s 5% to secure the flat. This is followed by another 5% payment when it comes to collecting the keys.
+On the other hand, for Banks, it is usually 10% payment followed by another 10% when collecting keys. If you reinvest the 10% down payment that you save from taking HDB loan, you can cover the additional interest rate of HDB loans (especially if you plan to sell your BTO flat within 10 years or so?)
+Also, go for the longest HDB loan – this allows you to have more cash on hand to invest puts you in a better position even if you’re unsure whether you will sell your flat in 10 years. You can always renegotiate for a shorter loan term in future if you do decide to pay off your HDB.
+Timothy Tan:
+I would take an HDB loan (since down payment of 10% can be paid with CPF) and after 6 months of payment, I will refinance with other banks for lower interest rates.
+
+Still unsure or need more perspectives? Why not ask your questions on our Seedly Q&A?
+If you’re shy, you can even ask anonymously.
+Ask Your HDB Vs Bank Loan Question Now!
+Don’t say we bojio!
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

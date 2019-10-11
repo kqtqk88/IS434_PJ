@@ -1,0 +1,143 @@
+
+
+< BACK TO MAIN BLOG
+
+
+All You Need To Know About the YouTrip Card & its 0% Transaction Fee 
+
+
+
+
+Ruth Lum
+
+
+3rd December 2018 
+
+Breaking down 'chim' finance knowledge into manageable pieces so you don't have to. You can contribute your thoughts like Ruth here.
+
+
+3 min readRead reviews for finance-related products like YouTrip amongst many others at the Seedly reviews page.
+Disclaimer: This post is in no way sponsored. All opinions are strictly our own.
+
+
+The YouTrip card launched in August 2018 by EZ-Link, You Technologies and Mastercard. This supposedly magical card enables users to pay in more than 150 currencies without currency conversion or transaction fees.
+
+Since I have some travel plans coming up, I decided to give this MCA a shot and applied for it. To my surprise, the card arrived within the same week.
+Set-up was pretty simple:
+
+Sign up online
+Card will be delivered to you
+Download the app
+Register and activate your card
+Link bank account to YouTrip account
+Top up your card
+Use for online/overseas purchases/bus & train fares
+
+Payments and In-App Exchange
+YouTrip prides themselves as enabling users to
+
+make purchases using your YouTrip card in 150 currencies worldwide
+no fees no markups at highly competitive wholesale exchange rates.
+
+The card basically replaces your trip to the money changer with the in-app currency exchange for 10 currencies which lets you store and lock down a good rate for currencies SGD, USD, EUR, GBP, JPY, HKD, AUD, NZD, CHF, and SEK.
+For a list of the best money changers (both online and offline), you’re gonna want to read this guide here.
+
+For reference, here’s a comparison of exchange rates updated 03/12/18
+
+
+
+ CashChanger RateYouTrip Rate
+
+
+
+
+1 SGD0.7303 USD0.7291 USD
+
+
+0.6415 EUR0.6416 EUR
+
+
+0.5686 GBP0.5705 GBP
+
+
+82.4402 JPY82.77 JPY
+
+
+5.69 HKD5.703 HKD
+
+
+0.9905 AUD0.9898 AUD
+
+
+1.0471 NZD1.054 NZD
+
+
+0.7246 CHF0.7276 CHF
+
+
+*based on YouTrip in-app numbers and rates from CashChanger, updated at 3pm, 03/12/18
+
+
+
+Apart from USD and AUD, the rates seem to be more favourable via the YouTrip card.
+
+Is the YouTrip card a credit card?
+No, the YouTrip card works like a prepaid card. This is great as it
+
+helps you keep to a travel budget
+is a safer choice for travel in case of lost or stolen card incidents
+locks in up to 10 different currencies any time via the YouTrip in-app currency exchange function.
+
+ 
+
+Benefits of using the YouTrip card:
+
+Free sign up, no card fees and no minimum account balance to keep (as at 1 Dec 18)
+Works like a MasterCard worldwide i.e. make purchases overseas and in SG
+Spend in overseas local currency from the wallet at no extra cost (similar to UOB/DBS)
+Spend SGD overseas with 0% transaction fee. This is good because:
+– MasterCard usually charges a 1% fee for Singapore cards
+– Banks usually charge an additional fee on top of this
+– YouTrip claims to use ‘wholesale exchange rate’, but so does every other bank when making foreign purchases
+– MasterCard Cirrus/Maestro rates are usually better than that of Plus! Visa
+Top up via debit/credit card
+If there is insufficient local currency in your account, the system will deduct the shortfall from other currencies in your wallet in this order: SGD, USD, EUR, GBP, JPY, HKD, AUD, NZD, CHF, SEK
+
+For example: If you are travelling to Hong Kong (HKD) for holidays next year and the HKD is now low compared to the Singapore dollar, you can store HKD in the wallet for use later.
+An accompanying app on your phone also lets you monitor exchange rates and transactions on the go.
+This is a cashless alternative to going to the money changer and keeping cash at home.
+Some drawbacks of using YouTrip:
+
+ATM withdrawal fee (overseas local currency from any ATM): S$5 (declared upfront)
+– DBS and UOB have regional partners that do not charge a fee
+
+
+
+The minimum top-up amount is SGD$20 and maximum storage limit is SGD$3,000.
+Daily spending limit of S$6000
+Inactivity after 12 months (a reminder is sent at 9 months): $5 fee
+Even with foreign currencies in account wallet, you may be subject to Dynamic Currency Conversion(DCC) by foreign merchants/retailers
+One-way wallet. Can only empty it by using it up fully at a merchant.
+Unable to get money back even with termination of card, so deplete remaining money before terminating
+To avoid “losing” money, pay for your bus and MRT train rides in Singapore with whatever remaining money in the account
+No termination fee imposed, but user will not be able to sign up for YouTrip again after termination
+
+
+What other options are there in the field of MCAs?
+Multi-currency accounts (MCA): UOB MightyFX, DBS MCA, Revolut
+No txn fee ATM cards: CIMB ATM card, Revolut ATM card (coming soon!)
+Verdict:
+Full disclosure, I feel like I have not yet fully exploited the benefits of the YouTrip, but it does look promising so far. YouTrip’s main page is pretty open and states their terms in black and white, which is important to convince people to park their funds in the wallet.
+This YouTrip card is great for frequent travellers, people who love a life-hacking app, and people who believe in carrying no cash but just a card on the go.
+Despite the inability to withdraw your money from the MCA, I like the idea that you can simply deplete the money in the account by paying for train or bus rides.
+
+Seedly community discussions about YouTrip:
+“Any reviews on the new launch of YouTrip multi-currency wallet? Is it really better than going to a money changer in terms of rates?” Read More
+“What are the main differences between YouTrip, RHB TravelFX and UOB MightyFX?” Read More
+ 
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

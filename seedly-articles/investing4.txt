@@ -1,0 +1,218 @@
+
+
+< BACK TO MAIN BLOG
+
+
+Cryptocurrency 101: Here’s Everything You Need To Know For Those Who Don’t Know Sh*t 
+
+
+
+
+Rachel Yeo
+
+
+3rd October 2019 
+
+Breaking down complicated financial pieces into idiot-proof articles. You can contribute your thoughts like Rachel here.
+
+
+5 min readIt’s 10am and I’m sitting in the ShopBack office with a blank page in front of me. After attending a TenX talk about the basics of cryptocurrency yesterday, I was tasked to write a ‘cryptocurrency for beginners’ article.
+To be honest, for someone who only reads about cryptocurrency in the news, I was slightly lost.
+I’ve attended- in total, two talks on cryptocurrency: First with a guest speaker in a Financial Journalism module in school, and the other being yesterday’s talk. Without proper context, both talks confound me, and cryptocurrency- being as complicated as it already is- isn’t something that can be fully explained in a one hour talk.
+So I write this article on a bright and early Wednesday morning, for those who are interested but don’t know shi*t about cryptocurrency. Here’s a quick overview of the basics you need to know about cryptocurrency.
+Cryptocurrency VS ‘Normal’ Money (Fiat Money)
+Fiat money is the money issued by the central government. It is ‘legal tender’ and is traded based on trust in the government. Fiat currencies have the following characteristics:
+
+It is issued by the government
+Monitored by a central authority. In Singapore, this is the Monetary Authority of Singapore.
+Physical form of money
+Unlimited Supply: The government or those who have access to money can print as many as it wants (think Money Heist) 
+
+*Do note that these are the theoretical characteristics of Fiat Money. In the Singapore economy, money supply is controlled by the MAS, and there is a limit to it. However, theoretically, it is possible to have an ‘unlimited’ supply for fiat money, especially in corrupt governments that print an excess amount of money. 
+Source: Giphy
+There are disadvantages of using Fiat money:
+
+It is centralized – You have a central authority that controls and issues it. In this case the government or central bank.
+It is not limited by quantity – The government or central bank can print as much as they want whenever needed and inflate the money supply on the market.
+
+With the advent of online banking, money today is digital, and this gives rise to poroblems such as ‘double spending‘, where there is a risk that a digital ‘dollar’ is being replicated to make more money.
+The solutions banks use today are a ‘centralized’ solution involving a ledger in a computer that keeps track of all transactions. However, this means that there is a huge reliance on the central bank in being accountable for your money. This may give rise to issues such as corruption, mismanagement of funds, and giving away the control of your money to a government or bank. For countries without a strong central authority, this poses a huge problem.
+Source: 99bitcoins
+What Is Cryptocurrency?
+Source: Giphy
+Cryptocurrency is a type of digital asset that functions as a currency. At risk of oversimplifying it, cryptocurrency is a little bit like online banking, but without a central bank. It is software-based- a little like our online banking platforms from POSB, DBS, OCBC etc.
+There is a ledger (called a blockchain), where records of economic transactions are being kept, as well as balances and account numbers, where you can access your balances using a password and make transactions.
+Essentially, cryptocurrency is a transparent ledger without a central authority. This means that multiple people are holding copies of the ledger to keep track of ongoing transactions. With many people keeping track of the same thing, this helps to ensure the accuracy of the blockchain.
+Cryptocurrencies are also pseudo-anonymous: This means that everything is open, transparent, and trackable, but you won’t be able to tell who is sending what to whom.
+Some quick facts about cryptocurrency: 
+
+Cryptocurrency isn’t a string of data that can be duplicated.
+It is an entry on a huge global ledger called a blockchain.
+The blockchain takes note of every bitcoin transaction that has ever happened.
+Transferring cryptocurrencies to another person meant writing down the transaction on a ledger.
+There is no central authority controlling the ledger. Rather, there are lots of people keeping track of the ledger to ensure its accuracy.
+
+Just like money, cryptocurrency function as a means of exchange, or as a store of value. 
+It can be used to purchase goods and services, or it can be accumulated and stashed away in a virtual wallet.
+What Does It Mean To Be Decentralised? 
+To oversimplify what it is, cryptocurrencies are basically currencies that have no single authority that determines its value.
+This means that:
+
+There is no legislative protection for cryptocurrencies.
+MAS will not be able to help you in any way if you lose money from dealing with digital tokens. You won’t be protected under MAS regulations.
+There is no organization deciding when to make more bitcoins, figuring out how many to produce, keep track of where they are, or investigate fraud.
+
+Here is a quick comparison between Fiat Money and Cryptocurrencies:
+
+
+
+Fiat Currency (eg. SGD)Cryptocurrency
+
+
+
+
+Issued By GovernmentsGenerated By Computers
+
+
+Monitored By Monetary Authority of Singapore (MAS)Monitored By An Entire Peer To Peer etwork
+
+
+Ledger is non-transparent Ledger is transparent
+
+
+PhysicalDigital
+
+
+Unlimited Supply (Can be printed)Limited Supply 
+
+
+
+How Is The Value Of Cryptocurrency Determined?
+Source: Giphy
+Put simply, cryptocurrency’s value hinges on economics: there has to be limited supply (scarcity), utility (usefulness of product), and demand. With market forces, price is determined based on the market’s supply and demand. For example, if more people were to buy Bitcoin, the value rises. If fewer people want to buy Bitcoin, they won’t be willing to pay as much. This results in a fall in the bitcoin value.
+7 Factors Affecting The Price Of Cryptocurrencies
+
+
+
+N.o Factors Affecting The Price Of Cryptocurrencies Explanation 
+
+
+
+
+1Number Of Coin UsersDue to the limited number of coins, when more users accept a certain type of cryptocurrency as payment, demand for the coins go up. Hence, the more widely a certain type of coin is accepted, the higher the price.
+
+
+2Number Of Lost CoinsCryptocurrencies can be stored in digital wallets (be it your hard disk or any hardware wallet). However, as people lose their physical wallet, the number of coins available to circulate decreases, increasing price of coins.
+
+
+3TrustworthinessThe longer certain type of cryptocurrency is in the market, more users will trust it more. Hence, increases the price for it.
+
+
+4Legal Status Of CryptocurrencyThe legal status of the use of certain type of cryptocurrency affects the price. There are countries who incorporated the use of cryptocurrency such as Bitcoin into their payment system such as people can use cryptocurrency without breaking the law.
+
+
+5Stability Of Coin’s NetworkThe stability of the coin’s network is one of the main concern to many. In an unstable network, the majority of the market can stop accepting a certain coin, and the cryptocurrency will be useless and of no value.
+
+
+6Difficulty LevelWe mentioned above that miners for cryptocurrencies use mining software to solve cryptocurrencies algorithm. The more difficult it is to solve the algorithm, the higher the perceived value of the coins.
+
+
+7Market Sentiment Or HypeVery much like what we mentioned on the forces that move a stock price, investors of cryptocurrencies tend to have their opinion on certain coins too.
+
+If the investors’ confidence on a certain coin is growing, the demand for the stocks of a particular company increases. This will lead to the price of a particular coin going up.
+
+
+
+Types Of Different Cryptocurrencies In The World
+While bitcoin is widely seen as a pioneer in the world of cryptocurrencies, there are other forms of cryptocurrencies traded around the world as well. Here’s a non-exhaustive list of cryptocurrencies being traded around the world:
+
+
+
+Release DateCurrency Symbol Notes 
+
+
+
+
+2009BitcoinBTC, XBT, ₿The first and most widely used decentralized ledger currency,[9] with the highest market capitalization. 
+
+
+2011LitecoinLTC, ŁOne of the first cryptocurrencies to use Scrypt as a hashing algorithm.
+
+
+2012Ripple XRPRipple is a real-time global settlement network that offers instant, certain and low-cost international payments. 
+
+
+2014DashDASHDash (originally known as darkcoin) is a more secretive version of bitcoin. Dash offers more anonymity as it works on a decentralized master code network that makes transactions almost untraceable.
+
+
+2014MoneroXMRMonero is a secure, private and untraceable currency. 
+
+
+2014NEONEO It is the largest cryptocurrency which has emerged from China and is sometimes referred to as a “Chinese Ethereum” because of its similar use of smart contracts.
+
+
+2016ZcashZECZcash offers privacy and selective transparency of transactions. Thus, like https, zcash claims to provide extra security or privacy where all transactions are recorded and published on a blockchain, but details such as the sender, recipient, and amount remain private.
+
+
+2017Cardano ADACharles Hoskinson, one of the co-founders of ethereum, launched cardano in September of 2017.
+
+
+2018 EOS EOS OS is also revolutionary because of its lack of a mining mechanism to produce coins. Instead, block producers generate blocks and are rewarded in EOS tokens based on their production rates.
+
+
+2019 Libra≋Libra is a permissioned blockchain digital currency proposed by the American social media company Facebook. 
+
+
+
+How Do I Own Cryptocurrencies Like Bitcoins?
+Source: Giphy
+Cryptocurrency is a little like ‘gold in digital form’. This means that just like gold, they are limited in quantity.
+Over time, when more and more gold is mined, the difficulty in locating and mining gold increases as miners are left with lesser gold buried deeper underground.
+Cryptocurrencies work rather similarly too! They are limited in quantity. Cryptocurrencies can also be traded on exchanges and bought via brokers using dollars and cryptocurrencies.
+For example:
+
+Bitcoin has a limited cap of 21 million coins.
+Litecoin has a limited cap of 84 million coins.
+
+Miners of cryptocurrencies, unlike gold miners, do not go around the world with a shovel to mine gold. Instead, they use a mining software to solve cryptocurrencies algorithm to obtain a certain number of coins.
+If you want to get cryptocurrency you can mine it or trade goods and services for it.
+How To Own Bitcoins?
+Anyone is able to own bitcoins. There are two ways in which you can accumulate bitcoins:
+
+Bitcoin Mining: You can mine them by connecting your computer to a network, running it 24/7 and dedicating computing technology to the solving of complex mathematical problems, or
+You can use actual money to buy bitcoins.
+
+Buying Bitcoins in Singapore
+There are 3 ways you can buy bitcoins in Singapore:
+
+Bitcoin exchange
+Through a third-party broker and most recently,
+Via a Bitcoin ATM.
+
+To learn more about this, you can refer to this guide created by Dr Wealth.
+The Bitcoin Saga in 2018
+Source: Giphy
+After an unprecedented boom in 2017, the price of bitcoin fell by about 65 percent between January and February.  In 2017, the price of bitcoin had grown to a maximum of about 2,700%. Subsequently, nearly all other cryptocurrencies also peaked from December 2017 through January 2018, and then followed bitcoin. Rapidly increasing the price of bitcoin may cause a bubble, which is extremely risky. 
+By September 2018, cryptocurrencies collapsed 80% from their peak in January 2018. There were many investors who lost huge amounts of money, from the investment of bitcoin. There are also those who exited and earned, before the collapse of cryptocurrencies. 
+Should I Still Invest In Cryptocurrencies Now That The Bitcoin Bubble Has Popped?
+Source: Giphy
+It is not advisable to invest in something that you’re not familiar with, so I would encourage you to read beyond this article if you are interested in investing in cryptocurrencies. Cryptocurrencies are considered high-risk investments, due to its speculative and volatile nature. Here are some risks you should consider before investing in it:
+
+Market Volatility
+Regulatory Issues – Because the asset class is so new, governments and banks have not yet formed a coherent fiscal policy for them. Therefore, there’s always a risk that their taxation status, trading rules, or even outright legality, could change overnight.
+Longevity – And it’s incredibly difficult to know which of those coins have realistic, mainstream, long-term potential.
+Consumer Protection – Unlike traditional banks, cryptocurrency doesn’t have any official safeguards or insurances.
+Risks of Market Manipulation – crypto is a largely unregulated space and is prone to market manipulation.
+Cryptocurrency Scams 
+Human Error – e.g accidentally pressing an incorrect order, losing your private keys may be a problem for first-time investors as well.
+
+Source: Blocks Decoded | Website 
+Cryptocurrency is an area of investment that is massive and complex. This guide serves as an introduction for those who are interested, but it barely scratches the surface for such a complex topic. Before deciding to invest in it, do read up extensively and understand the product that you will like to invest in. Should you have any questions, don’t hesitate to ask the community at our Seedly Q&A. 
+Here’s a discussion on cryptocurrency that you may like to follow: 
+QnA: Is It Still Worth Investing In Cryptocurrency? 
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

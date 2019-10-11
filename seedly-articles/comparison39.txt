@@ -1,0 +1,110 @@
+
+
+< BACK TO MAIN BLOG
+
+
+The Ultimate Comparison: Google Flights vs SkyScanner vs Airline Portals 
+
+
+
+
+Casey Choo
+
+
+20th December 2018 
+
+Transforming finance into simple, digestible formats 1 step at a time! You can contribute your thoughts like Casey here.
+
+
+2 min readTL;DR: Flying with Google
+You’ve probably heard the news, heck you’ve probably seen it in your search bar by now – Google Flights has finally arrived!
+What is Google Flights then? Simply put, it’s Google’s all-in-one flight planning platform.
+When should you get on it?
+Now.
+
+What is it?
+So, what exactly is the difference between Google Flights and all the other flight comparison websites such as SkyScanner or Ctrip?
+For starters, not much. Their basic functions are more or less similar as one would reasonably expect.
+To that end, the biggest differentiating factors revolve around its price quotations and its incredibly simplistic yet sleek UX design.
+Disclaimer: It should be understood that at its core, Google Flights is still a metasearch engine. While you can compare prices, you will not be able to buy tickets directly.
+
+The Ultimate Comparison: Google Flights vs SkyScanner vs Airline Portals
+1. Price Differences
+Doing a quick comparison, there appears to be a slight difference in prices quoted across these 3 platforms.
+
+
+
+Cabin Class 
+(1 pax)DestinationPrice 
+(Google Flights)Price 
+(Airlines)Price 
+(SkyScanner)
+
+
+
+
+Budget (Scoot-JetStar)Singapore to Melbourne 
+4 March to 10 MarchFrom $365$365From $377
+
+
+Economy (Emirates)From $598$598From $586
+
+
+Business (Singapore Airlines)From $4,228$4,228From $4,224
+
+
+Economy (British Airways)Singapore to London, Heathrow
+4 March to 10 MarchFrom $1,048$1,047.70From $1,047
+
+
+Business Flex (Air China)From $3,565$3,457From $3,383
+
+
+
+Again, the prices quoted are an approximation. You would still need visit each individual site to determine the finalised cost.
+That said, this platform still provides a nifty comparative guide in an easy to navigate format.
+2. User Experience
+Web Visuals
+Approximate ticket prices are immediately presented to you when selecting your travel dates in Google Flight’s calendar. To that end, this function negates the need for additional, albeit unnecessary user “click” actions.
+Those familiar with comparable sites would have undoubtedly gone through needless frustrations of clicking back and forth to differentiate prices.
+I’ll admit, the aforementioned price-calendar feature is similar to models already adopted by budget airlines. However, the biggest differentiating factor is again, it’s presentability.
+Google Flights – Singapore to Melbourne:
+ (Source: ScreenShot from Google Flights)
+SkyScanner – Singapore to Melbourne:
+Users familiar with SkyScanner need only click Show Whole Month to generate a similar calendar overview.
+
+ (Source: Screenshot from SkyScanner)
+It should be noted that prices coloured in green are the cheapest flights listed within that category. They may however include multiple or long layovers.
+Prefer to see data points in a diagram?
+Not a problem! Simply click on Price Graph/Chart/See Entire Month respectively to get an instant overview of price trends for subsequent days.
+ (Source: ScreenShot from Google Flights)
+ (Source: Screenshot from SkyScanner)
+ (Source: Screenshot from Scoot)
+Got alternative airports to choose from? Google Flight’s got you covered. Simply click on Airports and add your options for further comparisons.
+ (Source: ScreenShot from Google Flights)
+Beneficial Information
+In today’s modern travelling, flight delays are an unwanted nuisance. Unfortunately, there’s only so much online search sites can generate when it comes to pre-departure warnings or reminders. That said, it’s always handy to internalize probable flight delays even when making initial bookings.
+For other useful insights such as transfer details or total layover time period, you can usually find them in the areas highlighted below!
+Google Flight:
+ (Source: ScreenShot from Google Flights)
+SkyScanner:
+ (Source: Screenshot from SkyScanner)
+Social Sharing
+Interestingly enough, say you’ve decided to re-confirm your flight details with a partner, neither Ctrip nor SkyScanner allows you to digitally send a travel itinerary to your addressee before payment is made. To that end, this feature is also noticeably absent from Scoot and Singapore Airlines.
+Under Google Flights, simply select your preferred flights, navigate to the final price page (before clicking into the respective airline’s pages) and you should see the share functions.
+ (Source: ScreenShot from Google Flights)
+On Facebook all day? Then this is a perfect extension for sharing your flight details with your travel companion, as compared to the traditional screenshots or what-have-you-not.
+3. Private Browsing
+While there is a significant buzz around Google Flight’s latest entry into Singapore’s online space, it should be noted that the usual advertisement or price tracking mechanism still applies.
+Nothing too surprising here.
+That said, using this widget in incognito mode or in a private browser should prevent Google from pre-registering site cookies.
+
+As of date of writing, Google Flights is only available as a browser widget.
+Have a go at it and tell us what you think!
+Editor’s Note: This article has been updated with additional visuals from SkyScanner & Scoot to provide an even more comprehensive comparison. Please note that all information was written based on experiences from web browsing.
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

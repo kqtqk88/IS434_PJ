@@ -1,0 +1,158 @@
+
+
+< BACK TO MAIN BLOG
+
+
+Where To House Your Stocks: City Developments Limited vs Far East Orchard vs Frasers Property 
+
+
+
+
+Isaac Chan
+
+
+28th August 2019 
+
+An aspiring quant (with a background in Finance) who is comfortable with numbers, loves obscure investment strategies and speaks Disney fluently. You can contribute your thoughts like Isaac here.
+
+
+4 min readRecently, while going for a walk around my block, I was surprised by how fast a nearby condominium had been constructed.
+Like this condo, many different properties have sprung up quickly across Singapore over the last few years. 
+Many have bought such properties as a form of investment, either to generate rental income or for price appreciation. Even a newly Build-To-Order HDB flat can be considered a property investment (arguably). 
+With all this hype surrounding property in Singapore and the fact that it’s one of the assets that is constantly appreciating, it’s not a bad idea to pay attention to the stocks of property development companies such as:
+
+City Developments Limited (SGX: C09)
+Far East Orchard Limited (SGX: O10), and
+Frasers Property Limited (SGX: TQ5)
+
+Let’s see if they can be good investments.
+Disclaimer: Opinions expressed in the article should not be taken as investment advice. Please do your own due diligence.
+Business Models
+City Developments Limited (SGX: C09)
+
+City Developments Limited (CDL) is a real estate operating company with properties in 103 locations in 29 countries and regions.
+These properties include residences, offices, hotels, serviced apartments, integrated developments and shopping malls. Altogether, CDL has developed over 43,000 homes and owns more than 18 million square feet of lettable floor area globally. 
+CDL also has a London listed-subsidiary, Millennium & Copthorne Hotels, which is a major hotel chain with 135 hotels. CDL is also one of the largest companies in Singapore, with a market capitalisation of more than $8 billion. 
+Notable properties of CDL include South Beach Residences, One Shenton and St Regis Residences.
+Source: City Developments Limited
+Far East Orchard Limited (SGX: O10)
+
+Far East Orchard (FEO) is also a property developer and hospitality owner, like CDL.
+It has developed properties in Australia, Malaysia, Singapore and the United Kingdom.
+In 2012, FEO expanded into the complementary businesses of hospitality management and healthcare real estate.
+In 2015, FEO ventured into the UK market and has a portfolio which consists of 2,000 beds in the cities of Bristol, Liverpool and Newcastle. 
+FEO was listed on the mainboard of the SGX in 1968 and has a legacy as old as that of CDL.
+Notable properties of FEO in Singapore include Novena Medical, Novena Specialist Centre and SBF Centre. 
+Source: Novena Medical Center
+Frasers Property Limited (SGX: TQ5)
+
+Frasers Property Limited (FPL) is a multi-national company that develops, owns and manages a diverse portfolio of properties. Their assets include residential, retail, commercial and business parks, logistics and industrial. FPL operates in over 70 cities in Asia, Europe, Australia and China. 
+FPL is also a sponsor for Frasers Centrepoint Trust, Frasers Commercial Trust, and Frasers Logistics & Industrial Trust. These three Real Estate Investment Trusts (REITs) have gotten more attention over the past few years too.
+Notable properties by FPL include Bedok Point, Changi City Point and Waterway Point.
+Source: The Business Times
+Revenue and Profitability
+The following data is trailing twelve months as of 30 Jun 2019.
+
+
+
+ City Developments LimitedFar East OrchardFrasers Property
+
+
+
+
+Revenue$30.4 bil$149 mil$4.75 bil
+
+
+Operating Profit Margin23.9%21.3%23.8%
+
+
+Net Profit Margin20.2%19.1%21.6%
+
+
+
+Some Definitions
+Operating Income is the earnings left after operating expenses have been deducted from revenue.
+Operating Profit margin is derived from taking operating income divided by revenue. 
+Net Profit is revenue minus all sorts of costs. Net profit margin, therefore, refers to net profit divided by revenue. 
+Comparisons
+Out of the 3 companies, FPL generates the highest amount of revenue, followed by CDL and FEO.
+Both FPL and CDL generate substantially more revenue than FEO, which shows that FPL and CDL are much larger and more established than FEO. 
+FPL is the most profitable, followed by CDL and FEO.
+However, it is important to note that all three companies are quite profitable, with very good profitability margins. We can also observe that these companies have roughly the same level of profitability. 
+Balance Sheet Strength
+
+
+
+ City Developments LimitedFar East OrchardFrasers Property
+
+
+
+
+Current Ratio2.710.981.59
+
+
+Quick Ratio1.240.880.86
+
+
+Long Term Debt/ Equity50.5%12.6%130%
+
+
+
+Some Definitions
+The Current Ratio is a figure used to represent short-term liquidity, which is how well a business can fulfil their short-term financial obligations. The higher the current ratio, the better.
+The Quick Ratio is similar to the current ratio but leaves out the value of inventory in the calculation. Inventory is one of the least liquid of the current assets, as the selling of inventory to meet emergency situations may result in a reduction of value. Similarly, the higher the quick ratio the better. 
+Long Term Debt/ Equity looks at the leverage of a firm, or how much debt a firm carries relative to the value of equity. Often, the higher the amount of debt, the more risk a firm faces as there is a higher chance that the firm can’t pay off the debt. 
+Comparisons
+CDL seems to have the strongest balance sheet strength among the three companies. It has the highest Current and Quick Ratio.
+Although CDL has a higher Long-term Debt/ Equity ratio than FEO, I do think that the high Current and Quick Ratio more than offsets this. 
+It is hard to determine which company has a stronger balance sheet strength between FEO and FPL. FPL has a much higher current ratio than FEO, but also has a much higher Long-term Debt / Equity ratio, and so carries more default risk. 
+Valuations
+
+
+
+ City Developments LimitedFar East OrchardFrasers Property
+
+
+
+
+Market Capitalisation$8.2 bil$508.28 mil$5.3 bil
+
+
+Price/Sales (P/S)2.425.611.12
+
+
+Price/Book (P/B)0.810.410.55
+
+
+Price/Earnings (P/E)14.017.637.11
+
+
+
+Some Definitions
+Market Cap refers to the market value of a listed company’s outstanding shares. It is calculated by taking the total number of shares outstanding multiplied by the share price. This is a common metric used to determine the size of a company.
+P/E, P/B, and P/S ratios are all different metrics used to value a company. These ratios represent how much you are willing to pay through the purchase of shares for a certain portion of a company’s performance.
+The P/E ratio represents how much you are willing to pay for every one dollar of the company’s earnings.  For the P/B ratio, it represents the price for every $1 of a company’s book value per share. Lastly, the P/S ratio represents the price of every $1 of revenue per share.
+The higher these ratios are, the more “expensive” the stock is.
+Comparisons 
+CDL is the largest company based on Market Cap.
+In terms of valuation, FEO seems to be the most expensive stock, with the P/S ratio and P/E ratio being higher than the other two companies. But overall it has the lowest Market Cap.
+Closing Thoughts
+The property market has always gotten a lot of attention and it’s unsurprising as all three companies seem quite profitable.
+To recap: 
+
+Frasers Property Limited is the most profitable with the highest revenues
+City Developments Limited has the strongest balance sheet strength and the highest market capitalisation
+Far East Orchard Limited has the most expensive stock
+
+So… Which Property Development Stock Should I Invest In?
+If you’re interested to find out more, I have given a much more in-depth analysis of each of these companies’ stocks on the Seedly Q&A.
+Stock Discussion on City Developments Limited
+Stock Discussion on Far East Orchard Limited
+Stock Discussion on Frasers Property Limited
+Other community members have also shared their views and perspectives, so it would be good to have a look at what everyone has shared, before you do your own research, and make an informed decision!
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

@@ -1,0 +1,90 @@
+
+
+< BACK TO MAIN BLOG
+
+
+10 Things To Know About SGX Before You Invest 
+
+
+
+
+Guest Contributor
+
+
+10th October 2019 
+
+You can contribute your thoughts like Guest here.
+
+
+3 min read
+Singapore Exchange Limited (SGX: S68) is a leading multi-asset exchange in Asia. It offers listing, trading, clearing, settlement, depository and data-based services of both securities and derivatives from Singapore. As of 30 September 2019, it is worth S$9.08 billion in market capitalisation.
+In this article, I’ll cover the performance for its three main segments, its annual financial results, and stock valuation. Here are 10 things to know about SGX before you invest:
+1. The Equities and Fixed Income segment recorded a 14.5% year-on-year decline in revenue to S$347.5 million. The drop was mainly due to fewer bond and equity listings during the year, and a 17% drop in securities daily average traded value (SDAV). This led to a decrease in revenue in listing (-11%), securities clearing (-19%), and securities settlement (-13%).
+Source: SGX annual reports
+2. The Derivatives segment recorded a 35.3% y-o-y increase in revenue to S$459.7 million. This was due to a 21% increase in total volume mainly from SGX FTSE China A50, MSCI Taiwan, and iron ore derivative contracts.
+Source: SGX annual reports
+3. The Market Data and Connectivity segment recorded a 4.3% y-o-y increase in revenue to S$102.5 million. This was due to a higher usage of market data, growth in the company’s colocation services business, and higher derivatives connectivity subscriptions.
+Source: SGX annual reports
+4. Total revenue increased 7.7% y-o-y to S$909.8 million. Since 2010, revenue has increased at a compound annual growth rate (CAGR) of 4.0%. This growth was mainly contributed by the Derivative and Market Data segments during the period. Net profit grew 7.7% y-o-y to S$391.1 million – the highest since the Global Financial Crisis. SGX has an average return on equity of 35.5% since 2010.
+Source: SGX Annual Reports
+5. As of 30 June 2019, SGX has no long-term borrowings and S$1.09 billion in shareholders’ equity. Thus, its gearing ratio is zero. SGX has S$666.7 million in cash and a current ratio of 1.57. Since 2010, the company has generated S$3.92 billion in cash flows from operations and paid S$3.09 billion in dividends to shareholders.
+6. In July 2019, SGX announced a strategic investment in Smartkarma, a fintech investment research firm based in Singapore. It operates an investment research network that provides analysis on more than 3,700 listed companies worldwide. The collaboration allows SGX to connect its listed companies and bonds with investors and analysts, and distribute information efficiently via Smartkarma’s network.
+7. In September 2019, SGX announced that it entered a memorandum of deepening cooperation with the Chongqing Municipal Financial Regulatory Bureau to promote capital flows and enterprise fundraising. The parties will work together to promote capital flows from Chongqing’s domestic investors into Singapore’s capital markets, as well as explore fundraising opportunities in Singapore for enterprises from central and western China.
+8. P/E ratio: SGX reported an earnings per share of 36.5 cents for FY2019. Based on SGX’s closing price of S$8.34 (as of 4 Oct 2019), its current P/E ratio is 22.85. This is slightly below its 10-year average of 23.49.
+
+9. P/B ratio: Based on SGX’s net asset value of S$1.02 per share as of 30 June 2019, its current P/B ratio is 8.18, which is also slightly below its 10-year average of 8.38.
+
+10. Dividend yield: SGX paid a dividend per share of S$0.30 for FY2019, continuing its track record of paying a consistent dividend to shareholders.
+Source: SGX annual reports
+SGX’s current dividend yield is 3.60%, which is slightly below its 10-year average of 3.84%.
+
+The fifth perspective
+SGX has delivered steady results and consistent dividends to shareholders over the last 10 years. While growth in its Equities and Fixed Income segment has largely remained flat, its Derivatives segment has shown strong growth and now accounts for half of SGX’s total revenue.
+In terms of valuation, SGX is trading near its long-term averages and can be considered fairly valued at this point.
+
+
+
+
+
+
+
+
+
+Want More In-Depth Analysis And Discussion?
+Why not check out Seedly’s QnA and participate in the lively discussion surrounding stocks like (SGX: S68) and many more!
+Stock Discussion: Singapore Exchange (SGX: S68)
+
+Seedly Contributor: The Fifth Person
+
+For our Stocks Analysis, the Seedly team worked closely with The Fifth Person, who is an expert in the field to curate unbiased, non-sponsored content to add value back to our readers.
+The Fifth Person believes in spreading a message – that sound investment knowledge, financial literacy and intelligent money habits can help millions of people around the world achieve financial security, freedom, and lead better lives for themselves and their loved ones.
+Their company and the knowledge shared was born from that vision and they hope to foster smarter, more profitable investment decisions for people and the world at large.
+If you have any questions on the mentioned stocks, feel free to discuss them with the Seedly Community here.
+Read other articles by The Fifth Person:
+
+10 Things To Know About Wilmar International Before You Invest 
+5 Things I Learned From The 2019 Singapore Post AGM
+8 Things I Learnt From The SATS AGM 
+Key Takeaways From The MapleTree Commercial Trust 2019 AGM 
+Why Netflix Scares Me As An Investor
+12 Things To Know About Fortune REIT Before You Invest
+12 Things To Know Before You Invest In Sheng Siong Group Limited
+Key Takeaways From The 2019 Jardine Cycle & Carriage AGM
+8 Things I Learnt From The 2019 BreadTalk AGM
+Key Takeaways From CapitaLand Mall Trust 2019 AGM
+
+
+
+
+
+
+
+
+
+
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

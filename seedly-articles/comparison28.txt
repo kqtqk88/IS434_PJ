@@ -1,0 +1,166 @@
+
+
+< BACK TO MAIN BLOG
+
+
+SG Robo-Advisor Wars: StashAway vs AutoWealth vs Smartly vs MoneyOwl vs EndowUs 
+
+
+
+
+Kenneth Lou
+
+
+29th April 2019 
+
+Passionate about helping people make smarter financial decisions. You can contribute your thoughts like Kenneth here.
+
+
+5 min readThere has been a ton of news surrounding robo-advisors in Singapore recently.
+And it’s all because of the introduction of two new players in the Singapore market: EndowUs and MoneyOwl.
+Maybe you’re already using robo-advisors and are wondering if these two entrants bring anything new to the table. Or you’re new to the game and wish to find out which is the best robo-advisor in Singapore.
+Whatever your needs or interests are… You’ve come to the right place!
+In this article, we’re doing a detailed comparison between the five main players (correct as of 29 April 2019) in the Singapore robo-advisor market. We’ve also omitted FSM Maps and PhillipCapital SMART Portfolio as they both behave more like a risk-based unit trust portfolio recommendation than as a true robo advisor.
+Important Disclaimer: This article does not constitute financial advice but is an unbiased comparison between the robo advisors in the Singapore market today. This is also non-sponsored, so we’re writing this from a truly unbiased perspective.
+
+What Is A Robo-Advisor?
+
+When it comes to wealth management, the only way you can do it in the past is through a mutual fund, where managers basically curate a list of funds with the ultimate goal of doing better than what the market returns. Naturally, they would charge a hefty 2-3% management fee to try to ‘beat the market’.
+These exorbitant fees usually eat into returns in the long run and the ones who benefited ultimately were the fund managers.
+With the advancements made in technology as well as developments in machine learning, the advent of robo-advisors – digital platforms that made automated and algorithm-driven investment decisions – aims to change all of this by providing an option for low cost, diversified, passive investing.
+The Promise: Low-Cost, Diversified, Passive Investing
+
+
+Low Cost: Usually 0.5% to 1% fees are charged for the total amount managed. The costs are low because they are run by models and algorithms instead of an actual, human fund manager – hence the name ‘Robo’.
+Diversified: Usually put into a basket of Global Exchange Traded Funds (ETFs) which exposes the fund to the global economy in different sectors, and usually diversified through a mix of equities and bonds in the portfolio. Note: some of these ETFs are not available to retail investors.
+Passive Investing: Suitable for a longer-term approach (longer than 10 years) to growing wealth rather than high-frequency trading and taking short-term positions.
+
+So Who Would Benefit From Robo Advisors?
+Robo advisors are perfect for time-starved working adults who are looking to grow their money passively (think: the bulk of Singaporeans today, who are between 21 to 45 years old).
+Instead of physically going down to a bank to look for a relationship or fund manager – who may or may not even have your interests at heart – why not opt for a more transparent method which only seeks to grow your wealth?
+
+Are Robo Advisors Really The Way To Go? Check Out What REAL Users Have To Say…
+Would you prefer to hear from actual people and users who have used robo advisors before, before making your decision?
+Our Seedly community members have left honest reviews covering stuff like the pros and cons of each robo advisor as well as the returns they have made.
+
+Read Real User Reviews
+It’s basically a one-stop portal for you to compare ALL the robo-advisors on the market and see which is the one for you.
+
+Robo-Advisor Wars: The FIVE Contenders
+We’ve talked a lot about how robo-advisors are a low-cost investment solution, but there’s more to choosing a robo advisor than just the lowest fees.
+Here’s what else you should be looking out for when choosing a robo advisor:
+
+For more in-depth information, here’s the same information in a table format:
+
+
+
+Robo-AdvisorStashawayAutowealthSmartlyMoneyowlendowus
+
+
+
+
+TeamEx Zalora CEO and Nomura MDEx Investment Bankers & ConsultantsEx Tech Startup & AnalystsJoint Venture between Providend & NTUC EnterpriseFormer CEO and CIO of Morgan Stanley Investment Asia
+
+
+OperationsMAS Capital Markets Licence CMS100604-1MAS Financial Advisor Licence FA100064-1Collaboration with VCG Partners Pte. LtdMAS Capital Markets Licence CMS100604-1MAS Financial Advisor Licence FA100066-1
+
+
+MethodEconomic Regime Based Asset Allocation Rule Based Investment algo with the Modern Theory Portfolio TheoryModern Theory Portfolio (mix of bonds and equity)Global portfolio via DFA & iFAST Global portfolio via DFA & PIMCO
+
+
+Fees & PricingFrom 0.2% to 0.8% p.aFlat 0.5% p.a + USD18 per yearFrom 0.5% to 1% p.aFlat 0.65% + 0.18% p.aFrom 0.68% to 1.15% p.a
+
+
+User InterfaceBoth Web and Mobile AppOnly Web appOnly Web appOnly Web appBoth Web and Mobile App
+
+
+
+
+StashAway
+
+History: Started in 2016 by ex ZALORA Group CEO, Michele Ferrario, ex Nomura MD, Freddy Lim and CTO Nino Ulsamer
+Funding: $11.1M+ with investors including high net worth angels and Francis Rozario (from CITI) 
+Operation: Under MAS Capital Market Services Licence (CMS100604-1)
+Methodology: A proprietary investment strategy called the Economic Regime-based Asset Allocation (ERAA) which continually monitors economic and market cycles to rebalance accordingly
+User Interface: Adopting a modern interface similar to Betterment (USA) with simple goals, charts, and visuals
+Pricing: Between 0.8% ($25k) to 0.2% ($1M) of total invested per year (No Minimum to start) 
+
+Read Reviews On Stashaway
+ 
+
+AutoWealth
+
+History: Started in 2015 by ex Investment Banker at government firm, Ow Tai Zhi and ex Management Consultant, Noel Lee
+Funding: Undisclosed but with high net worth angels and currently incubated in NUS Enterprise
+Operation: Under MAS Financial Advisor Licence (FA100064-1)
+Methodology: A rule-based investment approach and strategy which places a strong emphasis on diversification across major asset classes, geographical regions, and industries.
+User Interface: A heavier interface with bright visuals and more words to digest and numbers to understand
+Pricing: Flat 0.5% of total invested + USD18 platform fee per year (Minimum to start: S$3,000)
+
+Read Reviews On Autowealth
+
+Smartly
+
+History: Started in 2015 by ex start-up professional, Keir Veskiväli and Investment Analyst, Artur Luhaäär
+Funding: Undisclosed but with high net worth angels and Expara Ventures
+Operation: Under a collaboration with VCG Partners Pte. Ltd. a MAS licensed fund manager in Singapore. Legally you’re contracting with the licensed fund manager, while Smartly is the technology provider. (i.e they don’t hold or invest your money directly)
+Methodology: Modern Portfolio Theory (MPT) consisting of ETFs that efficiently capture the global stock markets as well as give exposure to bonds and real estate. Rebalances when market conditions change.
+User Interface: Underwent an intensive design iteration from version 1.0 until now. Engaged external agency work to help redefine company branding with visuals and interface.
+Pricing: Between 1% ($10k) to 0.5% ($100k) of total invested per year (No Minimum to start)
+
+Read Reviews On Smartly
+
+MoneyOwl
+
+History: Started in 2018 as a social enterprise and a joint venture between NTUC Enterprise Co-operative Limited and Providend Holding Private Limited, currently led by Chuin Ting Weber, CEO and CIO of MoneyOwl (previously DIY Insurance)
+Funding: Undisclosed but with NTUC Enterprise is directly involved in this project
+Operation: It is under a MAS fund manager licence (Capital Market services) CMS100758 in Singapore. 
+Methodology: Building of Global portfolio via Dimensional Fund Advisors (DFA) & iFAST as the platform
+User Interface: Featuring a fully mobile responsive website and a web-app which allows users to select risk preference and view their portfolio allocation via the web app. It also has other aspects such as insurance planning and will writing for Singaporeans/Singapore PR.
+Pricing: 0.65% p.a + 0.18% p.a 3rd party custodian fees 
+
+Read Reviews On MoneyOwl
+
+endowus
+
+History: Started in 2017, led by Samuel Rhee, former CEO and CIO of Morgan Stanley Investment Management Asia.
+Funding: Undisclosed but seems to be independently owned and operated
+Operation: Monetary Authority of Singapore under the Financial Advisers Act (Chapter 110) of Singapore (“FAA”) (FA License No. 100066-1)
+Methodology: Building of Global portfolio via Dimensional Fund Advisors (DFA) & PIMCO funds
+User Interface: Open to retail investors and accredited investors (ie higher net worth).
+Pricing: From 0.25%~0.60% p.a of total invested per year (Minimum $10k deposit to start)
+
+Read Reviews On endowus
+ 
+
+Conclusion: Do Your Own Due Diligence
+As with any other investments out there, there are bound to be risks aplenty.
+Even if robo-advisors are arguably an easy way to get started passively. It is ultimately up to you as a retail investor to do your own due diligence when selecting which robo-advisor to go with as well as what kind of funds to invest in before executing.
+If the ever-surging popularity of US-based robo-advisors like Wealthfront (led by an experienced management team) and Betterment (heavily funded and growing assets under management) is any indicator, the era of low-cost investment options is here to stay and that’s great news for us as retail investors!
+
+BONUS: RoboWars – How You Can Start Investing With Robo-Advisors?
+
+Do you still have questions about robo advisors?
+Then you’ll want to catch Seedly TV EP04 where we have assembled the head honchos from all of the robo advisors:
+
+Artur Luhaäär (CEO, Smartly) 
+Michele Ferrario (CEO, Stashaway)
+Ng Chuin Ting (CEO, MoneyOwl) 
+Ow Tai Zhi (CEO, Autowealth)
+Samuel Rhee (CIO, Endowus)
+
+During the episode, they’ll be sharing about:
+
+What are Robo-advisors?
+Who should be looking to invest via Robo-advisors?
+How much do you need to get started investing?
+Why this could be a way to grow your wealth over a long time period
+Which Robo-advisor should you choose?
+
+And many more. So if you’re thinking about investing using robo advisors, check it out to get more insights!
+
+
+Whether you love or hate our content... WE WANT TO HEAR WHAT YOU THINK! 
+
+Comments
+#wpdevar_comment_1 span,#wpdevar_comment_1 iframe{width:100% !important;} 

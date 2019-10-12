@@ -1,0 +1,638 @@
+Go to Lengendcf's profileLengendcfMember's total reputation
+ 569
+	
+		429 posts
+
+ 
+
+Grey color is 3 way junction with big pipe in, 2 small pipes out.
+
+Red is 2 way junction with small pipe in and small pipe out.
+ 
+
+Brown is 3 way junction with big pipe in, 1 big pipe and 1 small pipe out.
+
+Green is 2 way junction with big pipe in and small pipe out.
+ 
+ 
+
+
+ 
+
+The question is at the thick pipe on the left.
+ 
+
+Both A and B are shower heads.
+ 
+
+I need to know if both shower at the same time, which layout is better? As in the water won't be so little.
+ 
+
+Thanks for the help.
+ 
+Go to Jtb's profileJtbMember's total reputation
+ 3,639
+	
+		809 posts
+if you want pressure put small hole dia washer inside shower head for strong spray effect.
+Go to ChickenMob's profileChickenMobMember's total reputation
+ 4,535
+	
+		2,259 posts
+i think that the 1st layout will be better, pressure from bigger to smaller piper will be higher but the volume of water not necessary higher. But better jetting effects.
+ 
+
+the 2nd layout will result in lower pressure somethings just like flowing down instead of gushing .
+
+But also note that the distance of the pipe from source also plays a part.
+ 
+
+think that this theory is the same as those in the high pressure water jet machines.
+Go to 5936's profile5936Member's total reputation
+ 3,907
+	
+		3,780 posts
+2nd option.More run length of  bigger diameter pipes.plan for less bends
+
+If incoming pressure and flow are weak, that will be a bigger problem.
+
+Edited May 9, 2013 by 5936
+
+Go to Happily1986's profileHappily1986Member's total reputation
+ 14,768
+	
+		12,984 posts
+Use software like pipe flow wizard to help you calculate the head loss lah. Your design goal is to minimise head loss and minimise material cost.
+Go to Jtb's profileJtbMember's total reputation
+ 3,639
+	
+		809 posts
+heater
+ 
+
+this brand has built in mini motor and subject approval by hdb n electrical div.
+Go to Tcx607's profileTcx607Member's total reputation
+ 991
+	
+		650 posts
+Option 2 is better. This also serve a bigger manifold for your water flow before smaller outlet.
+
+If you're staying in HDB, one inch pipe is good enough. 
+
+Else, 2-3 inch pipe for landed property since the pipe run is long.
+
+For shower head, currently all come with orifice to produce strong spray effect but uses less water.
+
+Just the same as water jet for washing car and floor. It uses very little water. This is "science"
+Go to Little_prince's profileLittle_princeMember's total reputation
+ 49,137
+	
+		19,212 posts
+P=F/A.
+ 
+
+F=MA
+ 
+
+Option 2 will give a bigger vol of water = bigger mass = higher P
+Go to Tarzan666's profileTarzan666Member's total reputation
+ 10,875
+	
+		9,471 posts
+Hmm..if im experiencing quite weak water pressure currently how do I increase the water pressure?
+ 
+
+House juz undergone 100% reno like 2 years ago....unhappy with the pressure on shower head in the bath room, currently using storage heater.
+Go to Jtb's profileJtbMember's total reputation
+ 3,639
+	
+		809 posts
+
+
+Hmm..if im experiencing quite weak water pressure currently how do I increase the water pressure?
+ 
+
+House juz undergone 100% reno like 2 years ago....unhappy with the pressure on shower head in the bath room, currently using storage heater.
+
+
+
+ 
+
+pressure low, try inlet & outlet with narrow washer and change shower head with needle holes.
+Go to Porker's profilePorkerMember's total reputation
+ 35,791
+	
+		18,664 posts
+
+
+Use software like pipe flow wizard to help you calculate the head loss lah. Your design goal is to minimise head loss and minimise material cost.
+
+
+
+ 
+
+You give me head got loss or not?  
+Go to ChickenMob's profileChickenMobMember's total reputation
+ 4,535
+	
+		2,259 posts
+Are you using the storage heater? if yes this problem also quite normal. i am also having this problem.
+
+if 2 bathing at the same time surely there will be pressure drop, even if you change to small holes shower head the volume of water coming out also little.
+
+unless you just want the jetting effect.
+
+my family also take turns, but if one side does not want hot water the pressure will be better.
+Go to Porker's profilePorkerMember's total reputation
+ 35,791
+	
+		18,664 posts
+The volume of water is determined by the flow rate ie controlled by the main tap. Changing the size of the pipe changes the pressure nia 
+Go to Ben5266's profileBen5266Member's total reputation
+ 12,339
+	
+		5,774 posts
+I think option 1 is better.
+
+Pressure reduces when velocity increase.
+ 
+Go to Lengendcf's profileLengendcfMember's total reputation
+ 569
+	
+		429 posts
+After reading all the replies, I have decided to go for option 1.
+ 
+
+The big pipe coming from the common toilet  to the masterbedrm toilet will end at the basin level, after that will use small pipe. 
+ 
+
+A + B <or= Input (which another bro in another forum said). I think this is better for both shower points as the water volume will be shared from the big pipe, rather than sharing from 1 small pipe.
+ 
+
+Also big pipe running along the floor will be quite unsightly.
+ 
+
+Any improvement for my layout?
+ 
+
+Thanks.
+ 
+Go to Moredhel's profileMoredhelMember's total reputation
+ 3,212
+	
+		3,086 posts
+Neutrino is correct. oI'd go with option 2. 
+ 
+
+Reason being that HDB/Condos uses gravity feed with tanks on roof. Reducing the pipe size along the line does not increase the pressure significantly contrary to popular belief. Pressure along whole pipeline stays the same and the outlet size determines the pressure drop along the existing line. Water volume increases and pressure can be adjusted by your outlet size(venture effect).
+ 
+
+For maximum effect, try to get as short lengths(friction loss) of pipe with as little bends(hammering + pressure pool) as possible. 
+ 
+ 
+Go to 5936's profile5936Member's total reputation
+ 3,907
+	
+		3,780 posts
+there are mountains of free hydraulic calculation apps at App and play stores.
+ 
+Go to Yoongf's profileYoongfMember's total reputation
+ 1,318
+	
+		706 posts
+With regards to low water pressure.. anyone here consider installing such a device?
+ 
+
+http://www.svb24.com/jabsco+steel+accumula...ank.html?lang=1
+ 
+
+is commonly found in boats.. to maintain pressure in times of high usage.
+
+During lull period, the pump will fill the tank to preset pressure. During high usage, the compressed nitrogen will ensure a consistent pressure downstream.
+ 
+
+Have seen those huge blue tanks on top of buildings, but those are meant for reducing water hammer.
+ 
+
+Got house version of such a device?
+Go to Hamburger's profileHamburgerMember's total reputation
+ 108,135
+	
+		21,611 posts
+now mcf bros becomes plumber...... 
+ 
+
+well done 
+
+Edited May 10, 2013 by Hamburger
+
+Go to Opel17's profileOpel17Member's total reputation
+ 6,023
+	
+		2,077 posts
+Plumber will have certain guidelines/ codes of practice to follow. Otherwise neighbors with smaller pipes would be disadvantaged by home owners with bigger pipes.
+ 
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+ 
+ 
+
+I wud prefer e option on e right.
+ 
+
+Larger dia pipe means more water can flow so e 2nd shower sud get good pressure too.
+ 
+
+Small dia pipe restricts flowrate n end up lower pressure.
+
+In fact to get equal flowrate to both showers if both on at same time...a small dia pipe or a restrictive washer wh hole cud b placed fr e 1st shower to slightly restrict flowrate to it so 2nd shower wil get beter flowrate to compensate fr longer distance water needs to travel to 2nd shower.
+ 
+
+Longer distance increases e restriction n reduces flowrate.
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+
+
+P=F/A.
+ 
+
+F=MA
+ 
+
+Option 2 will give a bigger vol of water = bigger mass = higher P
+
+
+
+ 
+ 
+
+Yes i agree.
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+
+
+Hmm..if im experiencing quite weak water pressure currently how do I increase the water pressure?
+ 
+
+House juz undergone 100% reno like 2 years ago....unhappy with the pressure on shower head in the bath room, currently using storage heater.
+
+
+
+ 
+ 
+
+If yrs is landed then u can consider install a booster pump to maintain a set psi when more taps r open.
+ 
+
+Or install a overhead storage tank to increase pressure n act as a resevoir when more taps r on.
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+
+
+pressure low, try inlet & outlet with narrow washer and change shower head with needle holes.
+
+
+
+ 
+ 
+
+This wil not increase flowrate. In fact it wil decrease flowrate. 
+ 
+
+It only gives a stronger jet of water out of showerhead n only give impression of better jetting.
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+
+
+One point worth considering is that HDB do put a flow/pressure reducing thingme into the shower outlets.
+ 
+
+Easy to unscrew and remove and certainly improves water flow. 
+ 
+
+It may be illegal to do that though????
+ 
+
+Our ID told us about it.
+
+
+
+ 
+ 
+
+My blk a couple of yrs back ty send letter ask if we wan to put thimble to reduce water pressure.
+ 
+
+I say dun wan but those koteks still put n my water pressure drop. :angry: 
+ 
+
+Thimble put at water meter so i cannot diy remove.  :angry:
+Go to Jtb's profileJtbMember's total reputation
+ 3,639
+	
+		809 posts
+
+
+This wil not increase flowrate. In fact it wil decrease flowrate. 
+ 
+
+It only gives a stronger jet of water out of showerhead n only give impression of better jetting.
+
+
+
+ 
+
+agreed it dont increase pressure, at least a pulsating feeling is good to wash down your soap effectlively rather than having weak output flow.
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+
+
+agreed it dont increase pressure, at least a pulsating feeling is good to wash down your soap effectlively rather than having weak output flow.
+
+
+
+ 
+ 
+
+Yes so if e showerhead has smaller holes....e water wil shoot out faster.
+ 
+ 
+Go to Opel17's profileOpel17Member's total reputation
+ 6,023
+	
+		2,077 posts
+Consider using rain shower head [installed overhead near to ceiling], because the water will drop down vertically. The feeling is different.
+
+* btw, I saw some promoters selling so called "rain shower" which attach to wall with suction cup. I don't think these are really rain shower.
+Go to Jtb's profileJtbMember's total reputation
+ 3,639
+	
+		809 posts
+
+
+Consider using rain shower head [installed overhead near to ceiling], because the water will drop down vertically. The feeling is different.
+
+* btw, I saw some promoters selling so called "rain shower" which attach to wall with suction cup. I don't think these are really rain shower.
+
+
+
+ 
+
+this dont works on instant heater.rain shower really needs powerful pressure
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+
+
+Consider using rain shower head [installed overhead near to ceiling], because the water will drop down vertically. The feeling is different.
+
+* btw, I saw some promoters selling so called "rain shower" which attach to wall with suction cup. I don't think these are really rain shower.
+
+
+
+ 
+ 
+
+Rain shower u need a good flowrate otherwise water just trickle wil b rain drizzle only. Take very long to shower.
+
+Hahaha. 
+Go to Thedream's profileThedreamMember's total reputation
+ 1,858
+	
+		1,617 posts
+
+
+Consider using rain shower head [installed overhead near to ceiling], because the water will drop down vertically. The feeling is different.
+
+* btw, I saw some promoters selling so called "rain shower" which attach to wall with suction cup. I don't think these are really rain shower.
+
+
+
+ 
+
+my experience with this "rain shower" is not much different from normal showers. And the suction cup will come off after a month. Had to resort to screwing the thing on.
+Go to Thedream's profileThedreamMember's total reputation
+ 1,858
+	
+		1,617 posts
+
+
+One point worth considering is that HDB do put a flow/pressure reducing thingme into the shower outlets.
+ 
+
+Easy to unscrew and remove and certainly improves water flow. 
+ 
+
+It may be illegal to do that though????
+ 
+
+Our ID told us about it.
+
+
+
+ 
+
+got meh? u got a picture you can find?
+Go to Opel17's profileOpel17Member's total reputation
+ 6,023
+	
+		2,077 posts
+
+
+this dont works on instant heater.rain shower really needs powerful pressure
+
+
+
+
+I am using those overhead rain shower with instant heater.
+
+
+Go to Opel17's profileOpel17Member's total reputation
+ 6,023
+	
+		2,077 posts
+Oops, incorrect post, sorry.
+
+Edited May 12, 2013 by Opel17
+
+Go to Opel17's profileOpel17Member's total reputation
+ 6,023
+	
+		2,077 posts
+
+
+my experience with this "rain shower" is not much different from normal showers. And the suction cup will come off after a month. Had to resort to screwing the thing on.
+
+
+
+
+Exactly why I would not recommend buying this type of "rain shower", unless the intention is to buy a normal hand shower.
+
+Edited May 12, 2013 by Opel17
+
+Go to Opel17's profileOpel17Member's total reputation
+ 6,023
+	
+		2,077 posts
+
+
+Rain shower u need a good flowrate otherwise water just trickle wil b rain drizzle only. Take very long to shower.
+
+Hahaha. 
+
+
+
+
+Our rain shower is just using standard 1/2" piping, as provided by renovation contractor. 
+
+Take longer to shower is because want to rub everywhere  
+
+It is not the rain shower fault, it is the human fault having too many places to rub.  
+Go to Mustank's profileMustankMember's total reputation
+ 109,620
+	
+		40,015 posts
+
+
+Our rain shower is just using standard 1/2" piping, as provided by renovation contractor. 
+
+Take longer to shower is because want to rub everywhere  
+
+It is not the rain shower fault, it is the human fault having too many places to rub.  
+
+
+
+ 
+
+Where need to rub more? 
+Go to Jtb's profileJtbMember's total reputation
+ 3,639
+	
+		809 posts
+the flow is strong or just gravity flow?
+Go to Opel17's profileOpel17Member's total reputation
+ 6,023
+	
+		2,077 posts
+
+
+the flow is strong or just gravity flow?
+
+
+
+
+The flow is sufficient. In order not to waste water, l try not to open the tap too much.
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+
+
+Our rain shower is just using standard 1/2" piping, as provided by renovation contractor. 
+
+Take longer to shower is because want to rub everywhere  
+
+It is not the rain shower fault, it is the human fault having too many places to rub.  
+
+
+
+ 
+ 
+
+Ya n u like to rub rub rub one place too much. Instead of rain shower u get a lightning n thunder storm. 
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+
+
+The flow is sufficient. In order not to waste water, l try not to open the tap too much.
+
+
+
+ 
+ 
+
+Then whats e point of rain shower? U must hv solid water flow like a tropical storm.
+ 
+
+Add lighting n sound effects of lightning n thunder n animals just like in e jungle.
+ 
+
+Decorate plants all over n maybe keep a pet monkey to swing around in yr bathroom even.
+ 
+
+Hahaha. Then u become tarzan n u can invite jane to join u fr a bath together. 
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+
+
+Our thimbles were at the shower outlet.
+ 
+
+There may however be an additional thimble at the water meter which we don't bother with because we believe we've done all necessary by removing the thimbles at the shower taps.
+
+
+
+ 
+ 
+
+We got letter fm hdb asking us to help save water n ty do a one time installation of a thimble at e meter.
+ 
+
+I reply dun wan also ty put. Damm. Now my master bedroom shower n basin tap not powerful. :angry:
+Go to Opel17's profileOpel17Member's total reputation
+ 6,023
+	
+		2,077 posts
+
+
+Then whats e point of rain shower? U must hv solid water flow like a tropical storm.
+ 
+
+Add lighting n sound effects of lightning n thunder n animals just like in e jungle.
+ 
+
+Decorate plants all over n maybe keep a pet monkey to swing around in yr bathroom even.
+ 
+
+Hahaha. Then u become tarzan n u can invite jane to join u fr a bath together. 
+
+
+
+ 
+
+Wow, you are like a movie director/producer, even better the those currently in the limelight.  
+ 
+Go to Pisces69's profilePisces69Member's total reputation
+ 55,397
+	
+		48,530 posts
+
+
+Wow, you are like a movie director/producer, even better the those currently in the limelight.  
+
+
+
+ 
+ 
+
+Im a producer in many movies/videos but all cannot show in sg n not fr under 21 cos all titles got XXX at e end.
+ 
+
+Hahaha. 

@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+HSBC Home Loan Review Singapore 2019 – Which Mortgage to Choose from HSBC
+Joanne Poh  October 8, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Joanne Poh 
+
+  October 8, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4632{}#indeed_sm_wrap_4632 .ism_item{}#indeed_sm_wrap_4632 .ism_item .fa-ism, #indeed_sm_wrap_4632 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4632 .ism_item_wrapper{display: block;} 
+
+
+HSBC isn’t one of the big boys like DBS or OCBC, so many people overlook them when searching for a home loan. But they’re actually aggressively pushing their home loan packages right now, with a variety of packages on offer, from fixed-rate packages to SIBOR-pegged and fixed deposit-pegged rates.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+If that means more attractive interest rates, bring it on! Here’s how their home loan packages measure up.   Overview of HSBC home loans Singapore (2019)    Property type Home loan packages   HDB BTO (under construction) Floating with no lock-in   Private property (under construction) Floating with no lock-in   HDB flat (resale / built BTO) 2-year fixed rate, 3-year fixed rate   Private property (built) 2-year fixed rate, 3-year fixed rate / floating with 2-year lock-in    Like most banks, HSBC makes a distinction between uncompleted properties like BTO flats and condos still under development, and completed properties like resale HDB flats and built private property. HSBC’s loans for under-construction property are limited to floating rate packages pegged to SIBOR. For built properties, you’ll have a wider range of loan packages to choose from, including fixed rate  loans and floating rate loans.   HSBC home loan for building under construction (floating) If you’re buying a property that’s currently closer to a construction site than a castle, your loan choices are limited. Under-construction property like BTO flats and unbuilt condos only qualify for HSBC’s SIBOR-pegged floating loan with no lock-in period. The interest rate for the loan is pegged to the 1 month SIBOR, which fluctuates from month to month. That means that your interest payments are going to be likewise somewhat volatile. That being said, SIBOR-pegged board rates are fairly transparent as you can monitor the SIBOR on your own and mentally prepare yourself for any interest rate increases. You will start out by paying the 1 month SIBOR + 0.25%. That extra 0.25% is known as the bank’s “spread”. This is considered low compared to other banks. The catch is that, after 3 years, the spread umps up to 0.7%. That’s also about the time you might want to consider refinancing…. The current interest rates work out to 2.08% to 2.13%, but don’t forget that this is going to change from month to month.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+  HSBC home loan for completed properties (floating / fixed) HSBC offers preferential rates to homebuyers who’re borrowing at least $800,000. However, the basic loan packages available are the same no matter how much you borrow. Completed property buyers can choose between two SIBOR-pegged floating rate home loans with a 2-year lock-in period, a fixed deposit-pegged home loan with a 2-year lock-in period, as well as two fixed-rate home loans with a 2- and 3-year lock-in period respectively. The SIBOR-pegged interest rates for the packages with the lowest starting interest rates begin at 1M SIBOR + 0.25% to 0.3%, depending on loan package and loan amount. But from the fourth year onwards, they jump to 1M SIBOR + 0.65% to 0.7%. What about the fixed deposit-pegged interest rates? You’ll basically pay the banks’ 24 month fixed deposit interest rates + a spread of about 2.13%. While these rates might not fluctuate as often as the SIBOR, the bank has the discretion to change them anytime they like.  The fixed interest rate packages let you lock in a fixed rate for 2 or 3 years, after which you will pay a floating rate. In exchange for the stability you usually end up paying higher interest rates at the start. That being said, HSBC’s fixed interest rates are now advertised as starting from as little as 2%. But be aware that from the third or fourth year onwards you will be paying SIBOR-pegged rates with a high spread.   Should you pick a floating or fixed HSBC home loan package? The question of whether to go with a floating or fixed rate home loan package really depends on whether you think interest rates are going to rise in the near future. If you take a pessimistic view and are convinced interest rates will rise, you might opt for a fixed rate loan. Fixed rate loans typically come with higher interest rates, but in exchange you enjoy the stability of a locked-in fixed rate for 2 or 3 years. Floating rates, on the other hand, fluctuate according to the SIBOR or the bank’s internal fixed deposit rate, and are thus riskier and more unpredictable. These rates tend to be lower than fixed rates at the start, but they can easily overshoot them if interest rates spike later on.   Should you go with a HSBC home loan package? For those financing under-construction property or looking for a floating rate home loan, HSBC’s interest rates are quite competitive right now, but be aware that interest rates will jump steeply from the fourth year onwards, so be prepared to refinance. SIBOR-pegged loans tend to offer greater transparency. As for the fixed rate packages, be aware that the interest rates rise sharply and become quite high relative to other banks once the two- or three-year period of fixed rates is over. Want to know more about HSBC home loans and how they stack up against the rest? Speak to one of our mortgage specialists to find out which bank is offering the best home loan in Singapore for your needs.   Looking for home loans from another bank? Here are the other home loan packages we’ve reviewed. Best Home Loans Singapore – Most Affordable Housing Loans Reviewed DBS Home Loan Review Singapore OCBC Home Loan Review Singapore UOB Home Loan Review Singapore BOC Home Loan Review Singapore Maybank Home Loan Review Singapore Citibank Home Loan Review Singapore Standard Chartered Home Loan Review Singapore
+
+
+
+
+
+
+
+Tags: Home Loans, HSBC, Property
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_14{}#indeed_sm_wrap_14 .ism_item{}#indeed_sm_wrap_14 .ism_item .fa-ism, #indeed_sm_wrap_14 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_14 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_14 {
+		display:block;
+	}#indeed_sm_wrap_14 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Joanne Poh
+In my previous life, I was a property lawyer who spent most of my time struggling to get out of bed or stuck in peak hour traffic. These days, as a freelance commercial writer, I work in bed, on the beach, in parks and at cafes, all while being really frugal. I like helping other people save money so they can stop living lives they don't like.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

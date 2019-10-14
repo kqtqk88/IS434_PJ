@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Mortgage Insurance
+Mortgage Insurance in Singapore – How To Compare & Decide Which Is Best For You
+Joanne Poh  October 16, 2018 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Joanne Poh 
+
+  October 16, 2018 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3555{}#indeed_sm_wrap_3555 .ism_item{}#indeed_sm_wrap_3555 .ism_item .fa-ism, #indeed_sm_wrap_3555 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3555 .ism_item_wrapper{display: block;} 
+
+
+Your home is probably the most expensive thing you’ve ever bought. And you might be spending a sizeable chunk of your life repaying your home loan. A lot can happen in the years or even decades before your home loan gets paid off. One way to buffer against the unknown is mortgage insurance, which will offer financial coverage in the event that you’re unable to pay off your loan. But what exactly is it and who is it for? Let’s find out.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  Contents  What is mortgage insurance? Is it the same as the Home Protection Scheme? Why would you need mortgage insurance? Should HDB buyers protected under the Home Protection Scheme still buy mortgage insurance? Where can you buy mortgage insurance? What factors go into determining mortgage insurance premiums?    First, what exactly is mortgage insurance? If something happens to your income and you miss one too many mortgage payments, you and your family might find yourselves out on the streets without a roof over your heads. Mortgage insurance is designed to protect you and your family when you are unable to make your home loan repayments. Should you find yourself unable to service your mortgage repayments for the entirety of your home loan tenure, you can make a claim to the insurer and get them to pay off your home loan. Of course, you can’t make a mortgage insurance claim just because you spent too much money on your last overseas holiday and now have no more cash for the month’s home loan instalments. Your mortgage insurance plan will only give payouts if certain specified events occur and leave you or your family unable to make your loan repayments and are therefore at risk of having your house seized back by a bank. And these events must be pretty serious—like you die or become totally and permanently disabled. If that happens, you or your family will receive a lump sump payout that can be used to repay the rest of the home loan. Pretty simple right? Back to top   Is mortgage insurance the same as the Home Protection Scheme? If the property in question is an HDB flat and you are using your CPF savings to make your monthly mortgage payments, you should already have mortgage insurance in the form of the Home Protection Scheme (HPS, to which you have been automatically signed up. Thanks to the HPS, should you pass away or become permanently disabled before the age of 65, the outstanding amount on your home loan will be paid by the CPF Board, ensuring that you (if you’re still alive) and your family don’t lose your home. For HDB buyers who aren’t using CPF savings to repay your home loans, joining the HPS is not compulsory, but you can still apply to join it. You can also opt to source for your own mortgage insurance policy.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+For everyone else, the HPS is not compulsory and you won’t have mortgage insurance unless you signed up for a private policy. All private property and Executive Condominium buyers fall under this category. Back to top    What is Mortgage Insurance?Mortgage Insurance covers your home loan repaymentsentirely should you be unable to make these payments.Mortgage Insurance can fall into two categoriesUnder what conditions will you becovered by mortgage insurance?Home ProtectionScheme (HPS)DeathAuto-inclusion forHDBs ONLY if paidfor via CPF savings(Compulsory unlesscovered by a MRTA)Private insurance forHDBs, condominiumsand private propertiesCan be reused onconsecutive propertiesMortgage ReducingTerm Assurance(MRTA)Total PermanentDisability (TPD) Why would you need mortgage insurance? First, it is important to understand the consequences of not being able to repay your home loan. As your home has been put up as collateral, the bank has the right to foreclose your home if you miss your mortgage payments one time too many. That means they’ll basically seize possession of your home, auction it and take the proceeds to make up for the money you owe them. Ouch. If it’s a home you and your family are living in, it also means you will lose the roof over your heads. Unless your home is something you can well afford to lose (eg. if you’re tycoon buying your 50th investment property), mortgage insurance is highly recommended. However, there are some situations where you should absolutely, 100% consider buying mortgage insurance. Here are some questions to ask yourself. Can your family continue making your loan repayments without you? In the event of your death, the burden will fall upon your family (or whomever you will your home to) to continue making the home loan repayments. If they are unable to repay the home loan, they will have to sell the property, or the bank will foreclose and auction the property in order to get at the proceeds. On the other hand, if you had bought mortgage insurance, the insurance payouts would see to it that the home loan got repaid, and your family would thus be able to keep the property without having to fork out the cash for loan repayments themselves. Will your family be living in the home you purchased? If the home you are paying for is being inhabited by your family and you are the only one making the loan repayments, you should be buying mortgage insurance. That also means that in the event that you don’t have insurance and your family cannot repay the home loan, the property will be sold or foreclosed, leaving them without a roof over their heads. If you have children, you should probably be buying mortgage insurance even if your spouse can afford to continue repaying the loan should you pass on or become totally and permanently disabled. If something unfortunate should happen to both you and your spouse, you definitely want to ensure that your children at least have a home to their names. Are you buying the property together with another person? If you are buying the property with another person and aren’t fully responsible for the home loan repayments, you should probably get mortgage insurance for both of you. That way, if one person passes away or is no longer able to work, the other will not have to lose the property as a result. This applies whether you are buying the property with your spouse or a friend or relative. There are mortgage insurance options for those holding the property as joint tenants (meaning you both hold 100% of the property together) and as tenants-in-common (meaning your respective shares of the property are kept separate). For those holding the property as joint tenants (as is usually the case between spouses), you absolutely need mortgage insurance unless your co-purchaser is willing and able to take on your share of the home loan repayments if you die or can no longer work. Otherwise, if you die or get permanently and totally disabled, you will “sabo” your co-purchaser, who will lose or be forced to sell the property if he or she can’t take on your portion of the repayments. If you have opted to split the property as tenants-in-common (eg. you both hold 50% of the property and each part can be sold separately), mortgage insurance is still advisable. Although your co-purchaser will not lose his 50% share if your share is sold, there might be personal reasons for wanting to have the share paid off (eg. if you had agreed to live in the property together and they don’t want your share to be sold to a stranger). Back to top   Should HDB buyers protected under the Home Protection Scheme still buy mortgage insurance? While the Home Protection Scheme (HPS) is compulsory for HDB buyers who are using CPF funds to repay their home loans, you can apply to be exempted from this requirement if you have one of the following policies:  Whole life insurance Term life insurance Endowment policies Life riders attached to a basic policy Mortgage Reducing Term Assurance (MRTA) / Decreasing Term Rider  That last item on the list, MRTA, is basically mortgage insurance. That means that if you find a mortgage insurance policy you think is better than the HPS, you’re welcome to sign up for it and then get exempted from the latter. Now, why would you want to do that? Well, there are some advantages private mortgage policies offer over the HPS, such as the following. You could end up paying lower premiums Don’t assume that the HPS is cheaper just because it’s a government-led initiative. If you do the math, you’ll find that mortgage insurance from private providers can be cheaper than the HPS. This is particularly pertinent if you’re purchasing a flat together with your spouse or a family member. The HPS will issue two policies instead of one joint one, and each of you will have to pay your premiums individually. On the other hand, not only do private insurers provide joint policies which often work out to be cheaper overall than two HPS policies, but some might even offer discounts when you sign up as a couple. Which brings us to our next point… You can get a joint insurance plan with your co-purchaser There are some advantages to you and a co-purchaser being insured jointly under one private mortgage insurance plan, rather than separately under the Home Protection Scheme. Having a joint mortgage insurance scheme means your co-purchaser will automatically be granted the proceeds of the policy should you pass away. These proceeds are usually paid out in a lump sum, in cash. They are meant to be used to repay the home loan, but you or your co-purchaser are actually free to decide how to use it and can put it towards more pressing needs, or invest it. On the other hand, with the HPS, you and your co-purchaser won’t actually see the money. It will be paid directly to the HDB. So there is a lot less flexibility. You can continue your mortgage insurance if you upgrade to a new property Mortgage insurance policies can usually be transferred to a new property if you decide to sell your current home and upgrade to a new one, whether HDB or private. The HPS, on the other hand, is terminated upon the sale of your flat or when you have fully repaid your loan. Why should you care? Well, premiums can rise according to your age when you sign up for a policy. You thus want to lock in a lower price by purchasing your insurance plan as early as possible. You can include add-ons for better protection Many private insurers offer additional riders that allow you to protect yourself even more. For instance, you might be given the option to add a critical illness rider, to opt to have your premiums waived, or to get coverage if you get retrenched. Other riders could include medical expense coverage or personal injury coverage. The HPS cannot be supplemented with riders, thus you’ll have to make do with the basic protection it offers. You might be able to get your premiums refunded Some private plans will offer you a refund or discount on your premiums if you have not made any claims by the end of the policy term. There are no such advantages with the HPS. You don’t have to pay your premiums using CPF HDB automatically deducts your HPS premiums from your CPF OA every year. With private mortgage insurance, you can pay your premiums in cash or by credit card. If you use a credit card that rewards you for insurance premiums, that should be your preferred mode of payment. Back to top  $$$Why buy Mortgage Insurance?Destitution is never a state youwant to be in.Even if your partner can afford to carry the loan single-handedly, it will be a tremendous burden to bear.Mortgage Insurance does not cover losing your joband your income.As painful as that is, the silver lining is that you arestill alive. As long as you are resourceful, you will finda way to repay your home loan and keep a roof overyour head.Perks of MRTA over the HPSCheaper PlansYour family lives in this propertyBuy it. Even if misfortune falls onboth of you, your children (if youhave them) will have a roof overtheir headsJoint Tenant ownershipHaving a mortgage insuranceensures that the other party, yourspouse normally, will have peaceof mindTenants-in-common ownership50/50 ownership means yourhousemate will still keep their 50%,though they may not be keen onanother stranger sharing theirabode Cash HandoutsTransferable PlansJoint policies that mightend up cheaper than thegovernment-backed HPSMRTA joint policies offercash in a lump sum formatas opposed to the HPSMRTAs can be transferredfrom one property to anotherwhile HPS ends the momentyou sell your house away Where can you buy mortgage insurance? The following insurers offer mortgage insurance policies, also known as mortgage reducing term assurance policies. For short, they are often called MRTAs.  AIA Aviva AXA Great Eastern HSBC Manulife NTUC Income OCBC Prudential Tokio Marine  You can also ask the bank from which you are taking a home loan to recommend a mortgage insurance plan, as banks sometimes have tie-ups that enable you to sign up for certain insurance policies policies directly through them. For instance, you can sign up for Prudential’s PRUmortgage insurance plan directly through UOB, while at DBS you can sign up for Manulife’s ManuProtect Decreasing Mortgage Insurance. However, don’t forget to still compare the mortgage insurance policy they’re recommending with others on the market. You can compare the very best mortgage insurance policies available at our comparison site. Something important to note is that sometimes some banks will only offer you the better mortgage loan packages with lower interest rates, if you sign up for their mortgage insurance as well. In this case, make your decision based on whether you think the mortgage loan interest rates they are offering you is the best you can find. Back to top   What factors go into determining mortgage insurance premiums? Mortgage insurance premiums are assessed on a case-by-case basis using the insurer’s internal underwriting process. There are many factors that will affect your mortgage insurance premium, such as the following: Outstanding loan amount: If you are borrowing a relatively low fraction of your home’s total value or borrowing a small amount relative to your income, you are less of a risk than someone who’s taking out a massive loan, so your premiums are likely to be lower. Loan tenure: The longer the term of your loan is, the more likely it is that you will die or become disabled before it is paid off. This might affect your premiums. Your age: The older you are, the more likely you are to die before your loan is fully paid up. While most insurers impose an age limit (usually about 60) beyond which you are not eligible to sign up, being older will affect your premiums, too. Your health: Don’t be surprised if the insurer asks you to sign a declaration indicating any pre-existing health problems. The worse your health, the more likely it is you might die prematurely, and serious pre-existing health problems might exclude you from mortgage insurance altogether or at least raise your premiums. Your credit score: A better credit score signals that you’re a reliable and less risky borrower, while a poor one might cause insurers to hike up their premiums. Your income: The higher your income in relation to your home loan amount, the less risky of a borrower you’re considered, and this might result in lower premiums. Personal details: Insurers’ underwriting processes can be frustratingly opaque, and there’s nothing stopping them from offering you a higher interest rate because of some personal details you accidentally let slip. If you rear pythons in your bedroom or have a penchant for tightrope-walking across canyons, it’s best to keep mum about it. Your co-borrower: If you’re purchasing the property with someone else, they will be assessed according to all of the above factors, too, which could have an impact on your premiums. Do you think mortgage insurance is necessary for your situation? Tell us in the comments!   Related articles Best Home Loans Singapore (2018) – Most Affordable Housing Loans Reviewed How to Refinance Your Home Loan in Singapore & Save Money on Your Mortgage Best Home Insurance In Singapore 2018 – Guide To What You Need To Know And Which To Buy
+
+
+
+
+
+
+
+Tags: Mortgage Insurance
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3516{}#indeed_sm_wrap_3516 .ism_item{}#indeed_sm_wrap_3516 .ism_item .fa-ism, #indeed_sm_wrap_3516 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3516 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_3516 {
+		display:block;
+	}#indeed_sm_wrap_3516 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Joanne Poh
+In my previous life, I was a property lawyer who spent most of my time struggling to get out of bed or stuck in peak hour traffic. These days, as a freelance commercial writer, I work in bed, on the beach, in parks and at cafes, all while being really frugal. I like helping other people save money so they can stop living lives they don't like.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

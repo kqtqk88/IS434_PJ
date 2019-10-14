@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+OCBC Home Loan Review Singapore 2019 – Which Mortgage to Choose from OCBC
+MoneySmart  September 23, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+MoneySmart 
+
+  September 23, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_2616{}#indeed_sm_wrap_2616 .ism_item{}#indeed_sm_wrap_2616 .ism_item .fa-ism, #indeed_sm_wrap_2616 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_2616 .ism_item_wrapper{display: block;} 
+
+
+Those currently house-shopping will understand the pains of financing their new homes. First, you have to decide between a bank mortgage or HDB housing loan. Then, if you chose the former, you have to settle on a preferred bank and package. If you’re doing your research on OCBC home loan rates, here’s an overview on what the local bank has to offer. Generally, most banks’ mortgage rates are quite competitive, and only differ slightly in terms of their package types.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  Overview of OCBC home loan packages Like most banks, there are 3 popular types of OCBC home loans — fixed, floating (3M SIBOR), and floating (MBR) rate.    OCBC home loan type What it is    Fixed  OCBC determines the rate for 1 to 3 years, switches to floating rate thereafter    Floating (3M or 6M SIBOR) Pegged to 3-month or 6-month SIBOR, which is a market rate (i.e. not determined by any single bank)    Floating (MBR) Pegged to OCBC’s mortgage board rates, which are determined by OCBC     Fixed rates are as the name suggests — they’re stable rates that are “locked” for 1 to 3 years, depending on your package. In contrast, floating rates fluctuate as they are pegged to a benchmark that can go up and/or down. Nowadays, some banks differentiate their home loan packages based on your property type too. But HDB, condo or private property, it doesn’t seem to matter for OCBC mortgages. OCBC home loan packages for different property types    Property type  OCBC home loans available    HDB BTO (under construction)  Floating    Private property (under construction)  Floating   HDB flat (resale or built BTO) Fixed or floating    Private property (built)  Fixed or floating     Note that if you are financing a property that is still under construction (BTO/BUC) you can only choose from floating rates. All that sound like gibberish to you? Fret not, here’s a more detailed explanation of each OCBC home loan type.   OCBC home loan packages: fixed interest rates The first type of OCBC home loan package is the fixed interest rate mortgage. Right now, it is 2.15% for year 1 and 2. After that, it is pegged to the OCBC mortgage board rates, which is 2.20%. These rates are bank-managed (determined by the bank), which is much less transparent than those pegged to published rates (like SIBOR, more on that below). It is, however, much more stable. How it works is that OCBC sets the fixed rate, which you will enjoy for 1 to 3 years before it switches to OCBC’s MBR floating rate.  That means you will enjoy fixed mortgage repayments and protection against fluctuations for the initial few years. An important point to note is that for OCBC’s fixed rate home loan packages, you will be penalised if you redeem your loan or sell your property during the lock-in period. Fixed rates are available for completed properties only.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+  OCBC home loan packages: floating interest rates Next, floating interest rates. As mentioned earlier, these are tied to another index. It could be bank-managed or a market rate (not decided by the bank). OCBC offers 1 of each: The first one is linked to OCBC’s mortgage board rates (MBR), while the second one is follows the 3-month Singapore Interbank Offered Rates (SIBOR). Floating rates are the only option for buildings still under construction (BUC), which includes uncompleted BTOs and condominiums.   OCBC floating home loan rates (3M or 6M SIBOR) For SIBOR-linked floating rates, the interest rate will be the SIBOR, plus a fixed spread. Currently, the OCBC rates are:  3M/6M SIBOR + 0.30% for year 1, 3M/6M SIBOR + 0.40% for year 2, 3M/6M SIBOR + 0.50% for year 3, and 3M/6M SIBOR + 0.60% thereafter.  You can pick from 3- or 6-month packages, which means the rates are only reviewed every 3 or 6 months respectively. Generally, SIBOR-linked floating rates are more popular than board-rate ones, because it seems more transparent and thus, “fair”. That’s because it is tied to a published index — SIBOR, which is published by the Association of Banks in Singapore and is not influenced by any single bank in Singapore — so anyone and everyone can check the fluctuations. However, SIBOR rates seem to be on the rise. In fact, it’s been steadily recovering, and the 2008 crash was the only time it dropped enough for people to take notice. If you pick a floating SIBOR package, be ready for market fluctuations that can swing both ways.   OCBC floating home loan rates (MBR) The last type of floating package offered by OCBC is the one pegged to the OCBC mortgage board rate (MBR). So OCBC sets the mortgage board rates, and then ties your home loan interest rates to it. These are considered bank-managed rates too, because even though it is linked to a separate index, the benchmark is fully determined by OCBC. That also means OCBC can revise the MBR anytime. The saving grace, however, is that you will get 30 days notice and if  you don’t want to continue with it, you can switch to another package without penalty. The current MBR benchmark is 1.50%, and the OCBC MBR-linked home loan interest rates are 2.10% from year 1 to 3, and 2.20% thereafter. If you want, you can also prepay up to 50% of your loan within the contract period.   Should you choose an OCBC home loan package? As mentioned above, one of the key features of OCBC home loans is that they don’t differentiate between HDB and private properties. Although this seems more “fair”, it could mean poorer rates for those buying HDB flats. For example, for some of their packages, DBS offers preferential rates for HDB buyers. Other than that, OCBC seems to have quite a good suite of mortgage packages at reasonably competitive prices, so it’s hard to conclude if it will be cheaper than the other banks when you read this. We recommend you first decide on the type of package you prefer — you must first and foremost be comfortable with the way the interest adds up — before comparing the different banks’ interest rates. If you like transparent, consider SIBOR floating rates (not all banks offer SIBOR packages; DBS doesn’t). That said, SIBOR is currently on the rise, which makes the fixed rate packages look quite attractive in comparison.   If you’re still unsure of which bank and package will best suit your needs, our mortgage specialists can help: Find out more on the MoneySmart home loans comparison page.    Related articles UOB Home Loan Singapore Review 2019 — Which Mortgage to Choose? DBS Home Loan Singapore Review 2019 — Which Mortgage to Choose? How To Choose Your Home Loan Singapore: 5 Important Factors To Consider Before Deciding Best Home Loans Singapore — Most Affordable Housing Loans Reviewed  
+
+
+
+
+
+
+
+Tags: Home Loans
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3664{}#indeed_sm_wrap_3664 .ism_item{}#indeed_sm_wrap_3664 .ism_item .fa-ism, #indeed_sm_wrap_3664 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3664 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_3664 {
+		display:block;
+	}#indeed_sm_wrap_3664 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+MoneySmart
+We help people maximise their money through the provision of powerful tools and awesome content, by empowering them to make smarter financial decisions.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

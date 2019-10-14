@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+Citibank Home Loan Singapore Review 2019 – Which Mortgage to Choose from Citibank
+Joanne Poh  October 7, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Joanne Poh 
+
+  October 7, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_2338{}#indeed_sm_wrap_2338 .ism_item{}#indeed_sm_wrap_2338 .ism_item .fa-ism, #indeed_sm_wrap_2338 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_2338 .ism_item_wrapper{display: block;} 
+
+
+Buying a home is a momentous occasion. It could mean a ceremonious upgrading to your dream home, finally getting to move out of your parents’ home, or another source of income for the savvy investor. But first, you’ve got to pick a home loan that will finance your property purchase. Choosing a home loan is certainly nowhere near as exciting as picking out furniture for your new home, but we’re here to help.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+Here’s a guide to Citibank’s home loans.   Overview of Citibank home loan Singapore packages    Property type Home loan packages   HDB BTO (under construction) Floating with no lock-in   Private property (under construction) Floating with no lock-in   HDB flat (resale / built BTO) 2 year fixed rate   Private property (built) 2, 3 year fixed rate, 2-year floating    As is common among banks in Singapore, customers buying completed property have more loan choices, while those buying BTO or under-construction private property need to be content with floating rate loans pegged to SIBOR. Fixed rate home loans like Citibank’s enable you to lock in your interest rates for a fixed period of time, which means you don’t need to stress out about fluctuations for a few years. In exchange, however, you’ll end up paying much higher interest rates than your floating rate loan counterparts, at least at the start of the loan. In other words, you pay a premium for stability. Citibank’s floating rate loans offer pretty attractive interest rates at the moment, but they rise dramatically after the third year. So, they’re worth considering if you are prepared to refinance at a later stage.   Citibank BUC home loans for buildings under construction (floating)  Citibank offers two home loan packages for buildings under construction, whether HDB or private. Which package you end up with is largely dependent on the loan amount, with loan amounts of over $1.5 million receiving slightly preferential rates. Both are pegged to the SIBOR rate, and start out with SIBOR + 0.20% in the first year, SIBOR + 0.25% in the second year, and SIBOR + 0.45% (or 0.40% for loans of over $1.5 million) in the third year. In the fourth and subsequent years, you will be paying SIBOR + 0.60%. What this means is that you will pay fairly attractive interest rates at the start, with the starting rates ranging from 2.12% to 2.33%, but these rates will rise rapidly over the years. This is a fairly affordable loan to start out with if you are prepared to refinance before the third year’s interest rates kick in.   Citibank home loan for completed properties (floating/fixed 2-3 years) For completed properties, Citibank offers a floating rate home loan pegged to SIBOR and a fixed rate home loan.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+The fixed rate home loan lets you lock in rates of 1.98% to 2.03% for two years (available for both HDB and private property), or 2.04% to 2.09% for 3 years (private property only). These are very competitive interest rates compared to what other banks are offering, however do note that once the fixed period is over, your interest rates will be pegged to SIBOR. So, be prepared to refinance later on. The floating rate packages offer interest rates that begin at 2.11% to 2.20%. These starting interest rates are attractive compared to what other banks are offering at the moment, however they also rise quite sharply over the years, from SIBOR + 0.35% in the first year and SIBOR + 0.45% in the second year to a whopping SIBOR + 0.70% in the third year onwards. So, again, be prepared to refinance!   Should you pick a floating or fixed Citibank home loan package? When trying to choose between fixed and floating home loan packages, your main consideration is whether you prefer to pay lower interest rates now but be at the mercy of interest fluctuations (in which case you would opt for a floating rate package), or pay a relatively high interest rate right now in order to lock-in a fixed interest rate (in which case you would opt for a fixed interest rate package). So, if you predict interest rates will rise, you’d be more inclined to go for a fixed package. On the other hand, if you think interest rates will remain low in the near future, you’d be better off with a floating package.   Should you go with a Citibank home loan Singapore package? Right now, Citibank is offering attractive starting interest rates on both its fixed and floating rate home loan packages. The catch is that these rates rise quite dramatically in the third or fourth year. So, if you plan to sign up for one of these packages, you’ll have to be prepared to refinance after two to three years. If you are buying HDB property, you might want to look for a bank that offers preferential rates to HDB buyers, as Citibank offers the same rates as they do to private property buyers. Finally, be aware that Citibank imposes a higher interest rate on floating rate loans of less than $500,000, so if you’re borrowing less than half a million, you’ll probably want to use another bank. Are you interested in applying for a Citibank home loan? Speak to one of our mortgage specialists to find out which bank is offering the best home loan in Singapore for your particular needs.   Looking for home loans from another bank? Here are the other home loan packages we’ve reviewed. Best Home Loans Singapore – Most Affordable Housing Loans Reviewed DBS Home Loan Reviews Singapore OCBC Home Loan Reviews Singapore UOB Home Loan Reviews Singapore BOC Home Loan Reviews Singapore Maybank Home Loan Review Singapore Standard Chartered Home Loan Review Singapore
+
+
+
+
+
+
+
+Tags: Citibank, Home Loans
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3016{}#indeed_sm_wrap_3016 .ism_item{}#indeed_sm_wrap_3016 .ism_item .fa-ism, #indeed_sm_wrap_3016 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3016 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_3016 {
+		display:block;
+	}#indeed_sm_wrap_3016 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Joanne Poh
+In my previous life, I was a property lawyer who spent most of my time struggling to get out of bed or stuck in peak hour traffic. These days, as a freelance commercial writer, I work in bed, on the beach, in parks and at cafes, all while being really frugal. I like helping other people save money so they can stop living lives they don't like.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

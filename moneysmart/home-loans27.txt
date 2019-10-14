@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+How to Refinance Your Home Loan in Singapore & Save Money on Your Mortgage
+Peter Lin  May 29, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Peter Lin 
+
+  May 29, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4975{}#indeed_sm_wrap_4975 .ism_item{}#indeed_sm_wrap_4975 .ism_item .fa-ism, #indeed_sm_wrap_4975 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4975 .ism_item_wrapper{display: block;} 
+
+
+If your home loan is currently charging you more than 2.4% interest, you might be paying more than you need to, and should definitely consider refinancing.  Refinancing your home loan in Singapore means reducing your monthly repayment amount by switching to a lower interest rate. 
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+ This could mean switching to a new loan package within your current bank, or switching bank altogether. Here’s what you should know about refinancing in Singapore:   Contents  What is refinancing? How much can you save when you refinance? When should you refinance your home loan? What is the cost of refinancing? Repricing vs refinancing – what’s the difference? Best home loan rates for loans above $500,000 Best home loan rates for loans under $500,000    1. What is refinancing? Refinancing a home loan is an opportunity for homeowners to switch their home loan to another bank for a lower interest rate. This can help you save money in the long run.  Refinancing is usually done when you hit the 4th year of your home loan or after. That’s because typical home loan packages raise their interest rates after 3 years, after which the interest rate is likely to rise. So this is the best time to see if another bank can offer you a lower interest rate.  Another reason homeowners in Singapore consider refinancing their current home loans is due to changes in SIBOR and SOR rates (which determine the interest rates on some home loans). SIBOR and SOR could be on their way up due to global economic changes, so if an increase is predicted, you’ll want to switch to a lower interest rate loan too.  The Monetary Authority of Singapore (MAS) and The Association of Banks Singapore (ABS) monitor these SIBOR and SOR rates and make adjustments to inter bank lending rates daily.  Back to top
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+  2. How much can you save by refinancing home loans? Here’s an example to illustrate how you can save on monthly repayments when you refinance home loans: Ms Liana has an outstanding home loan of $300,000 with about 20 years left. Her current interest rate is 2.6%. That means she’s paying about $1,604.36 a month.  Let’s assume a bank is willing to offer her a home loan package of 1.8% for the first 3 years. If she takes it up, she will only need to pay about $1,489.40 a month. That’s a difference of about $115 a month, $1,380 a year and $4,140 after 3 years!     Current loan package New loan package Savings   Outstanding loan amount $300,000 $300,000 –   Interest rate 2.6% 1.8% 2.6% – 1.8% = 0.8%   Estimated monthly repayment $1,604.36 $1,489.40 $1,489.40 – $1,604.36 = $115    Of course, this is a simplified illustration. In reality, you also need to consider other factors like the lock-in period into the real cost of refinancing. (More on that in the next section.) You’ll also need to pay legal charges and valuation fees when you refinance. This can set you back by $2,000 to $3,000 depending on your property type. So, while you do save money in the long run, the amount you save may not be as significant as it first appears. In this article we’ll cover all the costs that go into a refinancing package so you can understand them better.  Back to top   3. When should you start looking to refinance your loan? While you can technically refinance at any time, you should always wait until your lock-in period is over before you jump ship. If you try to do it during the lock-in period, you’ll usually be charged a penalty fee, typically about 1.5% of your outstanding loan amount. There’s no need to wait until the lock-in period is over before you begin the process of refinancing, though.  Newly-signed refinancing contracts are valid for 6 months, so in a rising interest rate environment, you’ll want to obtain a good home loan package as early as possible. You would also need to give at least 3 months’ notice before you can refinance.  Here’s how early you should be refinancing in order to make sure you don’t pay a higher interest rate:  Typically, bank loans have a lock-in period of 2 or 3 years. You will want to take note of the date on which your current bank will increase your home loan interest rates, and work backwards from there.  Based on the timeline above, starting your process of refinancing applications should begin about 4 months or so before the date of the increase. This factors in the 3 month notice period you need to serve with the current bank and also application time with the new bank you wish to move to. Lock-in periods are the norm, but if you’re really lucky, you might be one of those people who signed up for a home loan package with no lock-in. This can happen if you signed your home loan during a price war between the banks.  Back to top   4. What is the cost of refinancing? We have already mentioned the various costs of refinancing – legal fees, valuation fees, prepayment penalties during the lock-in period. However, some of these costs can be subsidised by the bank under some circumstances. For example, if your loan amount is big enough, banks will be willing to defray the legal fees with subsidies. They usually do this for outstanding loan amounts above $500,000.  While everyone loves a good freebie, do think carefully about taking on such legal subsidies as they will often come with terms and conditions. Mostly, these stipulate a certain duration known as the “clawback period”, which is the time you need to stay with the bank before you can refinance to another bank without a penalty fee.  In other words, this is a new lock-in period for your new home loan. If you don’t stick with this bank for the duration of it, the bank will claw back the freebies they gave you. Another cost of refinancing is known as the cancellation fee. This is incurred if you refinance a home loan package when the property is still uncompleted. For buildings under construction, the home loan amount is disbursed in stages. The cancellation fee amount is around 1.5% of the loan amount that hasn’t been disbursed yet. Back to top   5. Repricing vs refinancing – what’s the difference? If you’re not happy about your current home loan’s increasing interest rates, you do have another option apart from refinancing – repricing. Repricing a home loan is similar to refinancing except that you stay with the same bank and switch to a new loan package that they offer you.  The time it takes to reprice is shorter compared to refinancing, which means you can switch to a lower interest rate package sooner. Repricing does not require legal fees and a new valuation of the property does not need to be conducted. However, it is not necessarily cheaper than refinancing, especially when you sign up for loans that come with legal fee subsidies.     Cost of refinancing Cost of repricing   Legal & valuation fees $300 to $500 (or none, if it’s subsidised by the bank) –   Administrative fees – $500 to $800   Total cost $300 to $500 $500 to $800    The sad fact is that banks always try harder to get new customers than retain existing customers. You are more likely to find a more competitive interest rate when you refinance than when you reprice. A savvy homeowner will want to find out what the refinancing options are in the market, and then check back with their bank if they can offer a competitive repricing package. Ultimately, there is only one factor you should consider when choosing whether to refinance or reprice – cost.  In most cases, repricing is usually ideal only for homeowners who have a small outstanding loan amount of $200,000 or less, since the cost of refinancing will probably be significant compared to the amount you save. Back to top   Best home loan rates for loans above $500,000 If your outstanding loan amount is above $500K, it’s easier for you to refinance for cheap as most banks will absorb the legal fees. Here are the 3 best packages currently (as of May 2019). Banks change their interest rates almost monthly, so you will want to check with MoneySmart’s mortgage specialist for the latest home loan refinance rates in Singapore.    Bank CIMB* SCB HSBC   Type of loan Floating  Floating Floating   Lock-in period 2 years 2 years 2 years   Benchmark rate 1m Sibor (1.82%) 1m Sibor (1.82%) 1m Sibor (1.82%)   Year 1 interest rate 2.07% (1m Sibor + 0.25%) 2.12% (1M Sibor + 0.30%) 2.07% (1M Sibor + 0.25%)   Year 2 interest rate 2.07% (1m Sibor + 0.25%) 2.12% (1M Sibor + 0.30%) 2.12% (1M Sibor + 0.30%)    Year 3 interest rate 2.17% (1m Sibor + 0.35%) 2.17% (1M Sibor + 0.35%) 2.17% (1M Sibor + 0.75%)    Interest rate thereafter 2.42% 2.27% (1M Sibor + 0.45%) 2.57% (1M Sibor +0.75%)   Legal subsidy 0.25% of loan amount (capped at $2,000), minimum loan amount of $500,000 0.40% of loan amount capped at $1,800 for loans above $400,000 Cash rebate of $1,000 for loans more than $200,000, $2,000 for loans more than $500,000 and $2,500 for loans more than $1.5mil    Clawback period 3 years 3 years 3 years   Partial repayment penalty 1.5% 1.5% 1.5%   Full redemption penalty 1.5% 1.5% 1.5%    Cancellation fees $1,000 or 1.50% whichever is higher  1.5% 1.5%   Minimum loan amount $500,000 $500,000 $800,000   Minimum property size – – 500 sqft   Promotions – – Interest offset with SmartMortgage, no redemption penalty for loans above $800k, 50% waiver penalty for loan size below $800k, one time free conversion    *CIMB bank loan requires 2 out of 4 requirements to be fulfilled: show 350K in savings deposits, earn 120k per annum for 1 applicant, show priority banking status with other banks, or loan at least $1mil. Back to top   Best home loan rates for loans below $500,000 that come with legal subsidy    Bank HSBC Citibank SCB   Type of loan Floating rate (FD-linked) Floating Floating   Lock-in period 2 years 2 years 2 years   Benchmark rate 1M Sibor: 1.82% 1M Sibor: 1.82% 1M Sibor: 1.82%   Year 1 interest rate 2.12% (1M Sibor + 0.30%)  2.17% (1M Sibor + 0.35%) 2.17% (1M Sibor + 0.35%)   Year 2 interest rate 2.17% (1M Sibor + 0.30%)  2.17% (1M Sibor + 0.35%) 2.17% (1M Sibor + 0.35%)   Year 3 interest rate  2.22% (1M Sibor + 0.40%)  2.27% (1M Sibor + 0.45%) 2.17% (1M Sibor + 0.35%)   Interest rate thereafter 2.62% (1M Sibor + 0.80%)  2.52% (1M Sibor + 0.70%)  2.27% (1M Sibor + 0.45%)    Legal subsidy Cash rebate of $1,000 for loans more than $200,000, $2,000 for loans more than $500,000 and $2,500 for loans more than $1.5mil  0.2% of loan amount (capped $2,500)  0.4% of loan amount (capped at $1,800 for loans above $400,000)    Clawback period 3 years 3 years 3 years   Partial repayment penalty 1.5% 1.5%  1.5%   Full redemption penalty 1.5% 1.5%  1.5%   Cancellation fees 1.5% 1.5% 1.5%   Minimum loan amount $200,000 Below $500,000 $100,000   Minimum property size 500 sqft – –   Promotions Interest offset with SmartMortgage, no redemption penalty for loans above $800k, 50% waiver penalty for loan size below $800k, one time free conversion – –    If your outstanding loan is below $500,000, you have fewer refinancing options as only a handful of banks will subsidise your legal fees. These are the current best packages (as of May 2019). Again, banks change their interest rates all the time, so be sure to check MoneySmart’s comparison of housing loans (Singapore) in case there’s a better deal. Right now, you get free, neutral advance and up to $500 in a limited-time promotion when you refinance with MoneySmart. Back to top    Assessing whether you should or should not apply for refinancing of your home loan in Singapore comes with several factors to consider. Contacting a Mortgage Specialist at MoneySmart for a free consultation can also help you make sense of it all.   Related articles Home Loans in Singapore – The Complete Guide to Property Loans Term Loan or Equity Loan in Singapore – What Is It For And How Do You Get One Property Cooling Measures – 10 Most Important Things You Should Know Singaporeans Buying Old, Trendy Hipster Flats, Are You Screwing Yourself?
+
+
+
+
+
+
+
+Tags: Home Loans
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_610{}#indeed_sm_wrap_610 .ism_item{}#indeed_sm_wrap_610 .ism_item .fa-ism, #indeed_sm_wrap_610 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_610 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_610 {
+		display:block;
+	}#indeed_sm_wrap_610 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Peter Lin
+I am the poster boy for reinventing one's self. I've been a broadcast journalist, technical writer, banking customer service officer and a Catholic friar. My life experiences have made me the most cynical idealist you'll ever meet, which is why I'm also the co-founder of a local pop culture website. I believe ignorance is not bliss, and that money is the root of all evil only if you allow it to be.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

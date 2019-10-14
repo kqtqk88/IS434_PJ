@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+DBS Home Loan Singapore Review 2019 — Which Mortgage to Choose?
+Clara Lim  September 20, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Clara Lim 
+
+  September 20, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3180{}#indeed_sm_wrap_3180 .ism_item{}#indeed_sm_wrap_3180 .ism_item .fa-ism, #indeed_sm_wrap_3180 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3180 .ism_item_wrapper{display: block;} 
+
+
+DBS home loan (or POSB home loan) packages are some of the most popular in Singapore today — probably second only to the ever-popular “standard” HDB loan.  Interestingly, DBS home loans are some of the cheapest on the market as well. While bank loans have traditionally targeted private property buyers, they have recently launched some good options that would also entice HDB buyers.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+If you’re buying a new property and looking for an DBS home loan, here are the best packages they offer, whether your property is HDB or private, uncompleted or completed.   Overview of DBS home loan packages If you are new to this whole bank loan thing, the most important thing to know is that different home loan packages apply to different property types.    Property type DBS home loan packages   HDB BTO (under construction) Floating with no lock-in   Private property (under construction) Floating with no lock-in   HDB flat (resale / built BTO) 5-year fixed rate / 2-year fixed rate / floating with no lock-in / floating with 1-year lock-in   Private property (built) 2-year fixed rate / floating with no lock-in / floating with 1-year lock-in    The most important distinction that banks make is between buildings under construction (or BUC) and completed properties. Whether you are buying a cheap HDB BTO in Jurong or that fancy new condo at Paya Lebar, as long as it’s still under construction, the bank will consider it a BUC. For BUCs, DBS offers just the one option, a floating rate package. Generally, banks place more emphasis on financing built properties — be it a recently-completed HDB BTO, a resale HDB flat or a private property that has TOP-ed. If you’re looking for a home loan for a completed property, you get a lot more options. More on the different packages below.   DBS home loan for building under construction (floating) For a building under construction — such as a HDB BTO flat or private property under construction — DBS offers just one home loan package. This is a floating rate home loan with no lock-in, and the annual interest rate is calculated as FHR8 + 1.40% p.a. The same formula applies to every year of the home loan package, and while the formula does not vary, the benchmark of “FHR8” can change.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+FHR8 = DBS’s fixed deposit interest rate, on average over the past 8 months. Right now, FHR8 is 0.95%, which means the current interest rate is 2.35%. Despite being pegged to a fixed deposit interest rate (which you wouldn’t expect DBS to raise too drastically), FHR8 is a published rate pegged to fixed deposits and can rise. Also, although there is also no lock-in period, you may still have to pay a bunch of fees if you cancel or refinance your home loan. It’s just that you would pay less in a no-lock-in home loan compared to one with a lock-in.   DBS home loan for completed properties (2 years fixed) For completed properties, DBS offers several home loan packages and it’s interesting to see how they stack up against each other. The full range of home loans can be split into 2 broad types: Fixed interest rate and floating interest rate. The BUC home loans we talked about earlier are an example of a floating interest rate loan — the interest is pegged to some moving number. Fixed rate home loans, however, promise to charge you a standard rate e.g. 2% p.a. for a specified number of years, regardless of what happens to DBS’s fixed deposit rates, or the economy, or whatever. So they are less likely to give you a heart attack. Traditionally, for fixed rate packages, you pay a little more for the stability and security of a fixed rate. However, this is not the case right now with DBS home loans. Their fixed rate packages are actually really competitive right now. For a 2-year fixed rate home loan, DBS advertises a 2.05% p.a interest rate, which is actually lower than that of their floating rate package (see below). However, after the 2 glorious years are up, it’s anyone’s guess what might happen. From year 3 onwards, the interest rate floats to FHR8 + 1.10% p.a.   DBS home loans for completed HDB flats (5 years fixed) If you like the comfort and security of a fixed rate home loan, DBS has a special 5-year fixed rate home loan package, but it’s exclusive to completed HDB properties only, i.e. a resale flat or a completed BTO. Note that the interest rate will be fixed at 2.2% for 5 years, which is not the lowest, but hey, it beats the 2.6% you pay for an HDB loan. Assuming you save 0.4% a year compared to the HDB loan, you can save 2% of the loan in total after 5 years. If you’re borrowing just a small amount, like $100,000, then OK lah, not a huge deal. But with $1m HDB flats becoming more common these days, an HDB resale flat buyer could potentially save a bundle by switching from the HDB loan to the DBS home loan. Same caveats apply with the other fixed rate home loan package: After the lock-in period, the interest rate will reset to a floating rate (FHR8 + 1.25% p.a.). Depending on the market conditions, you may want to refinance from year 6 onwards.   DBS home loan for completed properties (floating) For comparison’s sake, let’s also look at the home loan packages with floating interest rates for completed properties. DBS has 2 options for floating rate home loans, both of which are pegged to FHR8, their board rate. You can pick from either a cheaper home loan with a 1-year lock-in, or a more expensive one with no lock-in. The 1-year lock-in home loan rate is based on FHR8 + 1.13%, which is currently 2.08% p.a. If you are super FOMO and afraid that something better will come along, you might want to go for the no lock-in package, but the trade-off is a higher interest rate of FHR8 + 1.7%, i.e. currently 2.65%. Although you pay more, you have a bit more freedom to jump ship as soon as possible, although again, note that fees may still apply even if you have no lock-in.   Should you pick a floating or fixed DBS home loan package? As with any other bank offering a variety of home loan packages, the best interest rate really depends on how much you’re borrowing and what sort of property is it. If you are financing a building under construction, there’s not much choice, I’m afraid. Most banks offer only floating rates so you will have to deal with the ups and downs of this type of rate. For completed properties, DBS is offering really affordable rate home loans right now, which can even be cheaper than their floating rate home loans. So, based on current packages, one should definitely go for a DBS fixed rate home loan. On the other hand, if you believe that fixed deposit interest rates will crash in the near future, you may consider the DBS floating rate home loans. However, note that DBS’s floating rates are all pegged to FHR8, a published FD rate that is DBS’ bank index. If you want a public floating rate, that’s SIBOR, which DBS does not offer. Several other banks do, however, peg their home loans to SIBOR.   Should you go with a DBS home loan package? Given how big DBS is in Singapore, it’s quite impressive that they are offering some of the best rates in the market right now, including some preferential rates for HDB buyers. This is great news for those who may wish to refinance their “default” HDB loans, or those who are looking to purchase an HDB resale flat to utilise the newly-announced housing grants. Another reason to go with a DBS housing loan is the benefits you can earn with the DBS Multiplier Account or the POSB Cashback Bonus. With either of these schemes, you can either raise your savings account interest rate, or earn cashback simply by crediting your salary into DBS/POSB and taking up a DBS home loan. Are you interested in applying or doing a DBS home loan refinancing? Speak to one of our mortgage specialists to find out which bank is offering the best home loan in Singapore for your particular needs.   Looking for home loans from another bank? Here are the other home loan packages we’ve reviewed. Best Home Loans Singapore – Most Affordable Housing Loans Reviewed OCBC Home Loan Reviews Singapore UOB Home Loan Reviews Singapore BOC Home Loan Reviews Singapore Maybank Home Loan Review Singapore Citibank Home Loan Review Singapore Standard Chartered Home Loan Review Singapore
+
+
+
+
+
+
+
+Tags: Home Loans
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_931{}#indeed_sm_wrap_931 .ism_item{}#indeed_sm_wrap_931 .ism_item .fa-ism, #indeed_sm_wrap_931 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_931 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_931 {
+		display:block;
+	}#indeed_sm_wrap_931 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Clara Lim
+I used to be MoneyDumb. I hung out at H&M every day and thought that a $50 lunch set was a good deal. These days, I spend my time researching the crap out of life and trying to maximise utility on micro-decisions. I'm not sure if that's an improvement.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

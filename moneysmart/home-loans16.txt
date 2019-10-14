@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+If Divorced, Who Gets The House in Singapore? Splitting Matrimonial Assets & How to Get a New Home Loan
+MoneySmart  September 23, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+MoneySmart 
+
+  September 23, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3889{}#indeed_sm_wrap_3889 .ism_item{}#indeed_sm_wrap_3889 .ism_item .fa-ism, #indeed_sm_wrap_3889 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3889 .ism_item_wrapper{display: block;} 
+
+
+Sometimes, two people who were once in love realise that the other person is not their “happily ever after”. Whatever the reason is, they then decide to go through a divorce to end the marriage legally. Now, a divorce will obviously cost the couple legal fees, but what about the house? Who gets property rights and how does one get a new home loan after that?
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+Here’s what you need to know about keeping your property after the divorce, especially if it’s not fully paid.   How will a property be split during a divorce? There is no simple answer to how a property will be split because several factors come into play. 1. Is it an amicable breakup where you and your partner can decide on who should keep the property? If it is, things are easier because your decision on the HDB flat will be recorded in a court judgment. If it’s a really ugly divorce and you aren’t able to divide your assets amicably, the judges have free rein to do so on your behalf. In cases where the couple has little cash savings, the judges may decide that the matrimonial home should be sold and the proceeds divided among the two parties. This is even if the property is registered under only one party’s name, as long as the judges deem it to be “matrimonial property”. That’s right. If your spouse and kids, if any, lived in that property under ordinary circumstances, it’s fair game for the judges, even if it was a beautiful dwelling passed down by your late grandparents to you and only you. 2. Is it a public HDB flat or a private property? As opposed to private properties, HDB flats come with eligibility conditions because they are supposed to be subsidised housing. So, it’s often not just a simple matter of deciding who gets to keep the flat. Imagine now that you and your spouse decide to split amicably, and want to transfer their “interest in the flat” to your name. Not so easy. Once you’re no longer married, you may not satisfy HDB’s requirements for owning a flat. In order to be allowed to retain the flat, not only do you have to be Singaporean and over 35, but your flat must also have been a resale flat purchased on the open market without the CPF Housing Grant for Family, otherwise you must have satisfied the 5 year minimum occupation period. This means you won’t get to keep the flat even if you paid for the whole thing on your own.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+If your ex-spouse is older, they may be able to keep it; otherwise, you’ll have to sell the flat and distribute the sale proceeds according to what the judge has decided. On the other hand, if you do have a kid, the person who gets custody is going to be allowed to keep the flat. No wonder custody battles can get so fierce huh. But keeping the flat then comes with the question of who needs to pay for the mortgage, and surprise, that’s not going to be a straightforward process either. 3. How much did each spouse contribute to the matrimonial home? If the matrimonial property has to be sold, the court will decide how proceeds from matrimonial properties will be split. Of course, monetary contributions from each party matters, but other less tangible things will be taken into account too. Things like improving or maintaining the matrimonial home, taking care of family or dependants in the house, material or immaterial help given and each party’s financial needs matter.   Steps to divorce and dividing matrimonial property 1. Getting the court documents Divorce is not just a decision between 2 parties. You don’t just get divorced the second both parties agree to end a marriage as there is a legal process that will take months. First, the judge needs to decide that there is breakdown of the marriage. When that happens, you will get an Interim Judgment (Divorce), which is a court document that allows you to start making decisions regarding children, property and other matters. When it comes to deciding to keep the property, it is at this stage that an agreement must be reached on how to split the property between the two parties. However, no action can be taken until both parties get the Final Judgement, officially known as the “Certificate of Making Interim Judgment Final”, which will take at least 3 months from receiving the Interim Judgement (Divorce). 2. Coming to an agreement This is arguably the trickiest part of the divorce proceedings, because there’s a lot of factors to consider. For example, say both parties shared the cost of the initial downpayment equally, but the wife has been paying the majority of the home loan instalments, then it may not be fair to split the cost of house equally. On the other hand, if the husband has not been paying for the home loan instalments because he’s been paying for all the household expenses instead? That might change how the house gets divided. Ultimately, both parties will have to agree how to split the ownership of the house, and if they can’t, then as a last resort the judge may be obliged to step in and make the decision for them. 3. Calculating if you can afford to keep the property Just because you’ve come to an agreement on how the ownership of the house should be split, that’s not the end of the story. We’ll go into the specifics of getting a new home loan in the later section. 4. Deciding whether to keep the property or not What happens if you just don’t have enough to buy over the house? Well, one option would be to agree to sell the house and have the proceeds divided according to the court’s Final Judgement. This would be the simplest, logistically, but probably not the easiest decision, especially since it means uprooting both parties instead of just one. The other option would be for an agreement to be made regarding the ownership, and to reduce the amount that the buyer has to take over. That is why it would be best to obtain an Approval-in-Principle (AIP) with a bank first. This document helps you to know how big a loan you are actually eligible for and how much it will cost you monthly. By doing this after you get your Interim Judgement but before getting your Final Judgement, you will be better prepared to decide if you can afford to take over the property or not. It may also be a good idea to contact our Mortgage Specialist at this stage if you need more help. 5. Getting the Final Judgement and obtaining the bank loan Ultimately, though, once you have agreed on how the ownership of the home will be split between both parties, you will receive the Final Judgement from the court. With this document, you are now eligible to apply for a new bank loan. This is essentially the same process as getting a new home loan.   Getting a new home loan after divorce How much do you need to fork out or have in the bank to get a new home loan after your divorce? The amount that you expect to borrow from the bank is the sum of your share of the outstanding loan, as well as 75% of the “purchase price” or the amount that you’re buying over. Let’s look at a case study where the property is valued at $600,000 and ownership of the house is divided equally. That means the wife needs to buy over the husband’s share of $300,000 (this is the “purchase price”). Also assume that the house is not fully paid and there’s still an outstanding loan of $300,000, which is to be split equally. Her portion of the outstanding loan is $150,000. There are 2 main things to think about: 1. Does she have the downpayment for the house? Firstly, and perhaps most importantly, can she afford the downpayment? This is how to figure out how much cash + CPF she needs at the start:    Downpayment breakdown    At least 5% of the purchase price in cash $15,000   20% of the purchase price in cash/CPF $60,000   Additional Buyer’s Stamp Duty (ABSD) and other charges if applicable    Legal fees $3,500       Total downpayment (cash + CPF) $78,500 (of which at least $15,000 is in cash)    If she doesn’t have at least $15,000 in cash, or can’t make up the difference with her existing CPF, then she’s already in trouble. This is especially difficult if she’s not had steady employment, and therefore doesn’t have enough CPF set aside. 2. How much does she need to loan? Then, she needs to ask herself if she qualifies for the total loan amount of $375,000. The loan amount is worked out like this:    Home loan breakdown    Outstanding loan (wife’s share) $150,000   75% of “purchase price” (i.e. husband’s share) $225,000       Total loan amount $375,000    There are a handful of eligibility factors she must meet. The 30% Mortgage Servicing Ratio (for HDB) or the 60% Total Debt Servicing Ratio (for private properties) decide if her income is sufficient. If she doesn’t qualify for the total loan amount, then she has to take a smaller loan. That means she’ll need to come up with the difference through cash or CPF and include it in her downpayment. Divorce isn’t an enjoyable process for anyone, but hopefully with these steps and calculations, you’ll be able to get through it able to focus only on what’s important and not waste your energy worrying about finding a loan to keep your house. Do you think it’s important to keep the property after a divorce? We want to hear from you.   Related articles Divorce in Singapore: Does an Ex-Wife Really Get Half the Man’s Money? HDB BTO 2019 – Step-By-Step Guide To BTO Application Singles Singapore Citizen & Joint Singles Scheme (2019): How to Buy HDB Flats for Singles
+
+
+
+
+
+
+
+Tags: Home Loans
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4053{}#indeed_sm_wrap_4053 .ism_item{}#indeed_sm_wrap_4053 .ism_item .fa-ism, #indeed_sm_wrap_4053 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4053 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_4053 {
+		display:block;
+	}#indeed_sm_wrap_4053 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+MoneySmart
+We help people maximise their money through the provision of powerful tools and awesome content, by empowering them to make smarter financial decisions.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

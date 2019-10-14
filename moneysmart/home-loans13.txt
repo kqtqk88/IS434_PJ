@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+BOC Home Loan Singapore Review 2019 – Which Mortgage to Choose from BOC
+Joanne Poh  October 8, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Joanne Poh 
+
+  October 8, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4369{}#indeed_sm_wrap_4369 .ism_item{}#indeed_sm_wrap_4369 .ism_item .fa-ism, #indeed_sm_wrap_4369 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4369 .ism_item_wrapper{display: block;} 
+
+
+When looking for a home loan, BOC isn’t the most obvious choice. They’re still very much a niche home loan provider in Singapore, since they do not cater to loans for HDB flats, which make up the majority of home purchases in Singapore.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+BOC also caters to higher value home loans, so as a private property buyer you might not qualify for one of their loans if your loan amount falls below a certain threshold. For those who do qualify, here’s a guide to BOC’s home loan packages.    Overview of BOC home loan Singapore packages    Property type Home loan packages   Private Property (under construction)    Private property (built) 2-year fixed rate, 3-year fixed rate    Do note that BOC only offers home loans for minimum loan amounts of $500,000 and private properties of more than 500 sqf in size. This means HDB flat buyers or buyers of uncompleted property will not find a suitable loan at BOC.   BOC Home Loans for completed private properties (fixed 2 or 3 years)  Currently, BOC offers two types of loans for completed private property of at least 500 square feet: a 2 year fixed rate loan and a 3 year fixed rate loan. The 2-year fixed rate home loan locks in a fixed interest rate, currently 2.5%, for a period of 2 years. This is one of the most attractive interest rates for fixed rate home loans at the moment. After the 2 year period is over, your interest rate will be pegged to the 3-month SIBOR. The 3-year fixed rate home loan starts out charging higher interest rates than the 2-year loan at 2.65%, but in exchange you get to lock in the fixed rate for 3 years. After the third year, your interest rate will be pegged to the 3-month SIBOR. There is currently a legal subsidy of 0.40% of loan amount that is capped that $1,800 that you can take advantage of.   Should you pick a 2-year or 3-year fixed BOC home loan package? Which loan to go for really depends on your predictions for the SIBOR.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+If you think the SIBOR will rise beyond the 3-year fixed rate home loan’s starting fixed interest rates (currently 2.65%), it might be better to opt for the 3-year fixed rate loan in order to lock in the fixed rate for a longer time. However, if you don’t think the SIBOR will rise that much, you might want to opt for the 2-year fixed rate home loan instead. And remember, you also have the option to refinance after the lock-in period is over.   Should you go with a BOC home loan package? BOC does not offer floating rate home loan packages. Floating interest rates fluctuate and are typically pegged to SIBOR, the bank’s internal board rate or the banks’ fixed deposit rates. These packages come with the risk of interest rate fluctuations, but are a good choice in a low interest rate environment. BOC only offers fixed rate home loan packages which enable you to lock in a fixed rate for a number of years, after which your interest rates become floating and are pegged to the 3 month SIBOR. Fixed rate home loans offer stability for a period of time and are suitable if you believe interest rates will rise in the near future. You will, however, start out paying higher interest rates in exchange for the security. At the moment, BOC’s interest rates are on the high side compared to what other banks are offering. Given the limited loan options they offer, BOC is probably targeting wealthy buyers who are not looking for rock bottom interest rates and who are willing to pay a bit more for stability. Are you interested in applying for a BOC home loan? Speak to one of our mortgage specialists to find out which bank is offering the best home loan in Singapore for your particular needs.   Looking for home loans from another bank? Here are the other home loan packages we’ve reviewed. Best Home Loans Singapore – Most Affordable Housing Loans Reviewed OCBC Home Loan Reviews Singapore DBS Home Loan Reviews Singapore UOB Home Loan Reviews Singapore Maybank Home Loan Review Singapore Citibank Home Loan Review Singapore Standard Chartered Home Loan Review Singapore
+
+
+
+
+
+
+
+Tags: Home Loans
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_1031{}#indeed_sm_wrap_1031 .ism_item{}#indeed_sm_wrap_1031 .ism_item .fa-ism, #indeed_sm_wrap_1031 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_1031 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_1031 {
+		display:block;
+	}#indeed_sm_wrap_1031 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Joanne Poh
+In my previous life, I was a property lawyer who spent most of my time struggling to get out of bed or stuck in peak hour traffic. These days, as a freelance commercial writer, I work in bed, on the beach, in parks and at cafes, all while being really frugal. I like helping other people save money so they can stop living lives they don't like.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

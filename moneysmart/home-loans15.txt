@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+DBS Home Loan vs OCBC Home Loan vs UOB Home Loan – Which Local Bank Is Best?
+Clara Lim  September 24, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Clara Lim 
+
+  September 24, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_1403{}#indeed_sm_wrap_1403 .ism_item{}#indeed_sm_wrap_1403 .ism_item .fa-ism, #indeed_sm_wrap_1403 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_1403 .ism_item_wrapper{display: block;} 
+
+
+When the time comes to buy a home, most Singaporeans go straight for the HDB loan as if on autopilot. It’s only when we’re ineligible for it that we realise that we can take up a DBS, OCBC or UOB home loan for lower interest rates. Wah, rebel sia! Singapore might fancy itself the financial hub of Southeast Asia… but the truth is, most Singaporeans’ exposure to banks are limited to the big 3 local banks. The competition between them is fierce, but does any one of them have an edge over the rest?
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  Home Loans // An OverviewBTO/BUC vs.Completed ProjectsFIXED RATESoffer predictable, locked rates that last for 2 – 3 years.They are however,more expensive.FLOATING RATESrise and fall with themarket, which can be unsettling for some.Interest rates are lowerbecause of this.CompletedProjectsget both loan options —Fixed and Floating.BTO/ BUCget only floating rates.Banks offer different loan packages depending on the status of your home.  DBS home loan vs OCBC home loan vs UOB home loan packages Let’s take a quick look at the home loan Singapore packages offered by DBS, OCBC and UOB at the moment (valid as of Sep 2019). We’ll split them into fixed and floating home loan rates for easier comparison.     Fixed rate home loans Floating rate home loans   DBS 2.05% (2Y) / 2.2% (5Y, HDB only) Pegged to FHR8 (no SIBOR)   UOB 1.98% to 2.08% (3Y) / 2.08% (2Y) / 2.18% (2Y, HDB only)  Pegged to 3M SIBOR / board rate   OCBC 2.15% (2Y) Pegged to 3M SIBOR / 6M SIBOR / board rate    Wondering what the difference between “floating” and “fixed” is? Floating interest rate packages are pegged to moving benchmarks (e.g. “FHR 8” or “MRP” or “SIBOR”) are often cheaper, but more volatile. Fixed rate home loans’ interest rates don’t move for the first couple of years (say, 2 years for a “2Y” lock-in period). When trying to assess a floating rate home loan, you need to understand two main components of the package. First, what is the benchmark that the interest rate is based on? You should understand what exactly the acronym refers to, how transparent is it and whether it’s likely to be volatile. Second, look at how the interest rate is structured. Is the formula the same each year, or does the interest creep up every year? You’re likely to be repaying your home loan for a good number of years, so make sure that the rate past the first few years is something you can live with as well.   Parts of the Floating Interest RateFloating Interest Rate examples2 Things to ask yourselfUnderstanding theFloating Rate SystemIf you’re taking up a Floating Rate,whether or not by choice, beinformed about these aspects soyou know what you’re getting into.Do you know what exactly the benchmark is? How volatile is it? Is it a transparent public rate, oris it set at the bank’s discretion?Does the bank increase the spread (e.g. from +0.25% to +0.7%) after a certain number of years?… Both aspects will affect your loan repayments.Benchmark(e.g. SIBOR, Internal Board Rate)Spread(the “0.25%” added to the benchmark)3 monthSIBOR +0.2%FHR 8+1.4%MRP+0.68% DBS home loans Singapore — lowest interest rates 2019 Given the long queues at DBS ATMs in today’s cashless world, it’s hardly surprising that DBS home loans are a top choice for many Singaporeans. For properties that are still being built, e.g. HDB BTOs or private condos that have yet to TOP, you can only opt for a DBS floating rate home loan. Unlike the other banks, DBS offers neither a “board rate” or a SIBOR-pegged rate — instead, their floating rates are pegged to their fixed deposit interest rates.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+In the past, we thought that FD-linked interest rates could be safer than board rates. Where got bank anyhow increase fixed deposit rates for no reason, right? Wrong! FHR8 was 0.2% in Aug 2018, but as nearly quintupled to 0.95% since. The one consolation is that the formula for interest rates is the same every year. Of course, that’s only going to be of use if DBS can maintain its fixed deposit rates. Those financing built private properties can opt for the (much more attractive) DBS fixed rate home loan package where the interest rate is 2.05% for 2 years. This is actually lower than the floating rate package! But God knows what will happen in Year 3 when the package reverts to a floating rate; best to be prepared to refinance that DBS home loan. DBS is also aggressively chasing the “HDB market”, trying to entice HDB resale flat buyers to switch from their HDB loan to DBS. They have a special 5-year fixed rate package for resale HDB flats at 2.2% p.a. — that’s 0.4% lower than the HDB loan! TL;DR: DBS only offers fixed deposit-linked floating rates, which are not very attractive. On the other hand, they have some really cheap fixed rates right now.   UOB home loan Singapore — lowest interest rates 2019 If you’re planning to finance an uncompleted private property, you can only look at UOB’s floating rate home loans, among which you can choose from a SIBOR-linked or board rate-linked home loan package. (For HDB BTOs, there is no SIBOR-linked package.) So how to choose? Well, a board rate means, basically, that the bank can do whatever they like to the rate — it is not transparent to the consumer (though they have to notify you of any increases). If you do take a loan pegged to the board rate, you need to be prepared to jump ship if an increase happens. On the other hand, a board rate is less volatile than SIBOR, since (presumably) the folks at UOB have better things to do than hold meetings to revise their rates every day. SIBOR (Singapore Interbank Offered Rate), on the other hand, is an industry-wide and transparent rate. Anyone with an internet connection can check the current SIBOR. However, SIBOR tends to be quite volatile, especially when there’s global economic instability. You’ll need to buffer for that month-to-month fluctuation when planning your cash flow. For completed properties, UOB is offering very competitive fixed rate home loans, with the cheapest one being a (frankly astounding) 1.98% for the first 2 years, then 2.08% for the 3rd year — that’s a respectable 3-year lock-in period. However, it’s only for private properties. In case the interest rate becomes unfavourable from Year 4 onwards, you have the option to refinance your UOB home loan and get a better deal elsewhere.   OCBC home loans Singapore — lowest interest rates 2019 As with all banks, if you’re financing a property-to-be, you can only choose from one of OCBC’s floating home loans. However, OCBC does give you not 1 but 3 benchmarks to choose from: (a) a board rate, (b) 3M SIBOR, or (c) 6M SIBOR. For many Singaporeans choosing between SIBOR and board rates, SIBOR is the lesser of the 2 evils since it’s transparent — it’s just a bit easier to monitor and manage your cashflow. But SIBOR’s volatility is a problem. With a 3M SIBOR home loan, you will basically be changing your repayment amounts every 3 months! To mitigate these ups and downs, OCBC offers a 6M SIBOR home loan, which means your interest rate will only be revised every 6 months. However, it’s a bit more expensive. For fixed rate home loans, OCBC is currently offering a 2.15% home loan with a 2-year lock in. While this sounds very reasonable, you’ll realise that it is one of the higher fixed rates compared to DBS and UOB.    Conclusion: Which bank offers the best home loan now? Unless you’re a die-hard fan of DBS and have a tattoo of POSB mascot Smiley the Squirrel on your back, chances are you wouldn’t mind going with any of the 3 local banks. So which do you choose? Your best option depends on the property you plan to finance. If you’re buying a property that’s still under construction — HDB BTO or private BUC — then bo pian, you have to get a floating rate home loan. Not fun! Not only are floating rate home loans liable to give you a heart attack, they’re also generally more expensive than fixed rates at the moment. Though it’s probably one of the more expensive options, I would personally pick OCBC’s 6M SIBOR home loan so I only need to freak out once every 6 months. (If you’re buying an HDB BTO, you can of course go with the HDB loan until your new home is built. The HDB loan interest rate of 2.6% is relatively high, but at least it’s stable.) For HDB resale flat buyers, or those refinancing for their freshly-built HDB BTOs, hands down the best home loan package out there is DBS’s 5-year fixed rate home loan which is fixed at 2.2% right now. If you’re refinancing from the HDB loan, this is a no-brainer that will save you 0.4% a year in interest. For built private properties, the best rate (and longest lock-in) right now is UOB’s 3-year home loan package, where you can lock-in really good rates of 1.98% to 2.08% for 3 glorious years. Of course, a long lock-in also means a longer commitment period, so if you’re liable to flights of fancy — like selling your house after 3 months to run away to Peru — then think carefully before committing.   P.S. A word of caution regarding floating rate home loans Whether linked to a board rate or SIBOR, a floating rate home loan is only for those with strong constitutions. Because these rates can give you a heart attack anytime, it’s super duper important to be (a) very savvy about what you’re getting into and (b) know how to refinance. Ultimate, you might just have to go for the bank that offers you the most flexibility. For example, one that is more generous with free conversions. This is when you’re allowed to switch to another one of their home loan packages, e.g. if the current package interest rate goes up too much for your tastes. It’s a way for them to retain you as a customer. If you do not have the constitution of an ox, you might like to opt for a fixed rate home loan instead. These packages are a little more expensive, but they do give you (temporary) peace of mind. And the Winner is…You can do the research and see which loanserves your needs the best.Use the MoneySmart Home Loan Wizard to findthe best loan for you and yours.The Banks! But… Remember that DBS, UOB and OCBC are not the only banks in Singapore offering home loans. Check out the MoneySmart Home Loan tool to find out which bank is offering the best deal for your needs.   Related articles HDB Loan vs Bank Loan – Which Is Better? 5 Things to Know Before You Commit Best Home Loans Singapore – Most Affordable Housing Loans Reviewed How to Refinance Your Home Loan in Singapore & Save Money on Your Mortgage
+
+
+
+
+
+
+
+Tags: Home Loans, This Versus That, UOB
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_2369{}#indeed_sm_wrap_2369 .ism_item{}#indeed_sm_wrap_2369 .ism_item .fa-ism, #indeed_sm_wrap_2369 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_2369 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_2369 {
+		display:block;
+	}#indeed_sm_wrap_2369 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Clara Lim
+I used to be MoneyDumb. I hung out at H&M every day and thought that a $50 lunch set was a good deal. These days, I spend my time researching the crap out of life and trying to maximise utility on micro-decisions. I'm not sure if that's an improvement.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Insurance
+After Spending So Much On Home Renovations, Are You Sure Your Home is Protected?
+Mark Cheng  October 5, 2015 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Mark Cheng 
+
+  October 5, 2015 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4209{}#indeed_sm_wrap_4209 .ism_item{}#indeed_sm_wrap_4209 .ism_item .fa-ism, #indeed_sm_wrap_4209 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4209 .ism_item_wrapper{display: block;} 
+
+
+Singaporeans certainly do love their homes, and why not? After spending a significant amount of money just to purchase a home, there’s still the refurbishing of the home to take into account. We’ve previously looked at how much Singaporeans spend on home renovations, and it’s certainly not a small sum at all. After spending all that money, you would think it would make sense to ensure that your nice, new home is protected right? Well, most Singaporeans think they are, but that might not be the case. When you purchase a HDB flat, condominium apartment or landed property, most people are required to purchase a fire insurance policy. Now, you might be forgiven for seeing the words “fire” and “insurance” and thinking that you got your bases covered, but fire insurance and home contents insurance cover two separate things.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+We’ve even had people refusing to take a better home loan package from MoneySmart because there was no “free 1-year fire insurance coverage”, thinking that it’s the most important thing they need to protect themselves against home damage, however this is not true and let’s see why: Let’s say your home accidentally catches fire over a minor cooking incident, or in the classic Hollywood case, you leave the iron on and your beloved dining table, your son’s Playstation and your expensive Italian sofa get burnt to a crisp. Not having a policy that covers the contents of your home is going to render you helpless when it comes to claiming anything from your loss. According to a report from the Singapore Civil Defence Force (SCDF), in the period from Jan-Dec 2014, there were a total of 2,888 residential fires that the SCDF had to respond to. That’s no small number at all, and we’re pretty sure that when it comes to your house catching fire, it’s not as if the fire is going to selectively decide what it wants to burn. Needless to say, overlooking home contents insurance could incur some serious costs.   Fire vs Home Contents Insurance – What is the Difference? The key difference between the two policies is that for fire insurance, it only covers the cost of damage to your home’s structure, replacement of any “original” fixtures/fittings, or rebuilding a home (landed property). This includes the original flooring, ceiling, walls, doors, windows, and electrical cabling. Home contents insurance, on the other hand, covers – what’s inside your home; your renovations and contents inside your house. But there’s a bit more detail to this than fire insurance, which is comparatively simpler.   What Does Home Contents Insurance Cover? At its core, home contents insurance covers “perils” such as fire, lightning, vandalism and other causes as stated within the policy. By and large, these are broadly the same amongst insurers. Its key purpose is to cover the cost of replacing your possessions should they be damaged, destroyed or stolen. It’s important to take note of the causes for which the claims are being made as this will affect whether or not you can successfully make a claim or not
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+There are additional benefits apart from just coverage of damage to your home which are perhaps just as important when dealing with an incident to your house or belongings. Here are some things that you probably didn’t know home contents insurance policies can cover, depending on which you get:  Temporary storage and accommodation: if you need to keep your stuff somewhere while your renovations are getting completed etc Emergency Cash Allowance : If your house is inhabitable due to the insured perils for more than 3 days, the emergency cash allowance can help with expenses Accidental Medical Expenses: insures you against any medical expenses or bodily injuries due to an accident Replacement of locks and keys due to theft  There are of course a whole list of other things that home contents insurance covers, and this differs from insurer to insurer, but if you want to make sure that the items inside your house are protected, this is the policy you need to be getting.   What Else Should You Look Out For? This is not something usually covered in all policies, but some plans, such as the HL Home360 policy (a home insurance plan underwritten by HL Assurance, a member of Hong Leong Group) also include a 24-hour concierge service that provides access to electricians, plumbers, locksmiths, pest control technicians and air con repairmen. This is a great resource to have if you want to enjoy the simplicity of calling just one number, anytime of the day, when something happens at home that needs fixing. This additional service saves you the hassle of having to scramble around the Internet looking for a number to call. Which is usually the case for most of us isn‘t it? Air-con breaks down? Google for air-con repair man. Locked out of your own home? Google for locksmith. Whatever you find might not be available immediately when you call and worst still if it’s a weekend, you might be sweating a few nights away in your bed with the fan on. Remember, one call = bunch of handy men ready to fix whatever you need. Pretty neat if you ask us!   So Which Policy Should You Get? Now that we’ve established that by and large, home contents insurance is a necessity for most home owners on top of just basic fire insurance, should you be getting a named perils policy or all-risk coverage? You might think that an all-risk policy is only relevant to people with a big home, but that’s not necessarily true. Here’s some factors to consider on whether to get all-risk coverage or not:  Having young children at home Having elderly folk at home Travelling fairly often (1-3 times per quarter) Valuable items in your home  The coverage amount and insurance premium also varies greatly between insurers, with annual premiums ranging from as low as $70 (really bare bones stuff) to $400+ (good stuff worth getting), so as always, be sure to compare policies till you find the one that’s right for you. You never know when those additional add-ons to your policy might save you a lot more than just money. Do you think home insurance is necessary? Share your thoughts with us here! This article was brought to you by HL Assurance.
+
+
+
+
+
+
+
+Tags: Featured, Home Insurance
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_1187{}#indeed_sm_wrap_1187 .ism_item{}#indeed_sm_wrap_1187 .ism_item .fa-ism, #indeed_sm_wrap_1187 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_1187 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_1187 {
+		display:block;
+	}#indeed_sm_wrap_1187 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Mark Cheng
+I rant and rave a lot, but when I'm not busy doing that, I'm managing the content for MoneySmart. I love Singapore, but I also believe in helping it to improve bit by bit, and that's where MoneySmart comes in. Have some thoughts? Drop me an email at [email protected]
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+
+

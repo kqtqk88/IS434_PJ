@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Insurance
+Here’s Why Home Insurance is More Than Just About Protecting What’s in Your House
+Peter Lin  January 23, 2018 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Peter Lin 
+
+  January 23, 2018 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_1296{}#indeed_sm_wrap_1296 .ism_item{}#indeed_sm_wrap_1296 .ism_item .fa-ism, #indeed_sm_wrap_1296 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_1296 .ism_item_wrapper{display: block;} 
+
+
+Are you an HDB homeowner? Then you should know that you must have home insurance in some way or another. And if you took up a housing loan from HDB, then that insurance MUST be HDB Fire Insurance, which is offered by Etiqa. But should you take the time to see what HDB Fire Insurance covers, you’ll learn that it only provides coverage for the building structure, fixtures and fittings provided by HDB. You should therefore also consider a complementary home contents policy that protects your renovation, all moveable household items & personal effects (i.e. everything that isn’t covered by HDB Fire Insurance).
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+But a good home contents policy goes beyond just protecting your household items and renovations. Here are three things you should look out for in your home contents policy:   1. Personal Legal Liability and Tenant’s Liability Say you’re hosting an entertaining house party one night and invited several of your friends. Should one of them accidentally hurt themselves while in your house, you are ultimately responsible. This is considered personal legal liability. A good home contents policy will cover you for personal legal liability up to a certain amount, which should more than cover the cost of any injuries sustained by your guests. Say your injured guest turns out to be rather unfriendly, and actually brings legal charges against you! How rude. You should look for a good home contents policy that also cover the costs and expenses of legal defence under personal legal liability. In addition, if you are a tenant, and you lose or damage something that belongs to your landlord, and they bring charges against you. A good home contents policy will cover this under tenant’s liability.   2. Family Accidental Death Protection Did you know that more than a third of all moderate to severe injuries in Singapore happen in the house? Another aspect of a useful home contents policy provides family accidental death protection. Should you, your spouse or children get into an accident in the home, and suffer grievous injuries that lead to death, a good home contents policy should provide some level of coverage here as well. A better home contents policy extends this coverage to you regardless of where in the world the accident occurs, with some limitations, of course.   3. Emergency Home Assistance One more way that a good home contents policy can protect you is by providing Emergency Home Assistance. This includes frequently requested services like locksmiths, plumbers, electricians and pest control. It can be such a hassle to hunt for such service providers at the last minute – after all, no one thinks of finding a good plumber until their pipes start leaking.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+A good home contents policy should fully cover the service fees and any other costs incurred, should such an inconvenience occur. Plus, you don’t have to worry about who to call should this happen in the middle of the night, since your insurer should have a hotline that’s 24/7.   What home contents policy offers these three types of coverage? Etiqa ePROTECT home provides all the above, as well as protects against damage to your home contents and renovations. Because Etiqa also provides the compulsory HDB Fire Insurance, ePROTECT home perfectly complements your existing home insurance policy. This means you get more, for a lower premium. How low? Etiqa ePROTECT home provides you all the above coverage for as little as $60.50 a year. But if you sign up for a 5-year plan, you get to enjoy a 15% discount and only pay $257.20, or $51.44 a year. That’s less than 15 cents a day! But if you can afford the higher premiums, consider increasing your level of coverage. Etiqa ePROTECT home allows you to choose from 3 different plans depending on your budget, but more importantly, the cost of your home contents.   Want to make sure your home contents are sufficiently covered? Click here to get a quote for Etiqa ePROTECT home insurance policy. This article was brought to you in collaboration with Etiqa.
+
+
+
+
+
+
+
+Tags: Featured, Home Insurance, Sponsored
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4586{}#indeed_sm_wrap_4586 .ism_item{}#indeed_sm_wrap_4586 .ism_item .fa-ism, #indeed_sm_wrap_4586 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4586 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_4586 {
+		display:block;
+	}#indeed_sm_wrap_4586 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Peter Lin
+I am the poster boy for reinventing one's self. I've been a broadcast journalist, technical writer, banking customer service officer and a Catholic friar. My life experiences have made me the most cynical idealist you'll ever meet, which is why I'm also the co-founder of a local pop culture website. I believe ignorance is not bliss, and that money is the root of all evil only if you allow it to be.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Mortgage Insurance
+Do HDB Owners Actually Know What the Home Protection Scheme Even Does and Is It Good Enough
+Peter Lin  August 17, 2015 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Peter Lin 
+
+  August 17, 2015 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_913{}#indeed_sm_wrap_913 .ism_item{}#indeed_sm_wrap_913 .ism_item .fa-ism, #indeed_sm_wrap_913 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_913 .ism_item_wrapper{display: block;} 
+
+
+We Singaporeans love our cars and our tech. We take out all kinds of warranties on them, make sure they’re in the best condition and buy all kinds of protective devices to ensure they look exactly the same as the day we bought them. Even though they’re depreciating in value on a daily basis!  Strangely enough, we don’t seem to spend the same amount of time worrying about our homes as much. Even though it’s the biggest purchase we’ll make in our lives, and actually increases in value! Let’s be honest – how much protection do we really have on our homes? Fortunately for HDB flat owners, we’ve got the Home Protection Scheme.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  Wait, wait, wait… what exactly is this Home Protection Scheme? The Home Protection Scheme (HPS) is a mortgage-reducing term insurance that protects you and your family should you die or suffer total permanent disability before the housing loan is fully paid. What this means is that your outstanding home loan will be taken care of should something unexpected happen to you.   Who has to pay for this Home Protection Scheme? You need to be insured under HPS if you’re planning to use your CPF funds to pay for your home loan. You can apply for HPS at HDB or the bank, depending on where your home loan comes from. HPS only covers HDB or DBSS flats, and does not cover private housing, including executive condominiums and HUDC flats. If you aren’t using your CPF funds to service your home loan, but still want to be covered under HPS, you may do so. The total coverage per household should add up to at least 100%. This means that if you are covered for 80% of the loan, then your co-owner needs to be covered for at least 20% of the loan. If you’re kiasu, then you can both be insured for the maximum of 100% each. This way, regardless of who suffers death or total permanent disability, the home loan will be fully paid for.   When is HPS not compulsory? If you already have some other form of mortgage insurance or are covered under other kinds of policies like whole life, term life, endowments, or even a rider attached to a basic policy, then you can apply to be exempted from HPS. Basically, if you already have another policy covering your outstanding home loan up to the full term of the loan, then you don’t need HPS. Either way, if you are already on HPS, giving it up would not be the wisest thing to do. It’s pretty cheap for the coverage you get and you pay for it using CPF so you don’t feel the out-of-pocket pinch. If you feel the need to get more insurance independently, do it on top of the HPS.   So… how much will HPS cost me? There are 4 factors which determine your premium for the Home Protection Scheme. They are:  Outstanding home loan amount on your flat The loan repayment period of your flat The type of loan – concessionary rate or market rate Your age and gender  The first two are pretty straightforward – the higher the loan amount, the higher the premium. In the same way, the shorter the repayment period, the higher the premium. The type of loan depends on whether your HDB loan was taken out before 2003. In the past, there used to be an option for home buyers to choose between the HDB Concessionary Interest Rate or the HDB Market Interest Rate. The HDB Concessionary Interest Rate is set at 0.1% more than the current CPF Interest Rate, while the HDB Market Interest Rate is based on the average housing loan interest rates offered by the three local banks – DBS/POSB, OCBC and UOB. Currently the HDB Concessionary Interest Rate is 2.60% per year while the HDB Market Interest Rate is currently 3.38% per year. HDB has stopped giving out HDB Market Interest Rate mortgage loans since January 1, 2003.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+As the HDB Market Interest Rate is higher than the HDB Concessionary Interest Rate, the HPS premium is more for those with HDB Market Rate loans compared to HDB Concessionary loans. Needless to say, if you still happen to be on the HDB Market Rate loan package (or even if you are on the HDB Concessionary loan), you probably want to head on over to the MoneySmart Refinancing page to get a better home loan package. Finally, your age and gender also determine your HPS premiums. The older you are, the higher your premium. Men also generally have to pay higher premiums than women.   How much is the HPS premium I have to pay and how long should I pay it? Great question! CPF has provided a simple Home Protection Scheme Premium calculator to help you estimate how much you have to pay each year. One thing to note is that for the Home Protection Scheme, you only need to pay for 90% of your cover period. That means if you plan to be covered for 30 years, you’ll only need to pay premiums for the first 27 years. Let me illustrate. Ms. Zulaiha is 35 this year and has taken out a $600,000 loan from HDB for her flat. The tenure of her loan is the maximum of 30 years (the loan has to end before she’s 65) and she wants to be 100% covered should anything happen to her. She only needs to pay for the first 27 years and her premium is about $660.00 a year, or only $55 a month. Not bad for peace of mind for the rest of your loan period.   Okay, I know HPS premiums are affordable… but how do I avoid paying more than I need to? Two things you need to look out for to avoid overpaying your HPS premium. If your loan repayment period or loan amount has changed, maybe because you’ve paid up earlier than expected, then you’ll need to get your HPS premium adjusted to a lower amount. Also, if your share in the repaying the home loan has changed, maybe because your co-owner is able to pay a larger share, you should also get your HPS premium adjusted. You may also want to consider better mortgage insurance products that may give you higher coverage at competitive premiums.   Do you know how much you are paying for HPS? Do you think it’s a fair amount? Let us know.
+
+
+
+
+
+
+
+Tags: Mortgage Insurance
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4601{}#indeed_sm_wrap_4601 .ism_item{}#indeed_sm_wrap_4601 .ism_item .fa-ism, #indeed_sm_wrap_4601 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4601 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_4601 {
+		display:block;
+	}#indeed_sm_wrap_4601 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Peter Lin
+I am the poster boy for reinventing one's self. I've been a broadcast journalist, technical writer, banking customer service officer and a Catholic friar. My life experiences have made me the most cynical idealist you'll ever meet, which is why I'm also the co-founder of a local pop culture website. I believe ignorance is not bliss, and that money is the root of all evil only if you allow it to be.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

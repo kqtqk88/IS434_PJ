@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Insurance
+HDB Fire Insurance vs Home Insurance – What’s the Difference?
+Joanne Poh  July 30, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Joanne Poh 
+
+  July 30, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4553{}#indeed_sm_wrap_4553 .ism_item{}#indeed_sm_wrap_4553 .ism_item .fa-ism, #indeed_sm_wrap_4553 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4553 .ism_item_wrapper{display: block;} 
+
+
+Your home is your castle. It’s also where you store most of your worldly belongings, from your laptop and jewellery to your tabletop RPG game collection. And since this is Singapore, you probably also spent a small fortune on it. So what happens if your neighbour burns down your entire block, thanks to his crappy bootleg electric scooter?
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+You might be under the impression that you’re covered, since you vaguely remembering paying for some compulsory HDB fire insurance years ago. But you’re actually you’re not as covered as you think. In fact, if you didn’t buy a separate home insurance policy of your own volition, you’ll probably have to scrape your piggy bank clean to get your home back in liveable, non-charred condition. What the hell, right?   Contents  What does (and doesn’t) HDB fire insurance cover? Which types of insurance are compulsory? Fire insurance vs home insurance — what’s the difference? What is home insurance and what does it cover? Where can you buy home insurance and how much does it cost? Cheapest home insurance policy in Singapore for HDB owners How to choose a home insurance policy Is home insurance necessary?    You mean HDB fire insurance doesn’t cover fires!? If you live in public housing, you might remember being made to purchase compulsory HDB fire insurance when you signed up for your HDB loan. As its name suggests, HDB fire insurance does in fact insure against fires, but the scope of coverage is limited. HDB fire insurance compensates for damage to the building. That would mean the original structural elements of your home like the walls and electrical wiring as they were when you first moved in. But it does NOT protect the contents of your home such as furniture, appliances and personal belongings, nor does it protect renovated fittings such as your flooring or walk-in wardrobe. As a general rule of thumb: If it wasn’t already there when you got your house keys, then it’s not covered by HDB fire insurance. Practically speaking, what this means is that, in the event of a major fire, you don’t have to pay to fix the damage to your walls, electrical wiring, HDB water pipes and so on. But you will still need to pay out of your own pocket for the renovation to reinstate your flat to its original condition, and to replace all the contents of your home.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+Back to top   What type of home / fire insurance is compulsory? Whether you’re an HDB or private property owner, home insurance is totally optional. Fire insurance, on the other hand, is mandatory in many cases, which explains why it’s also a lot more common. Here’s an overview of those scenarios. HDB flats: All HDB flat owners taking out an HDB loan are automatically signed up for HDB fire insurance, currently provided by Etiqa (HDB will switch provider to FWD from August 2019 onwards). You must continue with this fire insurance plan for as long as you have an outstanding HDB loan. The cost ranges from $1.50 to $7.50 for 5 years. If you are buying your HDB flat with the help of a bank loan, it likely that the bank lending you the money will require you to have a fire insurance policy naming them as the beneficiary. This type of policy is called a Mortgagee Interest Policy. That means that if anything happens to your property, the insurance payouts go to the bank. For those who have already paid off their home loans or paid for their property in cash, fire insurance is no longer compulsory. Private property: Again, when you sign up for a bank loan, the bank lending you the money will require you to have a fire insurance policy (Mortgagee Interest Policy) on the amount of money outstanding with the bank as the beneficiary. Those who have bought condo units should be aware that your MCST also maintains a fire insurance policy on behalf of the entire condo estate. But your own renovations may not be covered, and the contents of your home are almost definitely not covered either. If you’ve paid off your loan and live in landed property, you are not obliged to get fire insurance. Back to top   What is home insurance and what does it cover? Now you’re starting to realise that whatever insurance coverage you have is actually pretty damn thin, right? Enter home insurance, which is meant to supplement fire insurance. It more or less covers the home against fire — along with other common disasters like theft and burst water pipes — except this time, the scope of coverage is much wider. (And you are the beneficiary, not the bank.) Home insurance protects your home and the contents within, not just the structural features. This includes not only any renovations and other fixtures and fittings you might have had installed, but also the contents of your home. These might include household appliances and even the people in your home like your family members or domestic helper. While every home contents insurance policy might be slightly different, here are some common types of protection offered. Renovations: Should your building be destroyed in a fire or some other disaster, you’ll want insurance to compensate you for the cost of having to rebuild it. If you live in an HDB flat, the compulsory HDB fire insurance policy you would have bought should cover you for the original building, as well as original fixtures and fittings. However, home insurance is needed to cover any renovations or additional fixtures and fittings you might have installed in your home. Home contents: Unless you’re living in an empty house, you will have amassed quite a few items like your fridge, washing machine, TV and so on. Home insurance protects these contents of your home if they are damaged or stolen. Personal liability: Personal liability coverage offers you protection if you become legally liable for something that happens in the home. For instance, if a fire starts in your home and spreads to your next-door neighbour’s, you might be held liable for that damage. Personal liability coverage can also be useful if you’re a renter, as it protects you should your landlord hold you responsible for breaking one of his possessions. Alternative accommodation: If your home becomes uninhabitable due to a major incident such as a fire, you will need somewhere to stay. Home insurance pays you a daily benefit so you can find alternative accommodation. This benefit is usually capped at a certain number of days. Pets: Certain insurers might cover pets, or allow you to include pet cover as an optional add-on. Do note that such cover is usually only extended to dogs and cats, and limited to certain breeds or pedigree animals. Personal accident for you, your family and/or domestic helper: Receive compensation for medical expenses incurred, or a lump-sum payout for accidental death and disability. This may be included with the plan or included as an optional add-on. Personal effects, loss of money and valuables: In the event of theft or a break-in, home insurance can offer coverage for your money, valuables and personal belongings. There is usually a limit to how much you can claim for each type of item. Insured peril or all-risks: Some home insurance plans allow you to choose between “insured peril” and “all-risk” plans. Insured peril policies will offer you protection in the event of certain types of mishaps that are indicated in the policy, such as fire, flood, earthquake or theft. All-risk policies are designed to cover you in a much wider range of situations and are, of course, more expensive. Back to top   Best home insurance plans in Singapore & how much they cost The following quotations are for a basic one-year plan. Some plans offer lower premiums if you sign up for a package of a number of years, say 3 or 5. Where there is an option, we’ve picked the basic, standard or insured perils versions of these plans, with no add-ons, for HDB property.    Home insurance plan Annual cost Building / renovation coverage Contents coverage   NTUC Income Enhanced* $35.31 onwards $80,000 onwards $10,000 onwards   FWD Home Insurance* $43.66 onwards $50,000 onwards $20,000 onwards   Aviva Home Lite $52.97 $75,000 $35,000   AXA SmartHome Essential Standard $53.50 $50,000 $15,000   AIG Public Housing Protection Plan* $54 $100,000 $20,000   Etiqa Tiq Home Insurance* $68 onwards $60,000 onwards $35,000 onwards   Sompo Homebliss Cosy $96.30 $80,000 $20,000   MSIG Enhanced HomePlus Standard $118.77 $75,000 $50,000   HL Assurance Home Contents Insurance Silver $20 $100,000 total (excess of $350 per claim)     *These home insurance plans are customisable depending on your flat size and desired coverage. The numbers quoted here are for 3-room flats (where applicable) and for the smallest coverage limits offered. Back to top   Cheapest home insurance in Singapore for HDB owners Technically, HL Assurance’s Home Contents Silver is the cheapest home insurance policy in the land, but the fact that you may have to pay an excess of $350 before you can claim anything is a real dealbreaker. Instead, I would vote for NTUC Income’s Enhanced Home Insurance, which is probably the cheapest real home insurance plan. This is partly because of their tiered pricing system, which allows each policy holder to pay according to the size of their flat and receive coverage limits tailored to the size and value of their home. For those who live in 3-room or 4-room flats, it means they get to pay some of the cheapest annual premiums available. The contents and personal liability cover also offer great value considering the premiums for smaller flats are so low. We would recommend this plan for owners of 3-room or 4-room flats who are looking for an affordable plan. Back to top   How to choose a home insurance policy Don’t just go for the cheapest home insurance plan, or the most comprehensive one. You need to first understand your needs so you’re not over- or under-insuring yourself. Here are some factors to consider when selecting or customising a plan. How much your renovation cost: Technically, the insurer would foot the bill for the renovation it’d take to get your fire-consumed home back into decent condition. But that amount largely depends on the size of your home and your taste in home fittings. If you renovated your 3-room HDB flat at minimal cost, there’s no need to splash out for top tier coverage. Conversely, if you live in a lavish, multi-million dollar bungalow that you renovated to look like the Palace of Versailles, you’d better spend more insuring it. As a good gauge, look at how much you spent on the renovation and use that as your guide. This does not apply if you did zero renovation and your home was already in move-in condition. In that case, probably best to ask around for a ballpark figure. The value of your home contents: You can come up with a ballpark figure for home contents coverage by tallying up the costs of the furnishings and valuable items in your home. We are all very different in this regard. Some of us furnish our homes with cheap second-hand furniture and Daiso household products, while others splurge on gold-plated power sockets and an entire smart home ecosystem. So while $10,000 may be sufficient for some, others may want to opt for $50,000. Whether the plan’s coverage meets your lifestyle needs: Your giant poodle might be the most important thing in your home, while someone else might be more concerned about securing a hospital allowance in case one of his elderly parents gets hurt. You’ll thus want to look out for a plan that offers the best coverage in the areas that matter most to you. In addition, some plans can be quite customisable, with riders for certain categories such as pets and personal injury. Go through plans within your budget to see which best meets your needs and compare the pay-outs that are important to your scenario against the market. Back to top   How necessary is home insurance in Singapore? Home insurance isn’t compulsory. But should a fire really break out, you’ll thank your lucky stars if you have BOTH fire and home insurance, rather than just fire insurance. If something unfortunate happens and your entire home gets destroyed, you’re going to lose much more than just the building for which fire insurance will compensate you. You’ll lose all the renovations you painstakingly oversaw and argued with your contractor over, we well as your belongings and appliances — all of which will only be protected if you have home insurance, and the cost of which can easily add up to a 5 or even 6 figure sum. Of course, your home insurance needs will vary depending on whether you own the property or are just renting, and whether you are the one living in it. If you’re an owner-occupier (that is, you own the home in which you are living), home insurance is essential. All the contents of your home belong to you. In addition, you have probably spent quite a bit renovating your home and installing fixtures that you personally enjoy. You will thus want to consider a more comprehensive home insurance policy. If you’re a tenant, you can get away with skipping home insurance, but may still want to consider it anyway. If your home did not come fully furnished, it means that most of the appliances and other items within belong to you. In addition, you will want to be compensated for the cost of alternative accommodation if something happens to your home. You might also need to be compensated for legal claims your landlord might bring against you if you damage something on the property belonging to him. How much you should spend on insurance depends on the value of your belongings in your accommodation. If you’re a poor student renting a room in a shareflat, it’s probably not worthwhile buying home insurance. However, if your entire family is living in a rental home that came unfurnished, you have greater incentive to buy home insurance. Finally, if you’re a landlord renting out your property, you should probably get home insurance as well, since you’re likely the one who has borne the cost of renovations, as well as fittings and installations like air con units and lights. If you are renting out a furnished home, you will also be the owner of many of the home’s appliances, like washing machines. Home insurance becomes a way that you can protect all of these things. You also enjoy protection from personal liability if your tenants decide to sue you for accidents that happened on the property. Back to top Is your home currently protected by home insurance? Tell us why or why not in the comments.   Related articles Here’s Why Home Insurance is More Than Just About Protecting What’s in Your House Your Step-By-Step Guide To: Buying a BTO Flat Engaged and Waiting For Your Flat to Be Built? What You Need to Know About Your Home Loan
+
+
+
+
+
+
+
+Tags: Home Insurance
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_925{}#indeed_sm_wrap_925 .ism_item{}#indeed_sm_wrap_925 .ism_item .fa-ism, #indeed_sm_wrap_925 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_925 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_925 {
+		display:block;
+	}#indeed_sm_wrap_925 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Joanne Poh
+In my previous life, I was a property lawyer who spent most of my time struggling to get out of bed or stuck in peak hour traffic. These days, as a freelance commercial writer, I work in bed, on the beach, in parks and at cafes, all while being really frugal. I like helping other people save money so they can stop living lives they don't like.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

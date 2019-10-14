@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+Standard Chartered Home Loan Singapore Review 2019 – Which Mortgage to Choose from Standard Chartered
+Peter Lin  October 8, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Peter Lin 
+
+  October 8, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_1918{}#indeed_sm_wrap_1918 .ism_item{}#indeed_sm_wrap_1918 .ism_item .fa-ism, #indeed_sm_wrap_1918 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_1918 .ism_item_wrapper{display: block;} 
+
+
+So, you’ve found your dream home, saved up enough money for the downpayment and are already planning to invite your friends and family to your housewarming party. But before you do so, you’ll have to pick a home loan. This is where it gets tricky. Mortgage interest rates are constantly changing, and to make matters more confusing, the loans you’ll be eligible for will depend on your property type.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+Here’s a guide to Standard Chartered’s home loan packages in 2019.   Overview of Standard Chartered home loan Singapore packages    Property type Home loan packages   HDB BTO (under construction) Floating with no lock-in   Private property (under construction) Floating with no lock-in   HDB flat (resale / built BTO) 2-year floating   Private property (built) 2-year floating    Standard Chartered no longer offers fixed home rate loan packages. Your main decision will be to choose between 36 month fixed-deposit-linked packages and floating rate packages pegged to SIBOR. The main distinctions Standard Chartered makes are between uncompleted properties and built properties, and HDB and private property. If your home is still being built, as in the case of BTO flats or newly-launched under-construction condo developments, you are usually limited to floating rate home loans, which means that your interest rates will fluctuate and are pegged to a benchmark, typically SIBOR, as in Standard Chartered’s case. Completed properties such as HDB resale flats and existing private homes are generally eligible for aa wider range of home loan packages, including fixed rate and floating rate home loans. The former enable you to lock in a fixed interest rate for a number of years.   Standard Chartered home loan for building under construction (floating) If your building is still under construction, such as in the case of an HDB BTO flat or an in-progress condo development, you will have the option of two floating rate home loans pegged to the SIBOR, as well as a 3-year fixed deposit-linked home loan. A fixed-deposit linked home loan means your interest rate will be determined by the bank, which is a little riskier than a SIBOR-linked floating rate as the bank has the discretion to adjust rates whenever they like. Meanwhile, their floating rate loans pegged to SIBOR currently charge interest rates ranging from 2.18% to 2.25%, which is extremely competitive at the moment.   Standard Chartered home loan for completed properties (2-year floating) Completed property buyers can choose between seven home loan packages. Four are 36-month fixed deposit-linked home loan packages, and three are SIBOR-pegged home loan packages.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+If you are a MortgageOne user, you can take advantage of two of their deposit-linked home loan packages that enable you to deposit money in your MortgageOne account to offset your mortgage loan interest payable. Interest rates currently range from 2.15% to 2.30% for SIBOR packages, and 2.25% to 2.30% for fixed deposit-linked packages. The SIBOR rates are currently very competitive compared to what other banks are offering.   Should you go with a Standard Chartered home loan package? Standard Chartered no longer offer fixed rate home loans, which means that their packages aren’t suitable for those who predict a sharp rise in interest rates in the near future. Floating interest rates, whether they are pegged to SIBOR or fixed deposits, will fluctuate, so you will have to take on a certain amount of risk that your interest rates will rise. Generally, fixed-deposit-pegged interest rates are seen as less transparent as you never know when and by how much the bank will choose to raise their interest rates. SIBOR-linked floating rates are more transparent. As Standard Chartered’s SIBOR-linked packages are more competitive right now in terms of interest rates, you might want to go for one of these if you are confident the SIBOR will not rise dramatically in the few years until you can refinance. Are you interested in applying for a Standard Chartered home loan? Speak to one of our mortgage specialists to find out which bank is offering the best home loan in Singapore for your particular needs.   Looking for home loans from another bank? Here are the other home loan packages we’ve reviewed. Best Home Loans Singapore – Most Affordable Housing Loans Reviewed DBS Home Loan Review Singapore OCBC Home Loan Review Singapore UOB Home Loan Review Singapore BOC Home Loan Review Singapore Maybank Home Loan Review Singapore Citibank Home Loan Review Singapore
+
+
+
+
+
+
+
+Tags: Home Loans
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4528{}#indeed_sm_wrap_4528 .ism_item{}#indeed_sm_wrap_4528 .ism_item .fa-ism, #indeed_sm_wrap_4528 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4528 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_4528 {
+		display:block;
+	}#indeed_sm_wrap_4528 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Peter Lin
+I am the poster boy for reinventing one's self. I've been a broadcast journalist, technical writer, banking customer service officer and a Catholic friar. My life experiences have made me the most cynical idealist you'll ever meet, which is why I'm also the co-founder of a local pop culture website. I believe ignorance is not bliss, and that money is the root of all evil only if you allow it to be.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

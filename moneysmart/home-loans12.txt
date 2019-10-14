@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+Maybank Home Loan Singapore Review 2019 – Which Mortgage to Choose from Maybank
+Joanne Poh  October 8, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Joanne Poh 
+
+  October 8, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4749{}#indeed_sm_wrap_4749 .ism_item{}#indeed_sm_wrap_4749 .ism_item .fa-ism, #indeed_sm_wrap_4749 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4749 .ism_item_wrapper{display: block;} 
+
+
+Maybank home loan packages are the only ones in the market which are all pegged to an internal board rate called the Singapore Residential Financing Rate (SRFR).  Such board rates are non-transparent and the bank can change whenever they want, with no external check and balance, but since Maybank home loan packages can still pretty competitive sometimes, it’s worth a look.   
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+Here’s a rundown on Maybank’s various home loan packages.   Overview of Maybank home loan Singapore packages    Property type Home loan packages   HDB BTO (under construction) Floating with no lock-in (board rate)   Private property (under construction) Floating with no lock-in (board rate)   HDB flat (resale / built BTO) 2, 3, year fixed rate / floating with 2 year lock-in (board rate)   Private property (built) 2, 3, 4, 5 year fixed rate / floating with 2 year lock-in (board rate)    As you can see from the above table, banks generally offer a greater variety of home loan packages for buildings that have already been constructed. If you’re looking for a BTO or under-construction private property, your options are fewer—in the case of Maybank, you’ll have to be content with a floating rate loan. A floating rate loan means your interest rates will fluctuate as they are pegged to a bench mark—in Maybank’s case, this benchmark is the board rate, which is determined by the bank. When it comes to built properties, whether HDB resale or private, you can choose between several packages, including floating rate and fixed rate, which means the interest rate is fixed for a certain number of years, so you’ll know exactly how much you need to pay over this period.   Maybank floating rate BUC home loans for buildings under construction (floating) Maybank’s only home loan option for BTO flat buyers is a floating rate home loan package with no lock-in period. This means the interest rate will fluctuate according to Maybank’s board rate, or SRFR. Unlike most other banks’ floating rate home loans, Maybank’s interest rate for this loan is not pegged to SIBOR.  This is not ideal, as board rates are not transparent and the bank has the right to change theirs at their discretion. What is more, as the days of ultra low interest rates are over, the board rate is likely to fluctuate more often. In fact, the board rate was raised from 4.00% p.a. to 4.50% p.a. in May 2018, and is currently 4.85%. So, as you can see, you need to be prepared to stomach some instability if you want to take out this loan. Maybank floating interest rates were quite attractive earlier this year, but now, at 2.21%, they’re pretty average. At such rates, you should be able to find a bank that offers floating rates pegged to SIBOR for more transparency. That doesn’t mean that SIBOR-linked packages are free from increasing rates though. 
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+  Maybank home loan for completed properties (floating & fixed 2-5 years) Completed property buyers are spoiled for choice, as Maybank offers five home loan packages to choose from. There are four fixed-rate home loan packages offering fixed interest rates for 2, 3, 4 or 5 years. You can also opt for a floating rate package pegged to the board rate with a 2-year lock-in period. First, let’s talk about the fixed rate packages. The current interest rates range from 1.92% for 2 years to 2.78% for 5 years. Now, 2.78% is a pretty high interest rate, but the advantage is that it gets locked in for 5 whole years, which makes it one of the most secure loan packages around, as many banks don’t offer such a long lock-in period. On the other end of the scale, the 1.92% interest for the 2-year fixed interest home loan is quite attractive, but after the two year period is up you will pay the board rate minus 1.92%, which at the moment is high. In short, if you are pessimistic about the economy and think interest rates will rise in the future, then you might have a good case for opting for a 5 year fixed rate package. Completed property buyers are also eligible for floating rate packages with a 2- and 3-year lock-in period, with interest rates ranging from 2.21% to 2.30%. These are not the best interest rates available at the moment.   Should you pick a floating or fixed Maybank home loan package? Maybank’s fixed rate home loan package has the distinction of offering up to five years’ lock in period, which makes it more attractive in a rising interest rate environment. So, in a turbulent economic environment with rising interest rates, the fixed rate home loan packages might be worth going for even if the upfront interest rates are high. On the other hand, their floating rate packages offer okay interest rates, but these will fluctuate over time, so you want to go for this type of package only if you think interest rates will remain low in future. Another thing to note is that many of Maybank’s floating home loan packages are pegged to Maybank’s internal board rate, rather than the SIBOR, which means you are at the mercy of the banks’ decisions to change the board rate. At the moment, their floating interest rates aren’t the most attractive in town, so you could probably find a better ideal elsewhere.   Should you go with a Maybank home loan package? At the moment, Maybank’s fixed home loan packages stand out as they offer the possibility of a long lock-in period compared to many other banks. These are expensive, however, so they’re a good idea mainly if you think interest rates will rise considerably in future. Do note that Maybank doesn’t differentiate between HDB and private property when offering interest rates, so if you are buying HDB property you might want to look for another bank, like DBS, that offers HDB purchasers preferential rates. In short, go for a Maybank fixed rate loan right now if you’re a private property buyer who thinks interest rates are going to rise significantly. One additional bonus of taking a Maybank home loan is that you get bonus interest on your Maybank SaveUp account, which allows you to earn up to 3% interest p.a. on the first $50,000. The flexibility of the SaveUp account means you can earn bonus interest when you use 3 Maybank products and services, including credit card spend, GIRO bill payment and unit trust investment.   Are you interested in applying for a Maybank home loan in Singapore? Speak to one of our mortgage specialists to find out which bank is offering the best home loan in Singapore for your particular needs.   Looking for home loans from another bank? Here are the other home loan packages we’ve reviewed. Best Home Loans Singapore – Most Affordable Housing Loans Reviewed DBS Home Loan Reviews Singapore OCBC Home Loan Reviews Singapore UOB Home Loan Reviews Singapore BOC Home Loan Reviews Singapore Citibank Home Loan Review Singapore Standard Chartered Home Loan Review Singapore
+
+
+
+
+
+
+
+Tags: Home Loans, Maybank
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4698{}#indeed_sm_wrap_4698 .ism_item{}#indeed_sm_wrap_4698 .ism_item .fa-ism, #indeed_sm_wrap_4698 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4698 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_4698 {
+		display:block;
+	}#indeed_sm_wrap_4698 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Joanne Poh
+In my previous life, I was a property lawyer who spent most of my time struggling to get out of bed or stuck in peak hour traffic. These days, as a freelance commercial writer, I work in bed, on the beach, in parks and at cafes, all while being really frugal. I like helping other people save money so they can stop living lives they don't like.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

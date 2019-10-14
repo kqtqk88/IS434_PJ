@@ -1,0 +1,195 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+Total Debt Servicing Ratio (TDSR) and How It Affects Your Loans
+MoneySmart  June 27, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+ MoneySmart 
+
+  June 27, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3292{}#indeed_sm_wrap_3292 .ism_item{}#indeed_sm_wrap_3292 .ism_item .fa-ism, #indeed_sm_wrap_3292 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3292 .ism_item_wrapper{display: block;} 
+
+
+TDSR, which stands for Total Debt Servicing Ratio, is a way for the Singaporean government to keep checks and balances on Singaporean borrowers. I guess it’s always a risk letting people manage their own money. Some will save and invest, others will spend their last borrowed cent gold plating the family chihuahua. TDSR is one measure that prevents the latter from happening.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  What is the TDSR framework? The Total Debt Servicing Ratio (TDSR) framework ensures borrowers aren’t overleveraged (i.e. borrowing like a broke alcoholic in a liquor store). It’s a standard that applies to home loans in Singapore granted by all financial institutions (FIs). In 2013, an estimated 5 to 10% of Singaporean mortgage-holders were over-stretching themselves. The TDSR was implemented by the Monetary Authority of Singapore (MAS… yes, yet another acronym) to prevent people from over-stretching themselves by borrowing too much money to finance home purchases. Another purpose of the TDSR is to curb property speculation. Once upon a time, people used to borrow crazy amounts of money to buy property they would then flip at a profit. Those days are pretty much gone now thanks to the cooling measures. TDSR calculates the percentage of your income that can go into servicing your loan. At present, the highest TDSR that FIs are meant to allow is 60%. That means your housing loan repayments, after adding all your repayment obligations (student loans, credit card debts, car loans, personal loans, etc.), cannot exceed 60% of your income.   How is it different from DSR and MSR? You may know the terms Debt Servicing Ratio (DSR) and Mortgage Servicing Ratio (MSR), which seem similar to TDSR. They’re not. MSR only takes into account your housing loan repayments. So a MSR of 30% means 30% of your monthly income can go into home loan repayments, regardless of what your other repayment obligations are. Then we have the old standard, DSR. And this is where a lot of you will yell (1) “But DSR already factored in all my debts”, and (2) “Wait a second, 60% TDSR is even more relaxed than the old 50% DSR”. Wrong on both counts.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+(1) DSR didn’t factor in certain unsecured loans, such as credit card debt, and (2) TDSR is more restrictive than DSR. The method for determining your monthly income and loan repayments are different, as we’ll describe below. Also, the range of debts factored into TDSR are much wider. Effects of TDSR:   Property investing becomes a lot harder You can’t borrow as much, even without other debts Increased refinancing risk If you have variable income, you’ll have to borrow less It’s harder to stretch the loan tenure Take up zen meditation before attempting the paperwork    1. Property investing becomes a lot harder If you already have an outstanding home loan (or two), it’s unlikely you can take on another without breaking the 60% TDSR. Of course, it depends on how high your outstanding home loans are. The point is not so much to prevent you buying (although that’s a partial goal), but to ensure you buy only within your means.   2. You can’t borrow as much, even without other debts Home loans Singapore are subject to changing interest rates. So when you take such a loan, the bank doesn’t just use the current rate; they implement a “stress test”, to see if you can handle sudden spikes in interest. This “stress test” is now standardized at 3.5% for residential properties, and 4.5% for commercial properties. In other words, home buyers must maintain a TDSR of 60% or under, even if interest rates were to rise to 3.5% (currently, it hovers around 1.7%). This significantly affects the loan quantum (i.e. the total amount that can be borrowed), even if there’s no outstanding debts.   3. Increased financing risk Most home loan interest rates in Singapore are low for three years, and then go bonkers on the fourth. It’s not impossible to see hikes of one full percent. At this point, it’s usually standard practice to switch to another home loan package with a lower interest rate. When TDSR was introduced in June 2013, home buyers who took loans before the TDSR were worried about an increased financing risk. If they did not meet the new 60% TDSR standard, they could not re-finance their home loans, which meant that they were stuck with overpriced home loans. In February 2014, MAS tweaked the TDSR requirement. You could refinance your home loan if you took out the loan before TDSR was introduced in 2013 even if you don’t meet the 60% TDSR. However, this only applies to owner-occupied property. In September 2016, MAS once again tweaked the TDSR requirement. You can now refinance your home loan as long as you are the owner-occupier, regardless of when the loan was taken out.   4. If you have variable income, you’ll have to borrow less Okay, so TDSR is 60% of your income. But how do you define that income? Not everyone gets a fixed paycheck. With the rise of the gig economy, there are more self-employed individuals now than ever before. Think: Financial advisors, freelance photographers, etc. How much can a self-employed person borrow? Under the new TDSR framework, commissions, rental income or other variable sums are lumped under variable income. And FIs are to treat that variable income as though it’s 30% less than it actually is. So if you’re a business owner making $5,000 a month, your income when calculating your TDSR is just $3,500. That, in turn, means a much lower loan quantum.   5. It’s harder to stretch the loan tenure Previously, you could stretch your loan tenure by making a joint application with a younger borrower (say, your son). FIs would just use the age of the youngest applicant. That helped, because a 25 year old can get a 30 year loan tenure, which a 55 year old obviously can’t. But now, the average age of the borrowers will be used; so a 25 year old and a 55 year old would count as having the collective age of 40. Also, FIs will only count borrowers with an income. So you can’t be earning nothing, but list yourself as a co-borrower with mum or dad to lower the average age.   6. Take up zen meditation before attempting the paperwork When the TDSR was first introduced, the increase paperwork was crazy. Banks would need ALL the statements, including credit card debts, commissions, student loans, gym memberships, the personal loan you took out to buy Dyson vacuum cleaner, all of it. And if you have variable income, you need documentary proof of rent you collect, commissions, fees from clients, etc. This causes severe complications (e.g. if your clients are in arrears but have collateral, do their fees still count toward your variable income? What about credit cards, if you purposely just pay $50 and not $500 a month?) Yup. You can figure out your TDSR liabilities without getting stumped by the math. Use MoneySmart’s TDSR calculator.   You might be exempted from the TDSR rules if you are refinancing As onerous as the TDSR framework might sound, you might be pleased to know that it does NOT apply to refinancing of owner-occupied housing loans. That means that you can refinance your home loan without worrying about the TDSR if you are living in the home for which you are repaying the loan. So if your income has fallen or you have taken on more debt since you first applied for your home loan, you don’t have to worry about not being able to successfully refinance. What about properties that aren’t owner-occupied but were purchased for investment purposes? You can also escape the TDSR rules provided you: 1) commit to a debt reduction plan with your financial institution to repay at least 3% of the outstanding balance in not more than three years, and 2) you fulfil your financial institution’s credit assessment. Considering refinancing actually saves you money in the long run, this is good news. Use MoneySmart’s refinancing tool to check if you can get a better interest rate by refinancing now. Have you had a difficult experience with the new loan measures? Share it with us here!   Related articles Home Loans in Singapore – The Complete Guide to Property Loans Property Cooling Measures 2018 – 10 Most Important Things You Should Know TDSR, or Total Debt Servicing Ratio: Know this before applying for your home loan Image Credits: Jane | Shipwrecks and Sharks
+
+
+
+
+
+
+
+Tags: Featured, Home Loans, Property
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4185{}#indeed_sm_wrap_4185 .ism_item{}#indeed_sm_wrap_4185 .ism_item .fa-ism, #indeed_sm_wrap_4185 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4185 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_4185 {
+		display:block;
+	}#indeed_sm_wrap_4185 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+MoneySmart
+We help people maximise their money through the provision of powerful tools and awesome content, by empowering them to make smarter financial decisions.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+Comments (2) 
+
+
+
+
+
+
+ 
+
+
+Radical Rhombus 
+April 16, 2015 at 9:04 am 
+
+
+
+
+Hi Ryan,
+Great article!
+If I am an existing guarantor for my brother’s car loan, does it count towards my loan obligations?
+Cheers!
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Shazam 
+September 28, 2015 at 5:26 pm 
+
+
+
+
+Is TDSR applicable to guarantor of educational loan?
+
+
+
+
+
+
+
+Comments are closed.
+
+
+
+
+

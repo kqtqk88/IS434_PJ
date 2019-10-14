@@ -1,0 +1,145 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Mortgage Insurance
+5 Good Reasons to Get Mortgage Insurance
+Ryan Ong  February 20, 2012 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Ryan Ong 
+
+  February 20, 2012 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_793{}#indeed_sm_wrap_793 .ism_item{}#indeed_sm_wrap_793 .ism_item .fa-ism, #indeed_sm_wrap_793 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_793 .ism_item_wrapper{display: block;} 
+
+
+A lot of Singaporeans decline mortgage insurance, and mostly because of the sales pitch. I mean, here you are taking on a lifetime debt, and they’re next to you whispering: “Bet you die before you pay that off.” As far as obnoxious goes, that’s just short of poking the body at a funeral. But put aside the psychological unpleasantness, and you’ll see mortgage insurance isn’t such a bad deal. In fact, it may even be a smart choice for private home owners. This article explains why:    What is Mortgage Insurance? In Singapore, mortgage insurance is usually called Mortgage Reduced Term Assurance (MRTA). This insurance plan covers your home loan, so that if you lose your income, your family will have enough to pay off your home loan. The MRTA provides a lump sum pay out (assured sum), which gradually decreases as the home loan is amortized (paid off).
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+With few exceptions (e.g. the family’s sole breadwinner is immortal), it’s highly advisable to have MRTA. In the event of disaster, at least your surviving family won’t be showering in longkangs. MRTA pertains mainly to owners of condos or landed property, since HDB owners use the compulsory Home Protection Scheme (HPS). However, HDB owners may approach private insurers as an option. The reasons to get MRTA are:  Property is illiquid Premiums end before loan tenure Comparatively low premiums Transferable insurance Fairly wide coverage    1. Property is Illiquid   Don’t worry about it. All our property agents are hard workers.   What happens if you lose your job? A common belief is that the outstanding home loan isn’t a problem: Just sell your house. Ta-daa, situation fixed. But property is illiquid. It could take months to advertise, conduct viewings, and negotiate prices for your house. And even if your house is desirable, how many buyers can manage, say, $500,000 – $1,000,000 without financing? You’ll have to wait for the other party to work out their loan as well. And in the meantime, you still need to make loan repayments. In our experience, “fire sales” are often messy. The house is typically sold at a loss (because of the speed required), and the family might even end up with one or two months of unpaid home loans. Then there’s the issue of finding a new place. If you’re in a situation with significant risk (e.g. you’re self-employed and the sole breadwinner), opt for the insurance.   2. Premiums End Before Loan Tenure   “It’s alright guys, I have mortgage insurance.”   A common worry about MRTA is that it’s not worth the premiums, especially toward the end of the term. The assured sum has substantially decreased, so what’s the point?
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+Insurers figured that out too. Since anyone who can handle accounting problems harder than 2+2 would let the policy lapse, insurers charge premiums for only a part of the loan tenure. For example, AIA only makes you pay premiums for 75% of your home loan. So if you’ve taken a 30 year home loan, you’ll only be paying premiums for only 22 years.   3. Comparatively Low Premiums   That’s the highest premium I’ll pay. Human test subject is a very safe job.   Compared to most forms of insurance, MRTAs have low premiums. Standard life insurance can also shield your family from homelessness. But life insurance involves extensive coverage, which translates to high premiums. Because MRTA is specific, you can expect premiums to be 20 – 30% lower. (Note: If your MRTA premiums match your life insurance premiums, it’s usually because of riders, such as an option to cover debilitating illness. You can choose to decline these). Also, as mentioned in point 2, the term of your coverage exceeds the term of your premium payments. Most insurance plans decrease premiums as you get older, which can make them superficially more attractive. But compare the many years of free coverage you get (at least 20% of the loan tenure), and you’ll see MRTA is just as cheap, if not cheaper.   4. Transferable Insurance A MRTA is transferable. In other words, if you sell your currently insured property and buy another, you can continue with the same MRTA plan. So if you repay your first property, and buy a second to rent, you can transfer the remainder of your MRTA onto that second property. As an aside, please don’t repay your home loan early if you have a prepayment penalty. You’ll end up paying around 1.5% of your home’s cost as a penalty. You can follow us on Facebook if you’re not sure about home loan issues; we’ll keep you updated.   5. Fairly Wide Coverage   “Good thing you bought the ‘Being a damned moron’ coverage.”   As I mentioned in point 3, MRTA derives its advantages from being very specific. But everyone has their needs; for all I know you spend weekends free-climbing Mt. Everest. In which case, I should mention MRTA policies are packed with coverage options. It’s possible to add medical reimbursement, weekly indemnities, and debilitating injuries as riders. Before adding all these riders though, do compare it to the cost of general insurance. Remember that MRTA gets a bit pointless, if the premiums end up costing you as much as full blown life insurance.   Interested in Getting a Home Loan With MRTA? Before thinking about mortgage insurance, it’s important to determine the nature of your home loan. The loan amount and tenure are important considerations; in some cases (such as very short loan tenures), MRTA may be unnecessary. Comparehome loans Singapore on MoneySmart to figure out your repayments; then decide if you’d feel more secure with MRTA. Image Credits:  Nicolas Lanuzel, [email protected], geishaboy500 Do you currently have mortgage insurance? Comment and tell us why (or why not)!
+
+
+
+
+
+
+
+Tags: Mortgage Insurance, Property
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4001{}#indeed_sm_wrap_4001 .ism_item{}#indeed_sm_wrap_4001 .ism_item .fa-ism, #indeed_sm_wrap_4001 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4001 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_4001 {
+		display:block;
+	}#indeed_sm_wrap_4001 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Ryan Ong
+I was a freelance writer for over a decade, and covered topics from music to super-contagious foot diseases. I took this job because I believe financial news should be accessible and fun to read. Also, because the assignments don't involve shouting teenagers and debilitating plagues.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+
+

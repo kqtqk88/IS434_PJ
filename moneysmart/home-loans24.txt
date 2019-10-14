@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+3 Reasons You Shouldn’t Pay Off Your Home Loan ASAP But Refinance Instead
+Joanne Poh  July 8, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Joanne Poh 
+
+  July 8, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_538{}#indeed_sm_wrap_538 .ism_item{}#indeed_sm_wrap_538 .ism_item .fa-ism, #indeed_sm_wrap_538 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_538 .ism_item_wrapper{display: block;} 
+
+
+For many people, being chained to a property loan is like being in prison. Forget about quitting your job or going on an unpaid sabbatical, because there are home loan repayments to be made for almost the rest of your life.  So being able to finally pay off your property loan early can feel like being released from jail for good behaviour. Why wouldn’t you want to free yourself from the burden of making loan repayments forever? Well, here are 3 good reasons it might make financial sense not to pay off your loan early.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  1. You are able to invest the cash at a higher rate of return  While a home loan is probably the biggest loan you’re ever going to take in your life, it’s also the cheapest in terms of interest. Try asking the neighbourhood loanshark for a 2% interest rate and you’ll either be running for your life or patting him on the back as he howls with laughter. If you’ve got $100,000 left on your home loan at an interest rate of 2%, it makes more financial sense to invest $100,000 at a higher interest rate than to use it to pay off your loan now. We’re not endorsing any specific instruments, but theoretically, you could put this money toward instruments like Astrea Bonds or lock the extra money you have into an endowment plan that gives you higher returns than 2%. Conversely, if you pay off the $100,000 (and we’re not even counting the repayment fees that your bank might charge you), you’d be sacrificing that amount you would have earned by investing the $100,000 minus the amount you would have paid in interest to the bank. Note that this amount is offset a little by the extra money you would save due to no longer having to make loan repayments. But this amount is going to accrue gradually over a long stretch of time, and might not necessarily translate to equivalent investment gains. To keep your home loan interest low, remember to refinance home loans when the time comes. How to do it? Book a call now with our MoneySmart specialists for free and unbiased advice.   2. You can put the cash to better use Your home loan may be a pain to pay off, but always remember that it is relatively cheap. Even if you’re not about to invest the money you would otherwise use to pay off your home loan in full, you might be able to find better ways to use it—ways that can pay off somewhere down the road. For instance, let’s say you’d like to further your studies by taking a degree course overseas. You could either:  Choose to redeem the remaining $100,000 on your 1.2% interest rate home loan and then take up a study loan for $50,000 at 4.5%, or Hold off on paying off your home loan and use the cash to pay for your studies in full instead.  Redeeming your home loan would lead to your paying $1,050 more in the grand scheme of things.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+And given the fact that furthering your studies could increase your income later on, you would be placed in an even better financial position by holding on to your home loan and using the money to educate yourself instead.   3. You have mortgage insurance If you’ve paid for mortgage insurance, you actually have less of an incentive to pay off your mortgage early. You see, when you take out a home loan, you’re running the risk that if you should get retrenched, fall ill and be unable to work or (choy!) die and the home loan instalments don’t get paid, you or your family are going to be placed in the unenviable position of having the property swallowed up by the bank. However, when you have mortgage insurance, should something unfortunate happen to you you’ll get a cash payout that will cover the rest of your home loan instalments. That means there’s actually very little risk that you will default on your loan. So if one of your reasons for wanting to pay off the loan now is that you don’t want to risk losing your property to the bank somewhere down the road, having mortgage insurance reduces this risk considerably. In fact, should something actually happen to you somewhere down the road (choy!), you’ll regret having spent all that money trying to pay off your home loan earlier.   Remember to refinance! If you are trying desperately to pay off your home loan early because you feel the interest rate you’re paying is too high, that may not be such a good idea (for reasons stated above). However, there is an alternative and that is to refinance your home loan to a better package. You don’t have to jump through hoops just to get one, and that’s where the MoneySmart Refinancing Home Loans page can help. Make sure you’re not overpaying for your house and put those savings to better use. Are you planning to pay off your home loan earlier? Tell us why or why not in the comments!   Related articles How to Refinance Your Home Loan in Singapore & Save Money on Your Mortgage DBS Home Loan vs OCBC Home Loan vs UOB Home Loan – Which Local Bank Is Best? Can Average Singaporeans Actually Afford To Buy Landed Houses? Image by Alexander Stein from Pixabay
+
+
+
+
+
+
+
+Tags: Featured, Home Loans, Property
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_413{}#indeed_sm_wrap_413 .ism_item{}#indeed_sm_wrap_413 .ism_item .fa-ism, #indeed_sm_wrap_413 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_413 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_413 {
+		display:block;
+	}#indeed_sm_wrap_413 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Joanne Poh
+In my previous life, I was a property lawyer who spent most of my time struggling to get out of bed or stuck in peak hour traffic. These days, as a freelance commercial writer, I work in bed, on the beach, in parks and at cafes, all while being really frugal. I like helping other people save money so they can stop living lives they don't like.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+Don’t Buy a House Without an Approval in Principle (AIP) for Your Home Loan
+MoneySmart  March 1, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+MoneySmart 
+
+  March 1, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_1882{}#indeed_sm_wrap_1882 .ism_item{}#indeed_sm_wrap_1882 .ism_item .fa-ism, #indeed_sm_wrap_1882 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_1882 .ism_item_wrapper{display: block;} 
+
+
+Every year, a handful of would-be home owners make their decision to to lose (1) a lot of money, or (2) the house that they need. That’s right, I’m talking about people who try to buy a house without an Approval in Principle (AIP). Sometimes due to a deficit of credit, but mostly due to a deficit of common sense. So if you’re about to go house hunting, don’t join their ranks and get yourself educated on this important agreement.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+   What is Approval in Principle (AIP)? Approval in Principle (AIP) is an agreement with a bank. Based on your credit history and financial health, a bank will decide whether to approve your home loan. There’s no actual loan that takes place when you get AIP; rather, it’s a guarantee that the bank will extend you the loan when you need it. In Singapore, the AIP lasts 30 to 90 days. During this period, you can go house shopping with a clear idea of what’s affordable.   How do you get an AIP? Although getting an AIP can be a pain, the alternative is far worse. Getting your AIP sorted out can be simple if you know what to do. Here is our quick guide for how to go about getting an AIP. Step 1: First, you need to decide on one bank you’d like to get your AIP from. It’s usually best to choose the bank that offers the most competitive rates at the time. You can compare the latest home loan rates on MoneySmart Home Loan Singapore page. That should give you a sense of which bank to go for. Select the bank you’d like to apply on the comparison page of the site. Step 2: A MoneySmart Mortgage Specialist will contact you and provide you with the necessary AIP application form and list of documents you need to prepare. They will help you submit, and expedite your approval. This service is free. Step 3: You get your AIP, and you’re pretty much guaranteed a loan from the bank if you choose to purchase a property within a month. Note: Your max loan amount may defer slightly from bank to bank, but an AIP from one bank is sufficient to give you a good estimate of what you can afford. When you get an AIP, you’re not committing to take up a loan from that bank. So you are under no obligation. If the rates from that bank are revised upwards, you can always apply for your home loan from another bank. However, if you are taking up a home loan from the same bank, the application process is much smoother if you have already been granted an AIP for your home loan by the bank.   What if you can’t get an AIP? Usually, someone is denied AIP because of bad credit. So if you don’t have an AIP, this could jeopardise your home buying journey.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+1. You may not be able to find a property agent who will service you Technically, you could still buy a house without an AIP. But it will be hard pressed for you to find a property agent who would help you find one because good property agents are cautious to sell to people who don’t have AIP. They would want to avoid a situation where the sale goes through but the buyer is unable to pay. If you manage to find a property agent who will, he or she will likely be a grease bag, or just really desperate. 2. You cannot act decisively without an AIP What happens if you find a great property with fantastic location, but don’t know if you can afford it? You’d be constantly worrying that someone will swoop in and close the deal, right? Without an AIP, you’re left worrying at every decision. It’s hard to bargain the price of a house when you don’t know how the size (or even existence) of your home loan package. The bank may lend you the full amount, or it may lend you a lot less. Would you risk signing the papers anyway? Then get ready to maybe… 3. Lose your deposit To secure the house, you usually pay a booking fee. Let’s say the fee is 1 % of a $1.5 million home. That’s $15,000. If you don’t have AIP, this may just happen to you. You assume the bank will lend you the money, and you put down the booking fee. Later, it turns out the bank is willing to lend you a partial sum that’s hardly enough. Since you can’t afford the house, your booking fee is now gone. If your budget is tight, losing that booking fee might mean losing the down payment for the next alternative. The technical term for that situation is “OMG, I’m homeless.” 4. You cannot plan your finances If you know the exact amount of your home loan, you can develop a functional budget. And when you have a clear idea of your disposable income, opportunities open up. For example, say you know the bank will cover all your costs except for $10,000. You have $15,000 to spare right now. You can set aside the $10,000 for the down payment, and immediately invest the remaining $5000 in a fixed deposit, start-up, etc. Knowing the loan size also helps narrow your choices. You’ll get a clear idea of what you can and can’t afford, and so will property agents. They won’t feel a need to press you harder, and you’ll know when to walk away. That’s step one on the road to solid financial decisions. Are you buying a home soon and in need of an AIP, comment and let us know!     Related articles Freehold Condominiums in Singapore – Why Freehold is Not as Great as it Seems HDB & BTO Resale Eligibility & The Singles Singapore Citizen & Joint Singles Scheme (2019) Investing in Property in Singapore – Singapore Property Tax & Buying Guide
+
+
+
+
+
+
+
+Tags: Home Loans
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3384{}#indeed_sm_wrap_3384 .ism_item{}#indeed_sm_wrap_3384 .ism_item .fa-ism, #indeed_sm_wrap_3384 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3384 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_3384 {
+		display:block;
+	}#indeed_sm_wrap_3384 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+MoneySmart
+We help people maximise their money through the provision of powerful tools and awesome content, by empowering them to make smarter financial decisions.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+
+

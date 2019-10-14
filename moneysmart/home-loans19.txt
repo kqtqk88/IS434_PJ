@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+UOB Home Loan Singapore Review 2019 — Which Mortgage to Choose?
+Clara Lim  September 20, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Clara Lim 
+
+  September 20, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_1568{}#indeed_sm_wrap_1568 .ism_item{}#indeed_sm_wrap_1568 .ism_item .fa-ism, #indeed_sm_wrap_1568 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_1568 .ism_item_wrapper{display: block;} 
+
+
+UOB home loan packages come in all shapes and sizes. No matter what kind of property you’re buying, UOB has made sure that there’s something for you. The downside is that the choices can be overwhelming. If you’re buying a new property and looking for a UOB home loan, here’s a guide to the different home loan packages they offer.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  Overview of UOB home loan packages As with every other bank, UOB offers different loan options depending on what property you’re financing — whether it’s still under construction or built, and whether it’s HDB or private.    Property type UOB home loan packages   HDB BTO (under construction) 2-year floating (board rate)   Private property (under construction) Floating with no lock-in (board rate) / floating with no lock-in (SIBOR)   HDB flat (resale / built BTO) 2-year fixed rate / 2-year floating (board rate) / 2-year floating (SIBOR)   Private property (built) 3-year fixed rate / 2-year fixed rate / 2-year floating (board rate)    Generally, banks offer fewer home loan options for buildings under construction (BUCs) — be it an HDB BTO or a freshly launched private condo.  All the home loan packages for BUCs are floating rates, which mean interest rates are pegged to a benchmark that can increase or decrease anytime. For built properties such as completed HDB flats or private homes, you can generally choose from a few home loan packages.  Home loans for built properties also include fixed rate options, where the interest rate does not vary for the lock-in period.   UOB home loan for HDB BTO (floating) Although most other banks offer standard building under construction (BUC) home loans regardless of whether your property is public or private, UOB is an anomaly in that it has a special package for HDB BTOs. This is a floating rate home loan with an annual interest rate calculated by a board rate + 1.23%. UOB’s board rate is now 0.85%, so currently, the interest rate on this loan is 2.08%, which is significantly less than the standard HDB loan rate of 2.6%.  However, since this is a floating rate home loan, the tradeoff is stability. In addition, a board rate is entirely to the bank’s discretion, so UOB can do whatever they like to it, whenever they like. While it’s common for banks to offer no-lock-in home loans for BUCs — which means you can easily jump ship if the bank increases interest rates — in UOB’s case, there is a 2-year lock-in period for BTOs. 
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+The saving grace is that you get 1 chance to convert your home loan if the board rate increases during the 2-year period, so think of this as your “get out of jail free” card. TL;DR: Stick to the HDB loan if you don’t mind paying more for certainty, but if you don’t mind the risks and have cash for the downpayment, you can consider the UOB home loan for potential savings.   UOB home loans for private BUC (floating) As for private properties under construction, UOB offers a more standard floating rate home loan with no lock-in. Actually there are 2 variants of this floating home loan that are applicable to private BUCs. You will be asked to choose between one that’s pegged to the board rate, and one that’s pegged to SIBOR. For the former, the current interest rate package is calculated by UOB’s board rate + 1.18%, which totals up to 2.03% based on the current board rate. The same general caveats for board rates apply: Basically, anything can happen to this benchmark at UOB’s discretion.  If you prefer greater visibility over your interest rates, UOB has a SIBOR-linked home loan package as an alternative. SIBOR is a 3rd party rate that is not determined by any 1 bank, and may be seen as a more transparent alternative to board rates. For the SIBOR-linked home loan, the current package is 3 months’ average SIBOR + 0.63%, which works out to 2.51% at the point of writing. There is no lock-in for these home loans, so if you’re attracted by UOB’s affordable board rate home loan, it’s not too risky — you can jump ship with minimal penalties.   UOB home loans for completed HDB flats (fixed & floating) Although many Singaporeans have traditionally gone with the concessionary HDB loan for HDB flats, a growing number of home buyers are considering bank loans as well. UOB offers 3 types of home loan packages for built HDB flats, which includes resale flats as well as completed BTO flats (if, say, you are refinancing from the HDB loan):    UOB home loan Interest rate calculation   2-year fixed 2.18% for 2 years, then board rate + 1.33%   2-year floating Board rate + 1.23%   2-year floating 3M SIBOR + 0.20%, increases 0.05% to 0.1% every year    Let’s start with the fixed rate home loan, which is generally more attractive than floating ones, especially for less experienced home buyers (or those who simply don’t want surprises in their cash flow). For completed HDB flats, UOB currently offers an interest rate of 2.18% for the first 2 years. Thereafter, the rate switches back to a board rate, but since the lock-in is over, you are free to refinance your home loan if necessary. 2.18% is considerably lower than the HDB loan interest rate of 2.6%, but the downside is that you can only lock it in for 2 years, whereas DBS offers a 2.2% home loan that can be locked in for 5 years. If you are willing to consider a floating rate home loan, you can choose between one that’s pegged to the board rate, or to SIBOR. The former is currently calculated as board rate + 1.23% (now 2.08%), while the latter starts as 3M SIBOR + 0.2% in year 1 (also 2.08% now), but increases every year.  This “climbing” interest rate structure means that your interest rate might still go up even if SIBOR drops in the coming years.   UOB home loan for completed private property (fixed & floating) If you are financing a completed private property, such as a resale landed home or a condo that has already achieved TOP, UOB offers a slightly different range of home loan packages. (These apply to new purchases as well as existing home loans for refinancing.)    UOB home loan Interest rate calculation   3-year fixed 1.98% for 2 years, 2.08% for 3rd year, then board rate + 1.23%   2-year fixed 2.08% for 2 years, then board rate + 1.23%   2-year floating Board rate + 1.2%     Let’s go with the most attractive one for the risk-averse: UOB’s 3-year fixed rate home loan. The interest rate is fixed at a very attractive 1.98% p.a. for the first 2 years, and then goes up to 2.08% in year 3. Subsequently, it reverts to a board rate. If you like the stability of fixed rates, this is worthy of consideration because not many banks offer such long periods for their fixed rate home loans. The lock-in is usually more like 1 or 2 years.  Although this also translates to a longer commitment period, in this case, I think the sub-2% (starting) interest rate is attractive enough to be worth locking in. UOB also has a 2-year fixed rate home loan at 2.08% for the first 2 years, before switching to a board rate in year 3. This obviously pales a bit in comparison to the 3-year one. As for UOB’s floating rate home loan, this is based on UOB’s board rate + 1.2% (currently works out to 2.05%), not based on SIBOR. Go with this only if you’re comfortable with it.   Which UOB home loan package should you go for? UOB offers a great deal of home loan packages, but as you would have realised by now, the actual choices are limited depending on what type of property you’re financing. If you’re borrowing for an HDB BTO or private BUC, there aren’t a lot of options, so it might be worthwhile to compare between different providers (e.g. DBS and UOB) to see if you’re getting a good deal. For example, for UOB’s floating home loan for BTOs has a 2-year lock-in, but it is unusual for any home loans for buildings under construction to have a lock-in at all. For completed properties, UOB’s fixed rate home loans are definitely worth a look. We’re now in a situation where banks’ fixed interest rates are actually lower than the floating ones — it’s usually the other way around — so it’s definitely an attractive time to lock in a longer fixed rate. But of course, if for whatever reason you think that markets are going to crash and SIBOR will plummet, then you will want to consider a SIBOR-linked floating package in order to not “rugi”. Are you interested in applying for a UOB home loan or doing a UOB home loan refinance? Speak to one of our mortgage specialists to find out which bank is offering the best home loan in Singapore for your particular needs.   Looking for home loans from another bank? Here are the other home loan packages we’ve reviewed. Best Home Loans Singapore – Most Affordable Housing Loans Reviewed OCBC Home Loan Reviews Singapore DBS Home Loan Reviews Singapore BOC Home Loan Reviews Singapore Maybank Home Loan Review Singapore Citibank Home Loan Review Singapore Standard Chartered Home Loan Review Singapore
+
+
+
+
+
+
+
+Tags: Home Loans
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_586{}#indeed_sm_wrap_586 .ism_item{}#indeed_sm_wrap_586 .ism_item .fa-ism, #indeed_sm_wrap_586 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_586 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_586 {
+		display:block;
+	}#indeed_sm_wrap_586 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Clara Lim
+I used to be MoneyDumb. I hung out at H&M every day and thought that a $50 lunch set was a good deal. These days, I spend my time researching the crap out of life and trying to maximise utility on micro-decisions. I'm not sure if that's an improvement.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

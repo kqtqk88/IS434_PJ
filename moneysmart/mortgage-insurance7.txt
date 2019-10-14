@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Mortgage Insurance
+What is the Difference Between Fire Insurance and Mortgage Insurance?
+Joanne Poh  June 24, 2015 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Joanne Poh 
+
+  June 24, 2015 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3045{}#indeed_sm_wrap_3045 .ism_item{}#indeed_sm_wrap_3045 .ism_item .fa-ism, #indeed_sm_wrap_3045 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3045 .ism_item_wrapper{display: block;} 
+
+
+You’ve just signed up to be in debt for the rest of your life, and already these people are trying to persuade you to spend even more money on insurance. Two of the most common types of insurance you as a new property purchaser will hear of are fire insurance and mortgage insurance.  So you figure, sure, I’ll just get one of them and pray that it’s the right one if something happens. We can only wish you the best of luck and hope that your new apartment doesn’t burn down when you only bought mortgage insurance. Here are a few key differences between the two that might help you understand why you need both.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  Fire insurance helps if something happens to your property. Mortgage insurance helps if something happens to you. Lots of unlucky things can happen in life. From a piano falling on your head to a plane crashing into your property, a single disaster is all it takes for you to have to go into hiding because you didn’t buy insurance and now everything’s gone to the dogs. Fire insurance gives you a payout if something happens to your property. While the name makes it sound like your home has to go through Dante’s Inferno before you can get a payout, you’re actually insured in the event of a whole bunch of other stuff, from explosions to bursting water pipes. On the other hand, mortgage insurance kicks in if something happens to you, something that renders you unable to repay your home loan. This could happen if you got retrenched or fell ill with a terminal disease.   Fire insurance pays you for damage to the structure of your property. Mortgage insurance pays you so you can continue repaying your home loan. So the worst has happened, and just about the only thing you have to look forward to in life now is the fact that you qualify for a payout. But what exactly do your insurance policies pay you for? Fire insurance pays for damage to the structure of your property. That means that if your home gets reduced to a pile of ashes after a little mishap with that new Martha Stewart Recipe, you will get money to rebuild it. Do note, however, that you will not get money to reinstall those gold taps in the bathroom or replace your entire set of Star Wars-inspired furnishings—for that you’ll need to buy home content insurance. With mortgage insurance, what you get is a lump sum payout designed to ensure you can continue paying for your home loan even if something happens to your income. This saves you from having to desperately try to sell off your property on Craigslist or losing it to the bank.   You might end up with different insurance plans depending on whether you’re buying HDB or private property If your property is HDB, you don’t have to think so much. You are obliged to participate in the HDB Fire Insurance Scheme which gets you fire insurance by Etiqa Insurance. Don’t fret, as premiums are so cheap as to be laughable, ranging from $1.50 to $7.50… for 5 years. HDB property buyers using CPF to pay their monthly instalments also get automatically included in the Home Protection Scheme which is basically mortgage insurance with the CPF Board acting as the insurer. This is compulsory for those using CPF to pay their instalments and optional for those who aren’t. For those buying private property, you’re on your own. Condo dwellers should check with their Management Corporation if fire insurance has been taken out by them on behalf of the entire condo. Other than that, do your research using MoneySmart’s Insurance Wizard to get an idea of which insurance companies are offering the best deals at the moment.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+Have you bought fire insurance or mortgage insurance to protect your own property purchase? Tell us in the comments!
+
+
+
+
+
+
+
+Tags: Home Insurance, Mortgage Insurance
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_466{}#indeed_sm_wrap_466 .ism_item{}#indeed_sm_wrap_466 .ism_item .fa-ism, #indeed_sm_wrap_466 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_466 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_466 {
+		display:block;
+	}#indeed_sm_wrap_466 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Joanne Poh
+In my previous life, I was a property lawyer who spent most of my time struggling to get out of bed or stuck in peak hour traffic. These days, as a freelance commercial writer, I work in bed, on the beach, in parks and at cafes, all while being really frugal. I like helping other people save money so they can stop living lives they don't like.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

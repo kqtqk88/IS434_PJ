@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+Refinancing vs Repricing: What are the Differences?
+MoneySmart  June 3, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+MoneySmart 
+
+  June 3, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3744{}#indeed_sm_wrap_3744 .ism_item{}#indeed_sm_wrap_3744 .ism_item .fa-ism, #indeed_sm_wrap_3744 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3744 .ism_item_wrapper{display: block;} 
+
+
+Most people confuse repricing and refinancing as they both essentially point to switching up your home loan for another with lower interest rates.  So what is the difference between the two terms?
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  Definitions of repricing and refinancing Repricing is switching your mortgage loan within the same bank, while refinancing home loan is switching your mortgage loan for another at a different bank.  Some banks offer within their packages a one-time repricing so you can move between its current loan packages without incurring costs. Usually though, an admin fee applies. Besides this, the only other differences are their costs and the process of switching your loan.    Should you reprice or refinance?  Given that refinancing would require you to switch banks, the process of refinancing involves a more tedious process, but in the long run, you would probably save money.  Here’s how to evaluate if you should refinance or reprice. Lock-in period If your lock-in period is not over, you will have to pay the pre-payment penalty of 1.5% of the remaining loan amount in order to refinance. Generally, you should not break your lock-in period, which is usually within 2 to 3 years as the penalty is quite substantial. Clawback While this is quite an antiquated concept, it’s better to check than be sorry later on. Banks used to pay subsidies for borrowers which covered fees like legal costs, valuation, and fire insurance before October 2012. If you refinance during the clawback period, you’d have to pay back he subsidies as well as any new fees to the new back. That could add up to around $6,000. Avoid double paying!
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+Compare interest rates Whether you’re repricing or refinancing, the idea is to save money. So it is important to compare all the available loan packages. Calculate how much you can save with MoneySmart’s Refinancing Calculator. The usual mortgage loan package gives you good rates for the first 2 to 3 years, and then the interest rates will hike up. If you see that there are home loan packages elsewhere that are at least 0.5% cheaper than your existing rate, it is usually worth it to switch. But before that, you may also want to check the current loan packages within your current bank to see if you can reprice instead. Whether to reprice or refinance also depends on the remaining loan. If the remaining loan amount is high, a difference of 0.5% and above means substantial savings, but if you only have $50,000 left to pay, you might not want to go through all that trouble. (Do note that there is a minimum amount imposed for refinancing, which is usually $100,000.) Time required New banks usually spend more effort wooing new customers. That’s just the way it is. But love is never blind with a bank. When you refinance to a new bank, they’d want to access your past and current debts so you need to submit credit card debts, car loans and information like that once again. It’ll take around 3 months before you get your loan approved and then the new bank would get their lawyers to formalise the new contract by shifting your mortgage over, which is kinda like porting your current mobile phone number over.  Also, since refinancing takes so much more longer than repricing to process, you’d naturally have to get your conveyancing law firm to notify the banks approximately early (3 to 7 months in advance) so they can shift your mortgage in time. Repricing on the other hand, is much simpler. You go to the bank because you saw a better deal and don’t have to jump through too many hoops because you are an existing customer. The changes take effect as early as the next month.   Costs of repricing vs refinancing  When you refinance in Singapore, you’ll have to pay for legal fees and valuation fees to your new bank and 1.5% of your outstanding loan amount to your current bank if you have not fulfilled the lock-in period of 1 to 3 years. Repricing has lower incurred costs. Besides a fixed conversion/admin fee, there’s no other charges. These usually range between $200 to $800, depending on the bank. Most local banks these days charge $800.    Estimated costs Repricing Refinancing   Legal fees – $1,800 to $2,500   Valuation fees – $200 to $450   Pre-payment penalty (if breaking lock-in period) – 1.5% of remaining loan   Fixed conversion fee $800 –      So should I reprice or refinance? In general, you should refinance only when your lock-in period for your mortgage loan is about to end, and if your loan is above $300,000 for HDB, or $500,000 for private properties.  That said, if you are having trouble repaying the monthly installments and just want to extend your loan tenure, then go ahead and refinance. You’d be paying more in the long-term, but it is an option if you’re tight on money.  If your lock-in period is not fulfilled, the 1.5% lock-in penalty charged together with all the other fees may outweigh the savings you get from refinancing. Furthermore, your new bank will not subsidise the legal costs incurred from refinancing if your loan is below $300,000 (HDB) or $500,000 (private). If you’re having trouble figuring out what you should do, head on over to MoneySmart’s Refinancing Comparison Tool and get your questions handled by their Mortgage Specialists for free! Have any tips on repricing and refinancing? Share them with us! We’d love to hear from you.   Related articles Best Home Loans Singapore (2019) – Most Affordable Housing Loans Reviewed DBS Home Loan vs OCBC Home Loan vs UOB Home Loan – Which Local Bank Is Best? How to Refinance Your Home Loan in Singapore & Save Money on Your Mortgage  
+
+
+
+
+
+
+
+Tags: Home Loans, Property
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3995{}#indeed_sm_wrap_3995 .ism_item{}#indeed_sm_wrap_3995 .ism_item .fa-ism, #indeed_sm_wrap_3995 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3995 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_3995 {
+		display:block;
+	}#indeed_sm_wrap_3995 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+MoneySmart
+We help people maximise their money through the provision of powerful tools and awesome content, by empowering them to make smarter financial decisions.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

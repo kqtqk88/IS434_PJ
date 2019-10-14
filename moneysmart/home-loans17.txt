@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home LoansProperty
+Best Home Loans in Singapore (2019) — How to Pick the Best Mortgage for Your Property
+Clara Lim  September 23, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Clara Lim 
+
+  September 23, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3305{}#indeed_sm_wrap_3305 .ism_item{}#indeed_sm_wrap_3305 .ism_item .fa-ism, #indeed_sm_wrap_3305 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3305 .ism_item_wrapper{display: block;} 
+
+
+Have you got your eye on a new home and are already looking for the best home loan in Singapore? Are you comparing the interest rates on the market, ready to lock down the cheapest one?! Whoa, whoa. Slow down just a minute, tiger. 
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+Considering that a home loan is likely the biggest and lengthiest financial burden that most Singaporeans will take on, it’s definitely worth finding out more about the intricacies of home loans. Which is what we’re going to do in this article. I’ll go ahead and spoil it for you: There’s no such thing as “the best home loan in Singapore”. There’s just the best option for your property type and your personality type. With that in mind, let’s jump into the definitive guide to choosing a home loan in Singapore.   Contents    What kind of home loan can I get for my property type? Home loans for HDB BTO — HDB loan vs bank loan Home loans for HDB resale / built BTO — HDB loan vs bank loan Home loans for private property under construction — floating loans only For floating home loans, is SIBOR or board rate better? What else should I consider before committing? Home loans for completed private property — floating vs fixed  Can I get a better home loan interest rate than what’s published? What can I do if I’m servicing a lousy home loan?      What kind of home loan can I get for my property type? When it comes to choosing a home loan, the one factor that will impact your choice the most is your property type. Here’s a summary of the financing options in Singapore:    Property type Home loans in Singapore   HDB BTO (under construction) HDB loan / bank loan (floating rate)   HDB flat (resale / completed BTO) HDB loan / bank loan (fixed rate) / bank loan (floating rate)   Private property (under construction) Bank loan (floating rate)   Private property (built) Bank loan (fixed rate) / bank loan (floating rate)    Most of us would be familiar, of course, with the HDB Housing Loan, which is the “default” option for many Singaporeans’ first home. It is probably the most lenient of home loans, requiring you to pay almost nothing in cash, if you have enough CPF savings.  Needless to say, the HDB loan is only an option if you are buying public housing. That said, even HDB flat buyers can opt to loan from a bank — and we’ll talk about why you might want to do that in the later sections. If you’re buying private property, you can only pick from bank loans (of which there are plenty). Whether HDB or private, if your property is still under construction, the only bank loans available to you would be floating rate loans. Once it’s built, however, you can get the full range of loan options, including fixed rate home loans. Back to top
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+  Home loans for HDB BTO — HDB loan vs bank loan     HDB loan Bank loan   Eligibility Income + citizenship requirements No restrictions   Interest rate Fixed at 2.6% until further notice Floating, pegged to SIBOR or board rate   Downpayment 10% in cash/CPF 5% in cash + 20% in cash/CPF   Min. loan amount None Typically $100,000   Penalties More lenient Penalties for late payment, early repayment    In the case of young couples getting an HDB BTO, the standard route is often an HDB concessionary loan as it doesn’t require a cash downpayment. However, it also comes with various eligibility conditions — such as a $14,000 combined income ceiling — and there’s that 2.6% interest rate to contend with. Banks, on the other hand, have few (if any) eligibility restrictions. They mainly care about your ability to pay them back. Unfortunately, there’s an element of risk as banks typically only offer floating rate packages for uncompleted properties. That’s bad news for those who would like the certainty of a fixed rate. A floating rate is just what it sounds like: The interest rate is variable, and is pegged to either a rate the bank sets, or the inter-bank rate SIBOR. (More on the difference between those later.) So, not only do you have to cough up more in cash and CPF for your downpayment for a bank loan, your monthly repayments are also subject to all kinds of fluctuations. Doesn’t sound like a good deal, does it? In the past, banks were able to offer way less than 2% interest per annum on their floating rate home loans, cheap enough to entice BTO buyers to make the switch. These days, however, home loan rates in Singapore are above 2%.  So if you do qualify for an HDB loan, you’ll have to decide whether this risk is worth taking on for the relatively small savings. It’s possible to start with the HDB loan and refinance with a bank later on if rates improve. Back to top   Home loans for HDB resale / built BTO — HDB loan vs bank loan     HDB loan Bank loan (fixed) Bank loan (floating)   Eligibility Income + citizenship requirements No restrictions No restrictions   Interest rate Fixed at 2.6% until further notice Fixed for the lock-in period (e.g. 2 years) Floating, pegged to SIBOR or board rate   Downpayment 10% in cash/CPF 5% in cash + 20% in cash/CPF 5% in cash + 20% in cash/CPF   Min. loan amount None Typically $100,000 Typically $100,000   Penalties More lenient Penalties for late payment, early repayment Penalties for late payment, early repayment    If you’re buying a completed HDB flat (i.e. resale) — or if you’re refinancing for your newly-built BTO, perhaps — then you have a lot more options. Depending on your income, you may or may not be eligible for the HDB loan when you buy an HDB resale flat.  If you do qualify, the HDB loan is usually a good choice as it requires a smaller downpayment and is a lot more flexible — you can loan a small amount, for example, and make partial or complete repayment early without any penalty. As for bank loans, a completed HDB flat also allows you to borrow under a fixed interest rate (in addition to the floating rate packages we talked about above). Fixed rate home loan packages are more stable than floating ones. The interest stays fixed for the lock-in duration, e.g. 2 or 3 years. They are usually a little bit more expensive than floating, but some people are willing to pay a bit more for that peace of mind, and it makes managing your cash flow easier. But the one big caveat is that fixed rates only last as long as the lock-in period. After that, fixed rate packages revert to floating rate packages, so the stability does not last forever.  In many cases, the interest rate will rise after the lock-in period. If that happens, you should be prepared to refinance your loan. This is easier than it sounds! We’ll talk about how to do that in the last section. Back to top   Home loans for private property under construction (BUC) — floating loans only If you’re financing a private property that’s still under construction, you obviously don’t qualify for an HDB loan, so you’ll need to choose a floating rate package from one of the private banks. As mentioned, banks offer only floating rates for buildings under construction (BUC) — you won’t get the comfort and stability of a fixed interest rate. You will likely be asked to choose from a home loan package that’s (a) pegged to the SIBOR or (b) pegged to a rate set by the bank (usually some other acronym, such as “MBR” or “FHR”). Regardless of which package has the better rate right now, it is more important to pick the underlying interest rate structure you’re comfortable with. The interest rates are usually structured like this: [benchmark] + [spread], where [benchmark] refers to either SIBOR or a board rate, and [spread] represents the bank’s “profit”. For example, a SIBOR-linked home loan may quote “3M SIBOR + 0.8%”, while a board rate-linked one may be represented by “MBR + 0.2%”. You should understand both parts of the interest rate structure and be comfortable with them before locking it in. The second half (+ 1.45%) is known as the “spread” and represents the bank’s “profit”. In this case, it is 1.45% and doesn’t change throughout the year. The “spread” typically increases significantly after 2 to 3 years. Ideally, you want them to be low for as long as possible. Back to top   For floating home loans, is SIBOR or board rate better? Well… Depends on your risk appetite. Both have their pros and cons.  The key benefit of SIBOR-linked packages is that SIBOR is a transparent, inter-bank rate. You can check the SIBOR any time and plan for changes to your repayments. But since SIBOR is volatile, the downside is that your repayment amounts will fluctuate. The only way to mitigate this is to pick a “longer” SIBOR package, e.g. 6M SIBOR rather than 3M or 1M SIBOR, if it’s available.  For 6M SIBOR, the interest rate is revised only every 6 months, so your repayments are fixed for half a year. However, banks may charge higher spreads for the more stable home loans. Urgh! OK, now on to board rates. Almost all banks’ most attractive home loans are pegged to in-house rates. These come with enough acronyms to make the civil service green with envy.  But you know what? It doesn’t matter if it’s MBR, MRP, ABC or XYZ. As long as it’s not SIBOR, you can take it that the rate is set by the bank, who can change it for no rhyme or reason. So although board rate floating home loans may give you lower rates at the moment, it also means you’re basically at the bank’s mercy during the lock-in period. That said, some packages allow you to convert to another home loan for free, once, if the board rate rises. Note that some banks do not offer a SIBOR-pegged rate. If that’s the case, make sure you are financially prepared — on the off-chance that the floating rate rises, you won’t have an alternative in-house loan to convert to. Back to top   What else should I consider before committing to a home loan for my BUC? Apart from choosing between SIBOR and a board rate for your home loan, you should also pay careful attention to the second part of the floating interest rate structure: The spread. In some cases, the spread remains the same every year of the home loan, but in others, you might spot an upwards trend. For example, in Year 1 it’s SIBOR + 0.3%, in Year 2 it’s SIBOR + 0.4%, in Year 5 it’s SIBOR + 0.45%, and so on. “You mean even if SIBOR goes down, my interest rate can still go up!?” … Absolutely correct.  The other thing to look out for are penalties during the lock-in period. These days, most banks don’t enforce a lock-in period for buildings under construction. But just because there’s no lock-in doesn’t mean you can jump ship to your heart’s content — penalties (e.g. cancellation fees) may still apply!  Just as an example, look at this summary of fees and charges by DBS. You’ll realise that “no lock-in” doesn’t mean it’s completely fee-free, it means that there is no penalty fee on redemption of disbursed portion whether in part or full. Other fees like cancellation fees apply.  So, try to go for something you’re fine with committing to at least for the lock-in period / until the building is completed. Back to top   Home loans for completed private property — floating vs fixed If you’re looking to finance a completed private property, your home loan options look similar to that of a resale HDB flat (apart from the HDB loan, that is). You can choose from the full range of bank loans, i.e. fixed rate, floating (SIBOR) or floating (board rate). Most risk-averse types would try to opt for a fixed rate home loan if they can. Historically, banks’ fixed rate home loan packages are more expensive than floating ones, but at the moment, they are about on par (or the difference is very slight). This means that now is a great time to lock down a fixed rate loan. But again, these rates last only as long as the lock-in period, after which you better pray the interest rates (which will revert to floating rates) don’t climb drastically. As for floating rate home loans, you can generally choose between board rates and SIBOR-pegged packages (if offered). Read the previous 2 sections on how to choose a good floating rate home loan. One important note: For completed properties, banks usually enforce a lock-in period for their loan packages. This has its pros and cons. On the bright side, you’d be able to lock in a good interest rate for a number of years (2, 3 or 5 years). But should you decide to sell your home during this period, or get a windfall and want to repay your loan early, or switch to another home loan package or bank? Then expect some heavy penalties. The best you can do is to chat with our mortgage specialists at MoneySmart to find mortgage value-adds, like early repayment fee waivers in the event that you sell your property. Which brings me to the next point…  Back to top   Can I get a better home loan interest rate than what’s published? Although we’re great believers of online comparison shopping here, the nature of bank loans is such that it does help to have a “broker” to help get a better deal that what’s published on the banks’ websites. MoneySmart’s Mortgage Specialists can easily assist you through the entire home loan application process and advise you on what would work best for you. You can simply head over to the MoneySmart Home Loan Singapore page and let our team do the rest. Also, banks do change their interest rates and housing loan (Singapore) packages every month or so, so be sure to check MoneySmart’s Home Loans Singapore page for the latest rates. Back to top   What can I do if I’m servicing a lousy home loan? If you currently own a home already, you might want to consider refinancing your home loan at some point, especially if you have already “served” the lock-in period for your current package. Refinancing simply means switching over to a new home loan package (whether with the same bank, or jumping over to another financial institution).  This is normal and expected for homeowners to do in the 3rd or 4th year of servicing a bank loan, since that’s when the fixed rates expire and the interest rate usually slides back up. Refinancing does require a bit of legwork, which can be handled by our mortgage specialists, if you sign up for your housing loan Singapore through MoneySmart.  It also involves legal and valuation fees, which may be offset by the bank that you are refinancing to. (Of course, this is only if you refinance after your lock-in period so there are minimal penalties to worry about.) But, if the bank offerings are favourable, refinancing can save you a bundle in the long run. Even if you are still happy with your current bank loan, well, the financial world is ever-changing — so you should read up on how to refinance home loan anyway. No time to call every bank yourself? Speak to MoneySmart’s Mortgage Specialists for the best home loan rates for your new purchase, or find out your refinancing options.   Related articles HDB Loan vs Bank Loan – Which Is Better? 5 Things to Know Before You Commit Applying for HDB Loans in Singapore – The Ultimate Guide to How Much It Will Cost You How to Refinance Your Home Loan in Singapore & Save Money on Your Mortgage
+
+
+
+
+
+
+
+Tags: Home Loans, Property
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_2775{}#indeed_sm_wrap_2775 .ism_item{}#indeed_sm_wrap_2775 .ism_item .fa-ism, #indeed_sm_wrap_2775 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_2775 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_2775 {
+		display:block;
+	}#indeed_sm_wrap_2775 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Clara Lim
+I used to be MoneyDumb. I hung out at H&M every day and thought that a $50 lunch set was a good deal. These days, I spend my time researching the crap out of life and trying to maximise utility on micro-decisions. I'm not sure if that's an improvement.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

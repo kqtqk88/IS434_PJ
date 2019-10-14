@@ -1,0 +1,59 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+Buying a Home In A Rising Interest Rate Environment – How To Choose The Right Home Loan?
+Mark Cheng  April 12, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Mark Cheng 
+
+  April 12, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3434{}#indeed_sm_wrap_3434 .ism_item{}#indeed_sm_wrap_3434 .ism_item .fa-ism, #indeed_sm_wrap_3434 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3434 .ism_item_wrapper{display: block;} 
+
+
+This post was written in collaboration with UOB. While we are financially compensated by them, we nonetheless strive to maintain our editorial integrity and review products with the same objective lens. We are committed to providing the best recommendations and advice in order for you to make personal financial decisions with confidence. You can view our Editorial Guidelines here.  At the start of the year, SIBOR-linked home loan packages were seen as a good choice as mortgage rates pegged to banks’ internal board rates, including those pegged to their Fixed Deposit Board Rates, started to rise overall, and the US Federal Reserve had announced that they might cut back on interest rate hikes this year.  However, the surge in SIBOR hasn’t really dissipated, and as at mid-March 2019, buyers were looking at interest rates not seen since more than a decade ago.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  Fixed vs Floating – Making sense of interest rates SIBOR-linked home loan package has certainly taken market observers on quite a ride, and many homeowners have opted for a SIBOR-linked home loan package because of its overall rate being lower than non SIBOR-linked packages. But the fact remains that SIBOR will fluctuate and that is crucial to bear in mind.  With the Fed’s decision to halt interest hikes, we spoke to UOB to find out their views on the potential changes in interest rates, and how it can impact customers who are looking to take a home loan. A summary of some of the key House views we have noted are:  SIBOR levels will remain due to current domestic factors,  and any interest rate decline following the pause in rate hike by the Fed Reserve would be limited SIBOR has been following the US rate increases with minimal volatility, but the low volatility might not always remain Based on the research team’s view on SIBOR, this could mean greater volatility to a home owner if you are getting a SIBOR linked home loan   According to the UOB Research Team, “we are of the view that SIBOR levels will remain due to current domestic factors looking supportive of it, and any interest rate decline following the pause in rate hike by the Fed Reserve would be limited (should these conditions remain).  SIBOR has been following the US rate increases with minimal volatility, but we are cautious that the low volatility might not always remain given market’s uncertainties and the slowing down of global growth. SIBORs could experience greater fluctuations when domestic conditions respond to unexpected shifts in global growth outcomes.  Thus, based on our research team’s view on SIBOR, this could mean greater volatility to a home owner if you are getting a SIBOR-pegged home loan.” Getting the lowest interest rate at a particular point in time may not always be the best idea. Instead, it’s important to ask yourself whether you would rather have stability and not have to constantly monitor the listed rates with a Fixed Rate, or if you would prefer transparency in rate movements which you can monitor.   Pros and cons of a fixed vs floating home loan at a glance:     Home loan package Transparent? Volatility Interest Rates   1-month SIBOR-based √ √ Can be low or high depending on market   3-month SIBOR-based √ √

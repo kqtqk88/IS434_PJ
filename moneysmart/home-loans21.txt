@@ -1,0 +1,143 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home LoansProperty
+A Couple’s Resale Flat Journey — 5 Tips for Your First Home and Mortgage  
+Eugenia Liew  August 2, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Eugenia Liew 
+
+  August 2, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_1159{}#indeed_sm_wrap_1159 .ism_item{}#indeed_sm_wrap_1159 .ism_item .fa-ism, #indeed_sm_wrap_1159 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_1159 .ism_item_wrapper{display: block;} 
+
+
+After the wedding, the next big milestone that’ll empty out your savings is your first home and mortgage. In Singapore, any home will be considered a big-ticket purchase. If, like an average newly-wed couple, you get a 4- to 5-room HDB flat, it’ll likely cost you close to half a million.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+Understandably, this can be daunting for many. Anywhere else in the world, that many zeros can buy you a nice house and perhaps even a luxury car. (If this doesn’t put a dent in your wallet, you shouldn’t need to read the MoneySmart blog… Actually, can I read your blog instead?) Most couples in their 20s and 30s won’t be able to cough up enough money to pay for their new homes in full. They’d have to take on a mortgage, and spend the rest of their lives the next couple of years paying it off. So yeah, suffice to say, your first home and mortgage is a big deal.   5 tips for getting your first home and mortgage We sit down for a tete-a-tete with business analyst Jesline, 33, and her husband, senior manager Hwee Kian, 34, about how they did it. Follow our host, Michelle Chong, as she takes us on a house tour of their newly renovated home.    1. First, decide what “the dream home” is. Before you go flat-shopping, it’s best to take some time out to discuss with your partner what qualities you want your home to have. How big do you want it to be? Do you prefer to live in a young or mature estate? Can you wait 4 years for a BTO? Jesline and Hwee Kian decided they wanted a resale flat, and location was their main priority. Because they don’t drive, the couple knew they wanted a place that was near an MRT station and had nearby amenities (like supermarkets). But even then — with their flat choices narrowed down — it was tiring for Jesline and Hwee Kian to juggle flat-viewing with their full-time jobs. The couple visited 12 units in 2 weeks, which is almost 1 every day. Imagine the horror if they had no idea what they wanted, and viewed every available unit they chanced upon.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+It’s not so bad if you get a BTO flat (because all the “shopping” is done online), but if you are looking at resale units, then it can be a really tedious process. Eventually, they found their current home, which is within walking distance of Hougang MRT and Hougang Mall. “We actually hunted down flats based on the NEL MRT track line,” shares Hwee Kian.   2. Work out a budget — and don’t forget the CPF housing grants. Like all kinds of shopping, after picking out the perfect buy, you have to look at the price tag. Ideally, you should nail down a maximum budget before you begin house hunting, so you can immediately strike unrealistic buys off your list. Again, this is to save time and effort. The last thing you want is to view a home and decide to buy it, only to realise you can’t afford it. To work out your budget, you can add up the following:  Cash and CPF Ordinary Account (OA) savings — for downpayment and monthly repayments CPF housing grants — up to $120,000 for resale HDB flats) Housing loan amount — up to 75% or 90% of house price for bank and HDB loans respectively  Jesline and Hwee Kian’s home costed $480,000, but they were eligible for $50,000 worth of CPF housing grants. After taking that into account, they only needed to pay $430,000, which they found reasonable for the 4-room resale flat.   3. Do your due diligence to pick a suitable mortgage. Unless you can pay the entire price of your new home, you’ll need to pick between a HDB housing loan or a bank loan. The main differences between the 2 are the interest rates, as well as the maximum downpayment and loan amounts (the LTV). You can read more about HDB vs bank loans here: HDB Loan vs Bank Loan – Which Is Better? 5 Things to Know Before You Commit There’s only 1 HDB housing loan, but bank loans come in all shapes, sizes and styles. Not only do you have to choose the bank, but the type of package too. If it gets too overwhelming, MoneySmart has a suite of resources to help you compare interest rates and assess the best types of mortgage for you. Jesline and Hwee Kian got their flat before the 2019 SIBOR recovery, and with MoneySmart’s help, managed to get a bank loan offering a relatively low floating rate of 1.6% to 1.8%. Back then, the LTV ratio had not been adjusted to 75% yet (read about the 2018 property cooling measures here), so they were able to lock down a great rate for 80% of their flat price. Flat purchase price: $480,000 Bank loan amount: 80% x $480,000 = $384,000   4. Think about whether you want to pay with cash or CPF. When buying a home, there are 2 main payments to think about: the downpayment (which you pay upfront) and the mortgage repayments (which you pay monthly). You can use your CPF OA savings to help pay for your home, so what most people do is to first empty out their CPF to pay for the downpayment. Then, as they continue to earn CPF (with their salary), they use whatever they have to pay for the monthly instalments, only topping up with cash if necessary. Jesline and Hwee Kian did the first part — they used their CPF to pay for their 20% downpayment — but decided to use cash to pay for the rest of the $1,600 to $1,800 monthly repayments. Why? You might ask. Pro-tip: Don’t forget that your CPF savings can be used for retirement planning too. Well, the couple simply did not want to wipe out their CPF savings because they believe that CPF is a great way to save for their golden years. The CPF interest rate is relatively high, and it made sense to them to leave money in there to grow. “Our personal aspiration is retirement planning,” adds Hwee Kian. Of course, there is no right or wrong way to go about financing your home loan, but it’s an important discussion to have with your partner. Just go with whichever is more comfortable for your unique financial situation.   5. Shop online to save on renovations and furniture. Once you’ve gotten the big money matters out of the way, you’ll have to renovate and furnish your home. It’s well known that you can score cheap furniture on sites like FortyTwo and Taobao, but did you know that you can also buy things like lights and other fixtures online? Jesline and Hwee Kian’s final tip for prospective homeowners is to look to e-stores for better deals. “When we did a comparison with retail stores, we were actually able to save quite a fair bit — a good 50%!” says Hwee Kian. Granted, there is a risk that your buys may not be #TrueToPic, but they feel that the potential savings is enough to justify shopping online. “After all (if we don’t like it), we can just sell it!”   Are you preparing to buy your first home as well? Share your experience with us in the comments below!    Related articles HDB Resale Flats vs BTOs — Are HDB BTOs Always Cheaper Than Resale Flats? Getting a HDB Flat vs Executive Condo (EC) vs Private Condo in Singapore  HDB Loan vs Bank Loan — Which Is Better? 5 Things to Know Before You Commit Renovation Singapore Costs  – How Much Should You Budget? CPF Housing Grant Guide — What’s The Maximum You Can Get?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4420{}#indeed_sm_wrap_4420 .ism_item{}#indeed_sm_wrap_4420 .ism_item .fa-ism, #indeed_sm_wrap_4420 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4420 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_4420 {
+		display:block;
+	}#indeed_sm_wrap_4420 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Eugenia Liew
+I’m a 90s millennial who’s starting to realise that #adulting is more expensive than it seems on Instagram. When I’m not writing for MoneySmart, I’m usually playing with drain-dwelling stray cats or shopping at Sephora.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

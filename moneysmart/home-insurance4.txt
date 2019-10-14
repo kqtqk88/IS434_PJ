@@ -1,0 +1,215 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Insurance
+Why Your Home May Not Be As Protected As You Think
+Jeff Cuellar  August 19, 2013 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Jeff Cuellar 
+
+  August 19, 2013 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_2139{}#indeed_sm_wrap_2139 .ism_item{}#indeed_sm_wrap_2139 .ism_item .fa-ism, #indeed_sm_wrap_2139 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_2139 .ism_item_wrapper{display: block;} 
+
+
+Before buying an HDB flat, condominium, or a landed property, you must purchase a fire insurance policy. Fortunately, basic fire insurance is cheap, with premiums as low as $1.80 for a 5-year policy. Unfortunately, many people mistake this for a proper “home content insurance” policy – an error that can cost you tens of thousands of dollars! That’s because basic fire and home content insurance are two completely different things – fire insurance only covers damage to the interior structure of your flat (as well as any “original” fixtures), while home content insurance covers the loss of your personal belongings and renovations.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  A Situation You Want to Avoid Imagine being in the middle of an important meeting when your phone starts vibrating. Your wife is calling so you excuse yourself to take the call. After 10 seconds, you rush from the office and drive straight home – apparently, your flat is on fire. You get home just in time to see your wife crying on the void deck while fire fighters are emerge from your smoking flat. Then you see the damage – your flat’s interior looks like it could have been the set for a post-apocalyptic film. The kitchen’s a burnt mess and half of your living room is charred and blackened by smoke. But you’ve got basic fire insurance, which will cover the loss of your appliances, furniture, and your 48” television right? Nope. Fire insurance ONLY covers structural damages to your flat’s interior or any HDB provided fixtures. Here are the key differences between fire and home content insurance:   What Exactly Does Fire Insurance Cover?   Fire insurance will cover the cost to rebuild your home. But don’t count on it to cover the replacement of your vintage 1980s furniture… or anything else for that matter.   Again, basic fire insurance is ONLY intended to cover the cost of damage to the flat’s structure, replacement of any “original” fixtures/fittings, or rebuilding a home (landed property). This includes the original flooring, ceiling, walls, doors, windows, and electrical cabling. As Alfred Chia, insurance expert and CEO of SingCapital points out, “If your children accidentally burn down the house… you can only claim from fire insurance if they have successfully burnt down the whole structure of the house. The sofa, television, and cost of renovation are not covered under fire insurance.”  Coverage and premiums vary according to the type of property you own. For example:  HDB Owners: If you own an HDB flat, your appointed insurer is Etiqa Insurance Berhad – here’s a look at the coverage and policy premiums you can expect to pay, which is dependent on the size of your flat. Condominium/Private Apartment Owners: If you own a condominium or private apartment, chances are that the whole block has been registered as a Management Corporation Strata Title property. This means that the Management Corporation is responsible for insuring the property against fire damage. Landed Property Owners: If you own a landed property, you can take out fire insurance from any number of providers. However, fire insurance only covers the cost to rebuild your property – it won’t cover your home’s market value. You can use the General Insurance Association’s replacement cost calculation table to find how much you need to insure your property for.  Let’s look at what types of damage basic fire insurance will protect you against (may vary depending on the insurer):  Fire: When that chicken you were pan frying gets revenge by causing a grease fire in your kitchen. Lightning: In case Zeus doesn’t like the channel you’re watching and tosses a lightning bolt at your flat/home, causing the concrete to spall or damage to electronics. Standard Explosions: When a leaking gas line leads to an exploding kitchen. Aircraft Damage: In case some part of an aircraft, or the aircraft itself inconveniently lands on your flat/home. Bursting/Overflowing Water Pipes: When your home’s water pipes burst, leaving your home a leaking mess. Earthquakes: In case a fault line mysteriously appears right under Singapore. Smoke Damage: Where there’s fire, there’s smoke damage! Vehicle Impact Damage: In case a drink driver loses control of his Ferrari and mistakes your landed property’s front window for a parking garage. Malicious Damage: In case an ah long breaks in and takes a hammer to your walls and fixtures (he’s sorry, he was looking for the flat above yours). Riot/Strike: When your property becomes the chosen site of a “peaceful” protest that becomes not so peaceful once police arrive. Sprinkler Leakage: When your sprinkler system inconveniently leaks, causing water damage to your flat. Spontaneous Combustion: In case those oil-soaked rags or bag of charcoal in your storage room spontaneously ignite (seriously, it can happen). Landslide/Subsidence: When the foundation of your home starts cracking like the screen of a dropped iPhone because of subsidence from heavy rain.  You can find out more about your Fire Insurance options here.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+  What Does Home Content Insurance Cover?   A home content insurance policy covers just about everything you see here (you might want to take out a policy endorsement on the piano though).   Home content insurance protects what a basic fire insurance policy won’t – your renovations and household contents. And not just against damage caused by hazards such as fire, lightning, but theft too. There are two types of home content insurance policies you can purchase – Insured perils and All Risks. Insured perils covers damage caused by the items stipulated in your policy documents ONLY (fire, lightning, explosions, bursting water pipes, etc.). An All Risks policy covers a wider range of causes, and even includes accidental damage – but be aware that there are policy exclusions. Now think about how the average Singaporean family spends tens of thousands of dollars to renovate and furnish their home. Now consider that there were almost 3,200 residential fires last year. How many families do you think lost thousands because they weren’t properly insured? Here are some of the items many home content insurance policies provide (keep in mind that some coverage items require an excess to be paid):  Household Contents: Includes your valuable furniture, appliances, clothing, linens, electronics, AV equipment, jewelry, etc. But there is an insurance limit (ex. $1,500), so if you have VERY expensive items (wine bottles, paintings, investment timepieces), you’ll need to get an endorsement in your policy to cover them. Renovations, Fixtures, and Fittings: Protects the investment in your home’s renovations such as bathroom/kitchen modifications, air conditioners, wardrobes, flooring, etc. Personal Legal Liability: Covers medical expenses or property damage you accidentally cause a third party. Alternative Accommodation Expenses: Provides financial assistance in the form of a weekly/monthly stipend to cover the cost of alternative accommodation while your home undergoes repair. Accidental Glass Breakage Coverage: Covers the replacement of damaged glass in your home to light fittings, mirrors, and glass in furniture. Loss of Personal Money/Debit/Credit Card: Provides coverage for the loss, theft, and replacement of credit or debit cards. It can also cover any unauthorized use of your cards in case purchases were made before you cancelled them/notified the bank. Loss of Personal Papers: Covers the replacement cost of your lost/destroyed identification card(s) or Passport. Accidental Death of Pet: Provides payment for the loss of your pet in the event of an accident. Worldwide Accidental Death: Enables you or your beneficiaries to receive a death benefit in the event that you or your spouse accidentally dies while on holiday. Worldwide Personal Effects: Insures valuables such as electronics, jewelry, and watches against theft or loss when you travel abroad. Rent Protection: Reimburses you for the loss of rental income if your tenant defaults on rent or absconds as a result of damage to the property.  Thankfully, there are numerous companies offering home content insurance plans with different levels of coverage. The coverage amount and insurance premium also varies greatly from company to company, with annual premiums ranging from $70 – $400+. So compare policies till you find the one that’s right for you.You can find out more about your Home Content Insurance options here.   Don’t Forget to Evaluate Your Home Content Insurance Policy Annually   Home content insurance will cover the cost of your renovations, but only if you’ve updated your policy to cover any new… additions.   A lot can change in a year or less (depending on your purchasing habits/income level). Maybe in the next year you’ll purchase a new Bose sound system, renovate your bedroom to look like a Balinese villa, or add a nice jacuzzi to your bathroom. Let’s assume you already purchased a home content insurance policy last year, but the water pipes in your place burst yesterday. Your bedroom and living room were ruined by water damage. Unfortunately, you forgot to add in those new purchases/renovations to your policy, so now you’re going to have to eat the cost of repair/replacement. So always remember to add in any new high-dollar purchases or renovations to your policy as soon as possible! If you need any more help, you can always drop us a note here.   Have you had any experiences where your home insurance policy saved you lots of money? Share them with us on here! Image Credits: travisdavidwood, Mrs Marissa Lynn, bogowonto2010, James Snape,
+
+
+
+
+
+
+
+Tags: Featured, Home Insurance
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_139{}#indeed_sm_wrap_139 .ism_item{}#indeed_sm_wrap_139 .ism_item .fa-ism, #indeed_sm_wrap_139 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_139 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_139 {
+		display:block;
+	}#indeed_sm_wrap_139 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Jeff Cuellar
+I'm known by many titles: copywriter, published author, literary connoisseur, ex- U.S. Army intelligence analyst, and Champion of Capua.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+Comments (3) 
+
+
+
+
+
+
+ 
+
+
+funkyspyspy 
+November 6, 2014 at 12:07 am 
+
+
+
+
+I like the way you described how the fire insurance protects you in the simplest way possible… HAHAHA
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+dynamicshade 
+December 30, 2014 at 7:59 pm 
+
+
+
+
+Window film is that members of the family are secure against the venturesome effects of extremist violet waves from direct daylight. Just visit here on their site http://dynamicshades.com.sg
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+dynamicshade 
+April 6, 2015 at 7:21 pm 
+
+
+
+
+Solar films so,
+buy them with the reliable providers of solar films and make your home healthy
+and beautiful. http://www.dynamicshades.com.sg
+
+
+
+
+
+
+
+Comments are closed.
+
+
+
+
+

@@ -1,0 +1,145 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Loans
+How To Choose Your Home Loan Singapore: 5 Important Factors To Consider Before Deciding
+MoneySmart  July 12, 2019 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+MoneySmart 
+
+  July 12, 2019 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_3978{}#indeed_sm_wrap_3978 .ism_item{}#indeed_sm_wrap_3978 .ism_item .fa-ism, #indeed_sm_wrap_3978 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_3978 .ism_item_wrapper{display: block;} 
+
+
+Choosing a home loan can be confusing. There are so many options to think about: fixed or floating interest rates, loan term, lock-in periods, subsidies, penalties and other special features. There isn’t a “best” mortgage out there – it all depends on your needs and preferences. We’ve distilled the decision to 5 most important things to look at.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+If you’re still unsure or not confident after reading, you can ask MoneySmart’s mortgage specialists for unbiased advice on the latest housing loan rate and what is best for you.    1. Loan amount The local banks usually give a loan of up to 75% of the property value for first time homebuyers, but the actual amount will depend on their assessment of your ability to repay the loan. Your ability to repay is determined by debt servicing ratios based on Singapore’s regulations such as Total Debt Servicing Ratio (TDSR) and Mortgage Servicing Ratio (MSR). TDSR currently stands at 60%, which means that the total sum of what you owe to others, whether it is in an education loan, renovation loan, or credit card bill, must not exceed 60% of your monthly income. MSR only takes into account your housing loan repayments and applies when you are buying a HDB or an EC. The current MSR is 30% of your gross monthly income. Use our TDSR calculator and MSR calculator to help you plan. Note that banks can choose to lend you based on either your purchase price or their own internal valuation, whichever is lower. So if your purchase price is above their valuation, you will have to top up the difference in cash. As a best practice, you should always get an indicative valuation and in-principle approval from a bank before you commit to a purchase.   2. Loan term The loan term is the duration of time that you take to completely repay the loan. Loan terms usually range from 10 to 35 years. The longer your loan term, the smaller the monthly repayment you need to make, but the higher the total amount of interest you will eventually pay. Also note that your age may be a limiting factor – banks will typically cap the maximum term up to the age of 65. So if you’re 50 years old, you may only be given a loan term of up to 15 years. Young buyers looking to maximise the amount they can borrow will usually select the maximum 25 to 35 year home loan term.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+  3. Fixed or floating rate Fixed rates offer the borrower security and stability as the rate does not change over a certain period. As interest rates are currently still considered low, despite increases through the course of 2019, if they rise, you will be protected from upward adjustments of your monthly mortgage payment. But this comes at a price – fixed rate housing loan packages usually charge higher interest than floating rate packages. Borrowers who believe that interest rates will fall or remain low for a long period of time can go for floating rate packages as they can get lower interest rates up front and their monthly payments will fall if interest rates fall. For floating or variable rate home loan packages, they are typically linked to either of the two major benchmark rates: Singapore Interbank Offered Rate (SIBOR) and the Swap Offer Rate (SOR). SIBOR is the main standard now. These rates are mainly affected by US interest rates and Singapore banking system liquidity. But do not assume that they will always stay at the lows they currently are at. Although 1-month SIBOR is hovering at 1.88% now, about more than a decade ago they were as high as 3.6%. As a rule of thumb, if you’re going for a floating rate, you should look at your monthly payments using buffer rates of 4% to make sure you can still service your mortgage in case rates spike up.   4. Other special features, promotions and discounts Some loans have an interest offset feature, where deposits at the bank can be used to offset the loan amount so you only pay the interest on the difference. For borrowers with large amounts of cash that they want to keep available for other uses at a moment’s notice (e.g. investing in the stock market) this could be a good option. Some banks also offer interest-only packages, usually on a case-by-case basis. For these loans, you only pay the interest amount for a specified period of time, and after that the loan will revert to a normal interest plus principle loan. This option may be suitable for investors who want to minimise the cash outflow during the interest only period.   5. Subsidies, lock-in periods, and penalties Most home loans come with some subsidies including the legal, valuation and fire insurance fees. When comparing housing loans, borrowers should check what the various fee subsidy amounts are. For example, there is usually a cap of $2,000 to 2,500 on the legal fee, and if your legal fees exceed those you will have to top up the difference. The lock-in period you should choose depends on your expectation of when you will sell the property and also on your view of where interest rates are going. Typically the shorter the lock-in period, the higher the interest rate. But if you repay the mortgage within the lock-in period, you typically have to pay a penalty of anywhere from 0.75% to 1.5%, which is substantial. Some banks can waive the penalty if you are selling your house (as opposed to just repaying the housing loan), so make sure you check if they will include this clause. Don’t skip reading up about the cancellation fees as well so that you are well prepared to commit to the home loan before you sign. Here’s another tip to save you money: Sometimes the bank can give you an additional discount off their advertised interest rates, especially if you’ve been a longstanding customer. Just ask! Even a 0.05% discount adds up to some serious money. If you feel overwhelmed by all the different options above, you can also consider engaging the services of a mortgage broker like MoneySmart, who will help to filter the right packages for you based on your requirements. You don’t have to pay any fee for the advice as they will get a commission from the bank if the mortgage specialist can successfully arrange a housing loan for you. Don’t make a major financial decision without being fully informed. Whether you’re getting a new housing loan or you’re refinancing in Singapore, check with our MoneySmart’s home loan specialists before deciding. Questions about mortgages? Comment and let us know!   Related articles How to Refinance Your Home Loan in Singapore & Save Money on Your Mortgage Best Home Loans Singapore (2019) – Most Affordable Housing Loans Reviewed DBS Home Loan vs OCBC Home Loan vs UOB Home Loan – Which Local Bank Is Best?
+
+
+
+
+
+
+
+Tags: Home Loans, Property
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_2646{}#indeed_sm_wrap_2646 .ism_item{}#indeed_sm_wrap_2646 .ism_item .fa-ism, #indeed_sm_wrap_2646 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_2646 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_2646 {
+		display:block;
+	}#indeed_sm_wrap_2646 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+MoneySmart
+We help people maximise their money through the provision of powerful tools and awesome content, by empowering them to make smarter financial decisions.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+
+

@@ -1,0 +1,143 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Home Insurance
+7 Things You Probably Don’t Know Your Home Contents Insurance Covers You For
+Joanne Poh  August 26, 2015 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Joanne Poh 
+
+  August 26, 2015 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4527{}#indeed_sm_wrap_4527 .ism_item{}#indeed_sm_wrap_4527 .ism_item .fa-ism, #indeed_sm_wrap_4527 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4527 .ism_item_wrapper{display: block;} 
+
+
+Think about home contents insurance and visions of your block being burnt to the ground flash through your mind. Well guess what, more exotic things could happen—like a meteorite crashing into your property or a riot stampeding through your front door, killing your annoying chihuahua in the process.  And a home contents insurance policy just might offer you protection in those situations too, no matter how ridiculous they might sound. Here are 7 things you didn’t know your home contents insurance covers you for:
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  Riots and terrorism Don’t say it will never happen. The Little India riots reportedly caused about $650,000 worth of damage to public property. Should there ever be a riot over the escalating price of economy rice at your local hawker centre or should terrorists ever decide to detonate a bomb in the lobby of your condo, you’ll be glad to know that the contents of your home will be covered by most home insurance policies.   Accidental death of your dog or cat So your beloved pooch spends his time receiving massages at the doggy spa, eating only gourmet treats and believing himself superior to dogs from the, ugh, SPCA. So when a plane crashes into your flat and poor Fluffy is found dead, what do you do? Make an insurance claim, of course. Many home insurance polices will give you a pay out for the accidental death of a dog or cat.   Identify theft Let’s say a cat burglar has been making his rounds, and before you know it someone gets hold of your credit cards and starts going on a shopping spree. Fortunately, identity theft through the unauthorised use of your credit cards is often insured, so you’ll be able to make a claim for a replacement and any losses incurred through the actions of some opportunistic thief. Banishment to hell sold separately.   Food gone bad Singaporeans live to eat, so there’s nothing worse than coming back to your wrecked house only to discover that your fridge stopped working and all those frozen wagyu steaks you bought now resemble your dead poodle Fluffy. Look through your home insurance policy, as it could well offer you compensation for deterioration of frozen food should your freezer break down. Take that payout and have a meal on the house.   Bursting water pipes We’ve all heard that little horror story about the family who came back to their brand new BTO flat only to discover a pipe had burst and their newly renovated home was covered in crap. Eww. If that incident has left you paranoid, you’ll be happy to know that home insurance usually protects your property from bursting or overflowing water pipes.   Accidental death of you or your family members So some idiot lost control of his Ferrari and drove it through your front door. And unfortunately, someone in the house was unlucky enough to have been watching Channel 8 dramas in the living room right at that moment. Some home insurance policies will provide coverage for accidental death. This protection might, depending on the policy, also be extended to your spouse or children.   Replacement of your computer Let’s admit it—losing our computers is equivalent to losing our lives. There go 10 years’ worth of digital photos, all our financial statements and our extensive pirated movie collections. Great. Well, you’ll be glad you bought home insurance, because many policies will give you a payout in order to replace your computer. Phew, because what would you do if you couldn’t surf Facebook while waiting for your home to be rebuilt, right? Do you have home insurance? Tell us why or why not in the comments!
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+
+
+
+
+
+
+
+Tags: Home Insurance
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4713{}#indeed_sm_wrap_4713 .ism_item{}#indeed_sm_wrap_4713 .ism_item .fa-ism, #indeed_sm_wrap_4713 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4713 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_4713 {
+		display:block;
+	}#indeed_sm_wrap_4713 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Joanne Poh
+In my previous life, I was a property lawyer who spent most of my time struggling to get out of bed or stuck in peak hour traffic. These days, as a freelance commercial writer, I work in bed, on the beach, in parks and at cafes, all while being really frugal. I like helping other people save money so they can stop living lives they don't like.
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

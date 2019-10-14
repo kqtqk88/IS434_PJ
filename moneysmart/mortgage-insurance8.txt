@@ -1,0 +1,144 @@
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493489186-0'); });
+
+
+
+
+Mortgage Insurance
+3 Reasons Why You Need To Get Mortgage Insurance
+Sharon Ang  August 28, 2014 0 Comments
+
+ 
+
+
+
+
+
+ 
+
+
+
+Sharon Ang  
+
+  August 28, 2014 
+ 0 Comments 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_4305{}#indeed_sm_wrap_4305 .ism_item{}#indeed_sm_wrap_4305 .ism_item .fa-ism, #indeed_sm_wrap_4305 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4305 .ism_item_wrapper{display: block;} 
+
+
+To be honest, mortgage insurance was a product that was the least intuitive to me when I was training to become a relationship manager years ago. Despite how simple a product it actually is, I took a while to grasp it – what it is actually for, why premiums decrease and why there are different interest rates involved. Fast forward to today, after helping many clients sign up for mortgage insurance, sometimes bundled with their home mortgage packages, I will certainly advise anybody who is taking up a mortgage to also take up mortgage insurance, and will do so myself. Here are the key reasons why:
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479242694-0'); });
+
+
+  1. To Protect The Roof Over Your Family’s Head, Come Rain Or Shine For many of us, our property is our single largest asset and our mortgage is similarly, our single largest liability. As long as your mortgage is still outstanding, the bank legally holds your title deed. Which means to say, if you are unable to meet your mortgage repayments, the bank has the right to sell off your property to recover the mortgage you owe to it as a debt. Now, this is pretty serious stuff. It means that if you are your family’s sole breadwinner and you pass on, your family may no longer have a roof over their head if they cannot meet the monthly repayments of the outstanding mortgage. It means that if you are permanently incapacitated or fall critically ill and are no longer able to pay for your monthly mortgage instalments, the bank has the right to sell your property too. Unless, of course, you have sufficient insurance to pay off your mortgage should any of the above unfortunate events occur. You may already have term insurance and/or whole life insurance, or other type of endowment and investment-linked policies, and are wondering if you really need another mortgage insurance. Chances are, unless your current insurance policies combined have a sum assured at least higher than your outstanding mortgage, you should definitely look into buying mortgage insurance. And even if the sum assured under your current policies exceed your mortgage amount, you should still consider getting a separate mortgage insurance.   2. Mortgage Insurance Is Essentially The Cheapest Term Insurance Available It covers you for a particular term, and is intended to mirror your outstanding mortgage in terms of:  Number of years remaining, Outstanding mortgage amount, and Interest rate applicable (if in doubt, choose the more conservative, which is, a higher interest rate, to ensure adequate mortgage insurance coverage)  In insurance jargon, mortgage insurance is a reducing or decreasing term insurance. This means that the amount of coverage runs down over the term of your policy, just as your outstanding mortgage runs down over the years. Often, you will find the last 2-3 years of your mortgage insurance policy free (i.e. no premium payments required), as the amount of coverage reduces to under $50k.   3. To Fulfil A Particular Need, Whether You Are A Homeowner Or Investor It would be best to keep your other insurance policies for the other purposes they are intended for. Which generally translates to the following: Term and whole life insurance to provide for income replacement and to provide for your family financially in the day-to-day should anything unfortunate happen to you. Additionally, whole life insurance can be cashed out in future, in part or in whole as it accumulates cash value over the years.
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555479303870-0'); });
+
+
+Endowment policies as a form of savings towards a particular goal, i.e. your child’s university education or as a wedding gift Investment-linked policies to seek higher returns for those with a higher risk appetite and with little investment know-how. It would be best to buy mortgage insurance specifically to cater for your mortgage liability. For homeowners, choose a mortgage insurance that mirrors your mortgage tenure and amount closely so that at any point in time, you can be assured that your mortgage will be paid off in full should you pass on, become terminally ill, suffer total permanent disability (rider required) or critical illness (rider required, usually the most expensive component). For property investors, you may consider buying a large level-term insurance, i.e. $x million coverage (amount to correspond to your total mortgage liabilities) so that you need not terminate and re-apply for mortgage insurance every time you transact your properties. Most, if not all, insurance agencies offer mortgage insurance. The application process is relatively straightforward, including some health declaration questions. If you are a HDB buyer, you can opt either for the HPS (Home Protection Scheme) administered by CPF Board, which is essentially a mortgage insurance scheme, or take up your own from a private insurer and inform CPF Board to exempt you from the HPS requirement. Do look into this as soon as possible if you haven’t already, to protect your biggest asset – a roof over your head and a home for your loved ones. Have you had any negative experiences with not taking mortgage insurance? Is it really that useful? Share your thoughts with us here.
+
+
+
+
+
+
+
+Tags: Mortgage Insurance, Property
+
+
+
+
+
+
+Personal finance tips delivered to your inbox!Receive news, subscriber-exclusive promotions and guides on how to become smarter with money.
+
+
+
+
+SUBSCRIBE
+
+
+
+
+
+We promise never to spam you! 
+
+
+	///////////////////FACEBOOK
+jQuery(document).ready(function(){
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : window.ism_facebook_id,
+		  status: true,
+          cookie: true,
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk-ism'));
+});
+
+var ism_enable_statistics=1;#indeed_sm_wrap_953{}#indeed_sm_wrap_953 .ism_item{}#indeed_sm_wrap_953 .ism_item .fa-ism, #indeed_sm_wrap_953 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_953 .ism_item_wrapper{display: inline-block;}#indeed_sm_wrap_953 {
+		display:block;
+	}#indeed_sm_wrap_953 .ism_item_wrapper{width:25%;} 
+
+
+
+ 
+
+
+ 
+
+
+Sharon Ang
+I love sunshine, adventure, new experiences and outdoor places. I started taking personal finance seriously ever since I became a senior relationship manager at a local bank and later a priority banking relationship manager. I feel gratified to be in a role where I can make a difference in people's lives on a subject close to their hearts. I would love to hear from you at [email protected]
+
+
+
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555493593420-0'); });
+
+
+
+
+
+
+

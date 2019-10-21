@@ -121,17 +121,20 @@ for y in range(0, numRows):
 # boxes
 boxes = non_max_suppression(np.array(rects), probs=confidences)
 
-# loop over the bounding boxes
-for (startX, startY, endX, endY) in boxes:
-	# scale the bounding box coordinates based on the respective
-	# ratios
-	startX = int(startX * rW)
-	startY = int(startY * rH)
-	endX = int(endX * rW)
-	endY = int(endY * rH)
+# Only count if more than 3 words
+if len(boxes) > 3:
 
-	# draw the bounding box on the image
-	cv2.rectangle(orig, (startX, startY), (endX, endY), (0, 255, 0), 2)
+	# loop over the bounding boxes
+	for (startX, startY, endX, endY) in boxes:
+		# scale the bounding box coordinates based on the respective
+		# ratios
+		startX = int(startX * rW)
+		startY = int(startY * rH)
+		endX = int(endX * rW)
+		endY = int(endY * rH)
+
+		# draw the bounding box on the image
+		cv2.rectangle(orig, (startX, startY), (endX, endY), (0, 255, 0), 2)
 
 # show the output image
 # cv2.imshow("Text Detection", orig)

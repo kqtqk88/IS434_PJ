@@ -1,0 +1,4 @@
+,content
+question,"STI ETF Investments Asked by AnonymousAsked on 04 Nov 2018How can I measure the return of the STI ETF I bought using posb invest saver?Do i calculate using XIRR, IRR ? or is there other formulas I can apply?1 answerAnswerBump0"
+0,Answers (1)Sort By Most UpvoteMost UpvoteMost Recent
+1,"Lok Yang TengLevel 6. MasterUpdated on 05 Nov 2018Average price x quantity -- market price x quantity and you will get paper (unrealised) gain/loss. This method does not take into account of dividends. The different formulas are used for various purposes, XIRR (Extended internal rate of return), TWR(Time-weighted return), IRR(internal rate of return)... All depends what you want to know.0 comments0"

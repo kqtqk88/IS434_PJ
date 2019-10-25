@@ -1,0 +1,7 @@
+,content
+question,"Bank Account Asked by Ami AtmAsked on 02 Sep 2019How can I remove and relink account at Seedly?I have linked an account with OCBC. However, the recent PDPA change on 1st Sep requires us to change our username. After the change, I'm unable to sync my OCBC account with Seedly Can you advise?1 answerAnswerBump1"
+0,Answers (1)Sort By Most UpvoteMost UpvoteMost Recent
+1,"Kenneth Lou, Co-founder at SeedlyLevel 8. WizardUpdated on 03 Sep 2019Hey Ami!
+As a fix to this issue:
+Under the 'Accounts' tab, click on your Account or Credit Card.Click the 'Settings' button at the top right-hand corner.Select 'Delete' at the bottom to delete your account/credit card.Thereafter, choose to 'Keep Transactions'.Add your OCBC account (with your new credentials) to sync.This will allow you to refresh your connection with the new credentials, however do note that duplicate transactions may arise from this. Thereafter, you have to manually delete/ignore the duplicate transactions. :)Please let us know how it works out or if you've any questions!2 comments2"
+2,AAAmi Atm02 Sep 2019Yes that works out. transaction get duplicated though.Kenneth Lou03 Sep 2019Hey Ami! Yes there will be some which will become duplicated. U will have to manually go to the transaction list and remove each of them!

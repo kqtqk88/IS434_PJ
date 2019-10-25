@@ -1,0 +1,8 @@
+,content
+question,"Multi Currency Cards YouTrip TransferWise Asked by Chen ZhirongAsked 2w agoDoes TransferWise have the same procedure, as compared to YouTrip, when there are insufficient funds?YouTrip automatically deducts from various currencies in a certain order if there are insufficient funds. Does Transferwise do so as well?2 answersAnswerBump1"
+0,Answers (2)Sort By Most UpvoteMost UpvoteMost Recent
+1,"Cedric Jamie Soh, Director at Seniorcare.com.sgTop Contributor (Sep)Level 7. Grand MasterAnswered 6d agoYes, they will wipe out that currency first before going to the next currency where you have fund.I have no idea whats the flow like as I only have 2 different currencies in transferwise.0 comments1"
+2,"Kenneth Lou, Co-founder at SeedlyLevel 8. WizardUpdated 1w agoAs what Piyush had shared during the event meetup the other day, yes indeed they have a similar kind of way that they do processing for currencies with not enough value.Eg You buy something which costs 40 AUDBut in your accounts you only have:20 AUD100 SGDThey will wipe out the AUD first and the balance 20 AUD, they will convert at mid market rate from your SGD.Pretty much something like this :)3 comments1"
+3,"See all 3 comments Kenneth Lou1w agoHaha this im not so sure, will get piyush to reply fully :)Kelly Trinh16h agoIf I recall correctly, after wiping out balances, they would do an auto convert based on the currency lowest fee.
+
+On the TW meetup evening it wasn't mentioned that it wasn't so clear how that is determined (or where it is documented) but thinking through - it must the currency pair that has the lowest % spread off the mid-rate (happy to be corrected by Piyush if this is not correct)."

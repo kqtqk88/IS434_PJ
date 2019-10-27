@@ -1,0 +1,7 @@
+,content
+question,Investments Singapore Saving Bonds (SSB) Asked by AnonymousAsked on 11 May 2019How is the interest rate for Singapore Savings Bond (SSB) determined?I can't seem to get the way they determine the interest rate for Singapore savings bond. What is the ssb rate pegged to? Is there a math behind it?2 answersAnswerBump0
+0,Answers (2)Sort By Most UpvoteMost UpvoteMost Recent
+1,"Tan Wei MingLevel 5. GeniusUpdated on 11 May 2019How are SSB rates calculated?For the purpose of calculating the Step-up Coupon rates for Savings Bonds, the 1, 2, 5 and 10-year benchmark SGS yields are used as reference. These reference yields will be based on the simple average of the respective daily SGS benchmark yields from the month before the public notice of issuance (the “reference SGS yields”), as provided on the “Daily SGS Prices” page of the SGS website . Reference SGS yields for tenors between the benchmark issuances are interpolated using a hermite spline function.0 comments2"
+2,"Ang Yee Gary, Medicine at National University Of SingaporeLevel 4. ProdigyUpdated on 11 May 2019This is based on singapore govt bond price
+Singapore govt bond price is based on demand and supply
+Demand and supply is based on expected inflation and the minimum acceptable rate of return  by investors.0 comments2"

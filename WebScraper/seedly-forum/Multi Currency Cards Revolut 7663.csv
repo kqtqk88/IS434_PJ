@@ -1,0 +1,5 @@
+,content
+question,Multi Currency Cards Revolut Asked by Shantanu BasrurAsked 4w agoHow do single-use/self-destructing virtual card numbers (like the ones on Revolut) work for recurring online transactions like subscriptions?Would there be a special feature to allow for this? Or will it be a backend function?1 answerAnswerBump5
+0,Answers (1)Sort By Most UpvoteMost UpvoteMost Recent
+1,"RLReb LiewLevel 4. ProdigyUpdated 3w agoFor recurring online transactions, there's no need to use a disposable/self-destructing virtual card - since its purpose is to prevent credit card theft/fraud for one-off transactions.Instead, you could just stick to using a virtual card - you're allowed to hold up to five in your wallet per month - and assign a recurring payment to each of them, e.g. Spotify on one card, HDB loans on another.Also, only Premium and Metal members enjoy unlimited virtual cards; Standard members get one free virtual card, and will have to foot another S$9 for each subsequent virtual card.Hope this helps! More this way:https://blog.seedly.sg/singapore-multi-currency-wars/1 comment5"
+2,"SBShantanu Basrur3w agoThanks, this is helpful!"

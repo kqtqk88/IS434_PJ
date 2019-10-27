@@ -1,0 +1,6 @@
+,content
+question,Credit Card Asked by AnonymousAsked on 24 Jun 2019How to track credit card expenses using seedly? How do I know which transaction falls under which category and is seedly accurate in categorising? ?Am aware of the article but feel its not very comprehensive in explaining the steps1 answerAnswerBump1
+0,Answers (1)Sort By Most UpvoteMost UpvoteMost Recent
+1,"Kenneth Lou, Co-founder at SeedlyLevel 8. WizardAnswered on 25 Jul 2019Hi there friend!
+Basically there is the main way you can do this via syncing your bank accounts/card accounts on Seedly for most banks in Singapore (except DBS who recently pulled out)
+To detail the steps here:Sync account (card or bank)Your transactions will automatically be importedCategorisation happens on two sides (on the app and on our database)We try to match the words to common things we find and categories (eg GRAB, BREADTALK etc) I would say right now our categorisation engine is 90% accurate and it gets better overtime with more data in the system as well and we will try to improve the categorisation overtime.0 comments0"

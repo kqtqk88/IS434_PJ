@@ -1,0 +1,6 @@
+,content
+question,Investments Asked by AnonymousAsked on 21 Apr 2019How are investment products such as derivatives priced?2 answersAnswerBump0
+0,Answers (2)Sort By Most UpvoteMost UpvoteMost Recent
+1,"Jonathan Chia Guangrong, Fund Manager at JCG FundLevel 6. MasterAnswered on 22 Apr 2019To further add on to Gary's reply below, if you are interested to find out in depth, you can read up on the Black Scholes model (https://en.m.wikipedia.org/wiki/Black–Scholes_model) to determine how are options priced. That said, I don't use it on a day to day basis when trading options.0 comments0"
+2,"Ang Yee GaryLevel 4. ProdigyAnswered on 22 Apr 2019Derivatives are priced based on the underlying assets.Eg options are priced based on underlying assets and time value.
+Long dated options are worth more than short dated options.0 comments0"

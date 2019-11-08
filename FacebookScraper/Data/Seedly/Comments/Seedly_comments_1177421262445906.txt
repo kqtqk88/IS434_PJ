@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D  http://t.me/personalfinancesg",Aug/31/19 31,1177421902445842,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR22tBOIYu44rNro7FdlQi8YuhX2ctK2srG2XIBAO1x1tOGC2my9VG2SkLo&h=AT0LxsrF2blquaHHgwZ0tTkGG0sWBINK9DCwjVgT6f383duB8rPey0JsREhThyjEzZUe_mCN0sri0PdYQOAUYbDNeemEO7wsqXKpYMn1GYr_5G4b3ztG5-9cyTflDPO-rFSvjqd94wtGY4RZs6k2_SM
+Aaron Cheong,The Woke Salaryman,Sep/1/19 1,1178050069049692,The Woke Salaryman,/wokesalaryman/?refid=52&ref=104&__tn__=R
+Raja Mohammad Mirza,Rushdy Rahmat,Aug/31/19 31,1177462069108492,Rushdy Rahmat,/muhd.rushdy.7?refid=52&ref=104&__tn__=R

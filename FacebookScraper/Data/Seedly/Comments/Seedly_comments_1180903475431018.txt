@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D  http://t.me/personalfinancesg",Sep/5/19 5,1180903825430983,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR0DmSy6ACbIQ3z0cQ3ubZ39Y6BGpy5Y7LRh3znmhZv3Is_zfAWTcVFfv0s&h=AT2Cymogq4tQrZV53K-zKtgu6v7vWyS9hz5Ib8G8ssQkFew4ZAHtB6oC0xsVR9Zagx9Xurcm3g8wItI3_vbi8PqEJY-qu1qGr8Nh_T3Om_jxz1AUcj-LReBhzu1yleFyM8Op0mUcDQ

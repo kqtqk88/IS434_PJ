@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D  http://t.me/personalfinancesg",Aug/27/19 27,1174774732710559,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR27iSNX4qp4nBilAKghpovc5CYQB4yDrhyVeSIPd_-tr4453T0J29n78Yg&h=AT3TZPdxO02lIpP76F9PMgfBZeOX3aR9OFIIBDVpg6gsCAF565fxgOkrZMfzI_T9GAFP9yat3qeZk50k9AJeprHbHjfmn2OebJ6F4Tc-V29iUZ13BQHY356_UiVA9Z5BCGQmNLYGfQ
+Mark Lee,"It’s kind of hard to use overseas spent as a comparison matrix, cause the banks will rip your face off on the foreign exchange, and different banks will rip you off different, best to compare how much miles you get by your local dollar spend.",Aug/28/19 28,1175455489309150,,
+Faith Peixin Chan,Ezri Xueting,Aug/27/19 27,1174784562709576,Ezri Xueting,/ezrixt?refid=52&ref=104&__tn__=R

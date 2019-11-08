@@ -1,0 +1,5 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Sep/23/19 23,1194716074049758,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR3wpUvxuFS3sHPdeeDg3SEgU9pRMmiKnexQh-5dSblhugsr9g_w6OIFmhU&h=AT0FfdfNnEAPx_iwpdx8SRJ1KilM2Fypj1fWURpJ4J-Kq-VfB9kFeAqpX4fWKowyJebYK2JGVNqTzvi-eiuDNUtYZARfomjlntkP-WN15w0nQbeWTux5ZH4Z7cnu15c9L4MK6CvYyQ
+Jeslyn Goh,Jeremy KohJoyce Teo,Sep/23/19 23,1194719400716092,"Jeremy Koh, Joyce Teo","/jeremy.koh.50?refid=52&ref=104&__tn__=R, /joyce.teo.5249?refid=52&ref=104&__tn__=R"
+Kelvin Chin,I would not,Sep/23/19 23,1194665007388198,,
+Huan Lin Oh,Harvard Hui,Sep/23/19 23,1194704157384283,Harvard Hui,/h.h.arvard?refid=52&ref=104&__tn__=R

@@ -1,0 +1,8 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/19/19 19,1215659085288790,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR3nVhlhsTJ6tIFWZh_SzOf2Ho82Bj1n9mUkUtl_nEy_HlcRDSk95dbiXiI&h=AT1Ai3iJkflWIIOF5dNWt1Nts9cZ2iQOVCoysVrZU0MBEuqX0x38SabsGwHhy306d1fGuHz91PWuorqpK7CwG1CMIO6APqQhzX4pjN-leygYofIixfRGejU6A7GkPcwX2zZ6dct5UQ
+Zi Lei Hung,who asks for extra coriander...........,Oct/20/19 20,1216323031889062,,
+Kenneth Chan,But mala is about fatty meats!,Oct/21/19 21,1217802605074438,,
+Thomas Seow,#YDCB with the Coriander Gadney Tan Eileen Po,Oct/19/19 19,1216001445254554,"#YDCB, Gadney Tan, Eileen Po","/hashtag/ydcb?refid=52&ref=104&__tn__=R, /gadney?refid=52&ref=104&__tn__=R, /xy123?refid=52&ref=104&__tn__=R"
+Harry Lws,"6, cook yourself",Oct/21/19 21,1217485988439433,,
+Eileen Eneeli,June Teoh,Oct/20/19 20,1216778588510173,June Teoh,/june.teoh.18?refid=52&ref=104&__tn__=R
+Michelle Goh,Celest Tan,Oct/23/19 23,1219500811571284,Celest Tan,/celest.tan.564?refid=52&ref=104&__tn__=R

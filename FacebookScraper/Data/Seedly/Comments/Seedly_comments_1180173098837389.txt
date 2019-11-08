@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D  http://t.me/personalfinancesg",Sep/4/19 4,1180173205504045,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR35JV8X1j-UpmWDCzHVMAbnhtynBmH5e0jA3q8CSor7ihTZ8umPHLArLfA&h=AT00PVG8r_yLwhZHQCuWjU78kwWBRw7KfUjnCwxnJ1HqLswpN8KzT4NW3a7XQgXtsyLXxM2nbuKmL6ljl8Jdpqqkt_IZKdrTW4o4xBi2pae9IizEjTVuaSOONSs61mhxixIVTv_m6Q
+Jasmin Foo,Vanessa Augier De Moussac,Sep/8/19 8,1183337545187611,Vanessa Augier De Moussac,/vanessa.lockhart.52?refid=52&ref=104&__tn__=R
+Shirlyn Ränd Õm,Sook Wei Mingzhen Tan,Sep/5/19 5,1180763788778320,"Sook Wei, Mingzhen Tan","/ketaminedrug?refid=52&ref=104&__tn__=R, /mingzhen.tan?refid=52&ref=104&__tn__=R"

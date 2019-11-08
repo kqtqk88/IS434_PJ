@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+DollarsandSense,Join us on Telegram ➡️ http://t.me/dollarsandsense,Sep/18/19 18,3082384748498241,http://t.me/dollarsandsense,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fdollarsandsense%3Ffbclid%3DIwAR1bNiKPc7-cB_SWOAoXxL211b1ENpTysN0wZSorYD70iXYV8LKUdVUNDlw&h=AT2IB7ZkyP9ckQCCwIoGEhQ-u4ewb5LVHL8zEV8YfQIGov8FXyfonEQ0nZ8MYEYgUmLZ94MrtQfcx34Z2BjeJBZYAgsG6T_0qiQKck1Yu0BpTcIkZeWv_-RypEClbjRHhgnwpAHtrw

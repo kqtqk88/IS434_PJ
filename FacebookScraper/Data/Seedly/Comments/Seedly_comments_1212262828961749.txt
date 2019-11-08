@@ -1,0 +1,6 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Fang Yu Ooi,Not mobile responsive?,Oct/15/19 15,1212454938942538,,
+Christine Lim,Lim Syiane,Oct/19/19 19,1215990678588964,Lim Syiane,/sheryl.lim.7140?refid=52&ref=104&__tn__=R
+Eleanor Teo,Corissa Chee,Oct/17/19 17,1213989388789093,Corissa Chee,/corissachee?refid=52&ref=104&__tn__=R
+Fifi Nurlailasari,Irsyad Sulaiman,Oct/19/19 19,1215853695269329,Irsyad Sulaiman,/irsyad.sulaiman.1?refid=52&ref=104&__tn__=R
+Juniati Smile,Rave Paul,Oct/16/19 16,1213242032197162,Rave Paul,/rave.paul?refid=52&ref=104&__tn__=R

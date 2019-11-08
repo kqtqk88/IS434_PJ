@@ -1,0 +1,8 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Erwin Tang Yew Hon,Ian Tang your wedding?,Sep/16/19 16,1189417947912904,Ian Tang,/iantangyc?refid=52&ref=104&__tn__=R
+Xinyi Ngew,Unfortunately the costs will balloon when the MIL wants to invite her 80++ friends to the son's wedding.,Sep/16/19 16,1189277804593585,,
+Pei Rong,Lim Han Rong,Sep/16/19 16,1189197817934917,Lim Han Rong,/lim.rong.37?refid=52&ref=104&__tn__=R
+Ng Hubertz,Xin Hui,Sep/16/19 16,1189214027933296,Xin Hui,/xin1987?refid=52&ref=104&__tn__=R
+Benny Tan,Celine Chua Huiping accurate? Heheh.,Sep/16/19 16,1189204224600943,Celine Chua Huiping,/celine.huiping?refid=52&ref=104&__tn__=R
+Eileen Ong,Gary Hau,Sep/16/19 16,1189320964589269,Gary Hau,/garyhjd?refid=52&ref=104&__tn__=R
+Jessica Tan,Wa should have done in bali haha Aly Ern Ern Katherine Caesar Yiu,Sep/16/19 16,1189216374599728,"Aly Ern Ern, Katherine Caesar Yiu","/ernern.chen?refid=52&ref=104&__tn__=R, /yiu.zung?refid=52&ref=104&__tn__=R"

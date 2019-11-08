@@ -1,0 +1,6 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+DollarsandSense,Join us on Telegram ➡️ http://t.me/dollarsandsense,Sep/18/19 18,3083263408410375,http://t.me/dollarsandsense,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fdollarsandsense%3Ffbclid%3DIwAR2Rlr4DBxk-4st0z1845ege5SIvEhR7qotWDZww20GdHlF-CIg8dVsF3Eo&h=AT3mHTrcFRYC51auCIsks0_t3RQPXYxT4GHxNlHMIb2wWoaK8ZjDg-8Sl2gUuASt9_COLtWhq-5MsLo1zG8tasdpP76yBXn7VUrEGqcfg4rUm0Jx4t903FaLuSS7q1TfnmWBgped2g
+Katherine Goy,"I tried to pay my insurance bill using axs grab pay, but have a pop up notice that transaction is unsuccessful. Anyone encountered issues too?",Sep/23/19 23,3098134100256639,,
+Mabel Lim,WeNqi Goh Yvonne Miracle,Sep/21/19 21,3091959787540737,"WeNqi Goh, Yvonne Miracle","/weNqiGoh?refid=52&ref=104&__tn__=R, /yvonne.miracle?refid=52&ref=104&__tn__=R"
+Jun Wen,Janice PhuaIrene FongJessica LaiPeggy Wong Kwai Heong,Sep/18/19 18,3083307025072680,"Janice Phua, Irene Fong, Jessica Lai, Peggy Wong Kwai Heong","/janphuaaa?refid=52&ref=104&__tn__=R, /irene.fong.3133?refid=52&ref=104&__tn__=R, /jessica.lai.9655?refid=52&ref=104&__tn__=R, /peggy.heong?refid=52&ref=104&__tn__=R"
+Jeffrey Pua,"Way to kill a good thing, dumb idiots",Sep/19/19 19,3086520994751283,,

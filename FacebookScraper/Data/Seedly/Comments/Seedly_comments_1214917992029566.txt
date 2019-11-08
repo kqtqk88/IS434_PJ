@@ -1,0 +1,5 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/18/19 18,1214918188696213,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR3zs0YZe0qkn_ZwIXi1RqN-AzjhP7Ob3jKJTOhKm8kKaRU0DzVd33qok8U&h=AT22sZCNZ36aANCBBAhzTaxmIgTlmxDS48DnWP0Hh75m9LlSBGIc04VHpoDw_oLv-aRrKjOGkOVv5dlU3nhkUiIZClqoW0TZgZYhsy-7dZ2pTVzLRx-YpPRhBQbeTpKSb221YSykZQ
+Merri Tan,"Housing grant was not your own money/savings to begin with, so you shouldn't be calculating that as a penalty when you have to return the grant.",Oct/19/19 19,1215564205298278,,
+Manjeet Baig,Sehr Kashif,Oct/19/19 19,1215978991923466,Sehr Kashif,/sehr.baig.1?refid=52&ref=104&__tn__=R
+Eudy Leong,Leong Jin Kai Leong Wan Xuan,Oct/19/19 19,1215279755326723,"Leong Jin Kai, Leong Wan Xuan","/leong.j.kai?refid=52&ref=104&__tn__=R, /leong.w.xuan?refid=52&ref=104&__tn__=R"

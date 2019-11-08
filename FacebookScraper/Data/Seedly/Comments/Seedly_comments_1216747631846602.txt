@@ -1,0 +1,12 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Tradea SG,Any charges to maintain srs acc?,Oct/20/19 20,1217171378470894,,
+Yusheng Liu,"Question, 'to lock in retirement age 62', does it mean i can withdraw srs and cpf at age of 62, or srs only?",Oct/21/19 21,1217613008426731,,
+Mohd Shahid,Withdrawals after retirement age is still subjected to 50% tax. I have doubts over the usefulness of SRS other than the tax savings aspect.,Oct/20/19 20,1216820018506030,,
+Dar Tan,Why  $1  and  do  now...?🤔,Oct/22/19 22,1219092388278793,,
+Dylan Ong,Sally Lim,Oct/22/19 22,1218679788320053,Sally Lim,/sally.lim.10?refid=52&ref=104&__tn__=R
+Hui Wei,Melvin Seah,Oct/24/19 24,1220417424812956,Melvin Seah,/melvinws.seah?refid=52&ref=104&__tn__=R
+Pat Tan,"Still get interest for RSS receive monthly payout, any advice!",Oct/21/19 21,1217741368413895,,
+Sheng Kai Peh,Poh Jia Hui fyi!,Oct/21/19 21,1217513185103380,Poh Jia Hui,/poh.j.hui?refid=52&ref=104&__tn__=R
+Ng Qi Qi,Alex Awesoem,Oct/21/19 21,1217977095056989,Alex Awesoem,/alex.awesoem?refid=52&ref=104&__tn__=R
+Cy Chan,Yang Zhong Lin David,Oct/26/19 26,1222597461261619,Yang Zhong Lin David,/zhonglin.yang1?refid=52&ref=104&__tn__=R
+Chai Lin,Michelle Lim Lena ST Lai,Oct/20/19 20,1217105245144174,"Michelle Lim, Lena ST Lai","/michelle.lim.shumin?refid=52&ref=104&__tn__=R, /lenastlai?refid=52&ref=104&__tn__=R"

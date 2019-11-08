@@ -1,0 +1,5 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Sep/25/19 25,1196007837253915,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR0Rq89TVjKcnWQC6jUg9qI5vr02DkzRYfz56408dBq3V0AK61NknHHywx4&h=AT1k_NXq3KnKgkUhgxlM5idBN8gg0M6LFtlODbFNa8X_-a4PlY5NQ5jHF8NCEytyIbLO8_Uw9ThbyGlxR6xsF3aCcnm2nHqAeV4VwogR8hLCmlbjZw5z5mcSwFPa8SEX7aW6I2Ky-Q
+Yue-Hua Liu,Low Guan Seng fyi,Sep/28/19 28,1198730993648266,Low Guan Seng,/low.g.seng.5?refid=52&ref=104&__tn__=R
+Jeremy Kwok,Terence LamJennifer YapJoel Kwan Yuen LoOng,Sep/25/19 25,1196021413919224,"Terence Lam, Jennifer Yap, Joel Kwan, Yuen LoOng","/terencelamyw?refid=52&ref=104&__tn__=R, /hellohuiyi?refid=52&ref=104&__tn__=R, /joelkjw?refid=52&ref=104&__tn__=R, /yuenloong?refid=52&ref=104&__tn__=R"
+Phaladorn Dorn,Stella Wong,Sep/25/19 25,1196017773919588,Stella Wong,/yanyiwg?refid=52&ref=104&__tn__=R

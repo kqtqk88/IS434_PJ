@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Roy Lay,Ask yourself how much r they going to sell?,Aug/22/19 22,1412926572195278,,

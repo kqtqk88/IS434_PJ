@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Simon Liu,HDB 1 million price achieved nothing.,May/30/19 30,1347098478778088,,

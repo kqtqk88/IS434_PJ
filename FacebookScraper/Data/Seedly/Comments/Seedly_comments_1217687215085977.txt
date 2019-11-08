@@ -1,0 +1,3 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/21/19 21,1217772575077441,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR2DPFu_IG-4IWJP1D-PvuPUQmEdvDXWzDdGTGTUIKaOV5Gpn4YclcWcRiQ&h=AT3pQv6LxqiMeE0aE7NArk_ytN4fvuLRw-EgJSd9KqSaKJAgx_jbeQsY_KE8wlShIkMDysQExv9dqrR5GbXRRkfPp_ISEOUFYEVknFPrzn4AqThBJFF3eLPKkkABJKP_pxzMqxPgHg
+Fabian Ong,I think your graphics are placed on the opposite side?,Oct/22/19 22,1218705334984165,,

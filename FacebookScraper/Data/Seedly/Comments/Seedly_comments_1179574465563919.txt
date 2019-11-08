@@ -1,0 +1,3 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D  http://t.me/personalfinancesg",Sep/3/19 3,1179663098888389,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR1vu5OMYj9q7zx-D9fMDBCfdxKFZVXLua3lDTrfm9_bB2O52LPFiFLtQ60&h=AT2u-c2_yAl3yGIF17r3C_2QyzyVPVg-qO7jRCMgJaeuKLVtmFmWUFwfpVHstk3VN4shC-8m1YpL2nuCSYRbc5n8HCeExLZblCRa74Ha6M6Nogy2_ZgpNNqh8AXt5JpvC2RpSqoFyg
+Sultan Imd,Nadhir Ali Khan,Sep/4/19 4,1179927228861976,Nadhir Ali Khan,/nadhir.hazard?refid=52&ref=104&__tn__=R

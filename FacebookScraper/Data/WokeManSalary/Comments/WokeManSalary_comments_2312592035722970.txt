@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+The Woke Salaryman,"Damn Facebook, can't we do anything without the whole world knowing?!",Jun/9/19 9,2312602692388571,Facebook,/facebook/?refid=52&ref=104&__tn__=R

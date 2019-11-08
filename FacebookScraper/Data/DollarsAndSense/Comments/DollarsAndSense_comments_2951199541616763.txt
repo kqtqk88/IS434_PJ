@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Samantra Ok,"how does HDB determine the buyback value of the flat?   Is it based of the purchase price less any ""used"" lease?",Jul/30/19 30,2951267641609953,,

@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Sep/12/19 12,1185936018261097,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR3jLNkx_XjK6Yn-ohF4M2UAl1ZQtGlLUGxyhFCAgqiRud8IHxJ4SlnALvw&h=AT1Pso7q_I1_iGOtbKcIhFhCQYuALo45Ig5CNx30ieFYxqJjTxyneR7_YHLHyg3SLBuoTvSE6GUyStshq_OiPGi_YGVZRFM9njGMn9dNdJjR4lfjbvaYXoy2r0Ah017c01GegsEpoQ
+Chong Woon Jeck,Who doesn't invest with limited capital?,Sep/12/19 12,1186088314912534,,
+Nik Nik,Is your family rich Is your salary high  How much savings do you have  What's your risk tolerance,Sep/12/19 12,1185957068258992,,

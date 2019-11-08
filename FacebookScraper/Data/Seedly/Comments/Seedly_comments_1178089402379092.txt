@@ -1,0 +1,9 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D  http://t.me/personalfinancesg",Sep/1/19 1,1178134075707958,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR1jsx9rGYpCWc21VenfVi_SnS-L4e1KkE0KSljM6ncvC6xcItIXZgxBTsM&h=AT1JarZxgU9qa_LaCBbY9GZEDGwXqNUGgzso6mu72-haPChDBl-nJ_THgf0WIPKZlPXisxPggTeJ_EgdkWLSOnefDIjr6W3jftrLsKCgmtv_4AJZK8eRgKtIK-t4RD_aRE3VkrukOQ
+Yue-Hua Liu,Sunny Low Low Guan Seng fyi,Sep/1/19 1,1178131892374843,"Sunny Low, Low Guan Seng","/sunny.low.39545?refid=52&ref=104&__tn__=R, /low.g.seng.5?refid=52&ref=104&__tn__=R"
+Jake Chen Yixian,Malaysia boleh 😅,Sep/1/19 1,1178183379036361,,
+Estelle Tan,Jonathan Goh,Sep/5/19 5,1180799538774745,Jonathan Goh,/jitendstonight?refid=52&ref=104&__tn__=R
+Rain Hu,Zhi Wei,Sep/5/19 5,1180878005433565,Zhi Wei,/zzhiweii?refid=52&ref=104&__tn__=R
+Tan Wen Bin Wilson,Aloysius Liow Rico Wan,Sep/6/19 6,1182018858652813,"Aloysius Liow, Rico Wan","/aloysiusliow?refid=52&ref=104&__tn__=R, /rico.wan.5?refid=52&ref=104&__tn__=R"
+E-na Lizhen,Alvin Neo,Sep/6/19 6,1181925575328808,Alvin Neo,/alvin.neo?refid=52&ref=104&__tn__=R
+YueKeat Dennis,Melvin Kim,Sep/8/19 8,1183473765173989,Melvin Kim,/melvin.kim.1?refid=52&ref=104&__tn__=R

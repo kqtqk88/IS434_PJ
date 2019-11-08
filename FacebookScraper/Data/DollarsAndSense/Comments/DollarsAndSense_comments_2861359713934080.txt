@@ -1,0 +1,14 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Bang Hong,Trying not to tag anyone Lolol,Jun/26/19 26,2861451640591554,,
+Johnny Chiam,this is how to get access to other countries by marrying,Jun/26/19 26,2861645090572209,,
+Tay Xing Han,Swk Robin for you sia,Jun/26/19 26,2861658653904186,Swk Robin,/swk.robin?refid=52&ref=104&__tn__=R
+Surya Varman,Darshan Drum article for you.,Jun/26/19 26,2861507407252644,Darshan Drum,/dinesh.balakrishnan.37?refid=52&ref=104&__tn__=R
+Vaishu Kutty,Neshy Athi,Jun/26/19 26,2861514850585233,Neshy Athi,/nesh.smilezz?refid=52&ref=104&__tn__=R
+Tricia Ng,Cindy Cai talking to u,Jun/26/19 26,2861432193926832,Cindy Cai,/cindy.cai.9406?refid=52&ref=104&__tn__=R
+Navin Jude,Thanesh Kumar Thiruchilvam,Jun/26/19 26,2861670993902952,Thanesh Kumar Thiruchilvam,/thaneshkumar?refid=52&ref=104&__tn__=R
+Azmil Tan,Darren Toh,Jun/26/19 26,2861553240581394,Darren Toh,/lallentoad?refid=52&ref=104&__tn__=R
+Robbie Tan,Kennick Kek,Jun/26/19 26,2861401780596540,Kennick Kek,/kennickk?refid=52&ref=104&__tn__=R
+Marcus Wong,Jonathan Tan,Jun/27/19 27,2863882320348486,Jonathan Tan,/jonnytanyuhao?refid=52&ref=104&__tn__=R
+Cliff Chen Jun Ling,Amos Bob Tan Kun Da,Jun/26/19 26,2861557467247638,"Amos Bob Tan, Kun Da","/amos.l.tan?refid=52&ref=104&__tn__=R, /KunDa92?refid=52&ref=104&__tn__=R"
+Nicholas Kong,Daniel Chong,Jun/26/19 26,2861873707216014,Daniel Chong,/daniel.chong.5891?refid=52&ref=104&__tn__=R
+Zi Ran Xie,Cindy Chrysta 😉,Jun/27/19 27,2865325083537543,Cindy Chrysta,/cindychrysta?refid=52&ref=104&__tn__=R

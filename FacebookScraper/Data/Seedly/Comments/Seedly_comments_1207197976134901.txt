@@ -1,0 +1,5 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/9/19 9,1207204032800962,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR0hHAlVvz6y5fWdhXMTWcRwFu87Ws9GjA9ElIUbGKZPnWYCiM8Kd_270uw&h=AT0umJEbIzUKhZqaEUT7vE7t7x7SDNPuFGlrOw8I37_ADncApmh0ZhXlHNitoFHeePqht_ylwD1Sx65TDqD7SDZ0ScMVZ7V1NtuoSyyihXow9EJyIXyyeUp8wRVfBDu2CQE9mYtxBw
+Adam Goh,"Main reason is so many schools closing and merging. Sad. The good news is, most teachers won't be retrenched as the natural turnover is quite high.",Oct/9/19 9,1207207999467232,,
+Janet Seah,Jamie Idunlikeu,Oct/12/19 12,1209291099258922,Jamie Idunlikeu,/jamieidunlikeu?refid=52&ref=104&__tn__=R
+Louis Pombibi,Hangs in the balance I suppose?,Oct/9/19 9,1207214432799922,,

@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/4/19 4,1203038766550822,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR0ET0S0XX6hECgB_Ayo64NvjDX354G-JzvYZto1jekYVVoIoNJ-HtrneoA&h=AT0cSBE0vuTbhG_Yw9vgLcatpJhMyUg5c_OxDGEBQN9rHfd17rubHe6tzGpj0bZMmvzgh47EGK8uMepXDeVJiHzM18Jv6XsroRH3DG4tl6l1IT9NJW1V6i6y4fINuwEr2BsTbThh9A
+Echo Chen,"I'm sure ""Steve"" has used it.",Oct/4/19 4,1202992079888824,,
+Don Wong,Etoro FX and crypto spread is bad. Customer service is slow.   The feature for copy trader is useful only if looking to learn a new market.,Oct/6/19 6,1204555139732518,,

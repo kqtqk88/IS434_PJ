@@ -1,0 +1,7 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Sep/25/19 25,1196223863898979,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR1hOJIG6gYTQH8wpCkHcXeWh9ZckqCc3YqLTBzbOrtYRKvmgk9CIAqrjSk&h=AT0zb7NgS8dOfcS6t8lh3VDRX191tO2qo4EC_U3wiMmPa5EHFI4_rz9ccO9vgas9a06l3iiS6O6vsisk2cCJgJfs-rLxjaqog0qwle6YmXD1Mjjcgmv4VqqpSv5YPaibkfwSy1jfoA
+Audrey Lee,what's the expected revenue?,Sep/25/19 25,1196229517231747,,
+Lenney Leong,Brett Le Ming,Sep/25/19 25,1196262580561774,Brett Le Ming,/brett.leming?refid=52&ref=104&__tn__=R
+Natalie Lee,Jimmy Quek,Sep/26/19 26,1196816957173003,Jimmy Quek,/jimmy.quek.7?refid=52&ref=104&__tn__=R
+Dacia Kee,Michelle Min be your own boss,Sep/25/19 25,1196223890565643,Michelle Min,/michelle.minnn?refid=52&ref=104&__tn__=R
+Ann Gee,Anthea Chow we need this but for London. HAHA,Sep/25/19 25,1196233320564700,Anthea Chow,/antssy?refid=52&ref=104&__tn__=R

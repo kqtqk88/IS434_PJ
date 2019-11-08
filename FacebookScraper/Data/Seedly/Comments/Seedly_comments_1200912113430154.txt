@@ -1,0 +1,3 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/1/19 1,1200946223426743,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR1f6mIlZmvPineqK9_fOzw9k6GIXJRmiUc1e0Pz5PmEMS_dnDLWZbWYBR8&h=AT2IYxf8pWKbY3cZEDoJ9N3MTLZKBW7gsV0i5f9AgfKwQ8-o8wLkLrdALzn2TY_n5FI-A_kInVr1pSdY1Kkd2Gt37muVy-T72zfUrz-n5dst_gWuDYzdorcwZZR55SDWeD-CPNpwsg
+Kenneth Chan,Look like SSB have a flattening yield curve too. 😂,Oct/1/19 1,1200932516761447,,

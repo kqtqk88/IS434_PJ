@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Sep/17/19 17,1189840607870638,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR2yTOdU7VE6_eVwtuKSt9WEL__c5qm_0kazlOFMMU541BD3U7JkD7QBvE4&h=AT3XVQAIHLsWHFO7ZJWKbe15TYF_46oLSpI3k8QscwBOZj7mYiMia8je_Pv6UO2ysIhRKxfJ3PdZOv984cGGvoKEFoncg6w0ka3f4VXCtr98gRwXsvgWKuSGsllmx7pNYpY9fDTKoQ
+Kenneth Chan,Because PRO and MAX marketing works. 😂,Sep/18/19 18,1190556237799075,,
+Vance Kang,Cause u use your phone more than anything else?,Sep/17/19 17,1190123824508983,,

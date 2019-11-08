@@ -1,0 +1,5 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/21/19 21,1218010441720321,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR0Fred8_y7CHm4efgJ80plRjROUzHHJU2tA7J0kHe8zuXLqwdjPWFS97Gg&h=AT0C7HqpnI5tkTqJ26Er9lyTISVhmKjsL_sJqP-muhEtFyjW0PMLeCIKTasr32TFzZoP2sH7DS41q8BQrvu3aQooccjM9_ALyjnbvde33_wWxRks8vCABAiARMLiGVUvJVFyWlGZfg
+Clement Tan,"Kenneth Lou $10,000 is not enough to invest into corporate bonds. If you are referring to retail bonds. The common tenure is 5 - 10 years (SIA or Astrea IV/V). If you are referring to SG govt bonds,yield is less than 3%.  Cheers",Oct/23/19 23,1219705451550820,Kenneth Lou,/everken?refid=52&ref=104&__tn__=R
+Sum Qian Yu,Toni Cuhadi,Oct/22/19 22,1218199645034734,Toni Cuhadi,/toni.cuhadi?refid=52&ref=104&__tn__=R
+Daryl Koh,Isabelle Tan,Oct/21/19 21,1218063965048302,Isabelle Tan,/isabelle.tan.3344?refid=52&ref=104&__tn__=R

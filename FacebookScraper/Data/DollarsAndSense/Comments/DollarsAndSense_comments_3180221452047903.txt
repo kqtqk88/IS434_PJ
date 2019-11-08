@@ -1,0 +1,16 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Al Faried Yusri,oooo,26/minutes/19 ago,3231927386877309,,
+Fang Jun Wen,Paul Urgh,Oct/21/19 21,3180628172007231,Paul Urgh,/paul.myburgh?refid=52&ref=104&__tn__=R
+Candice Tay,May Tay,Oct/22/19 22,3183668245036557,May Tay,/may.tay.739?refid=52&ref=104&__tn__=R
+Muhd Azhar,Nurul Anna,Oct/22/19 22,3182272808509434,Nurul Anna,/nurul.raihana.186?refid=52&ref=104&__tn__=R
+Samantha Tan,Joey Ho,Oct/21/19 21,3180321068704608,Joey Ho,/joeyhohoho?refid=52&ref=104&__tn__=R
+Sharon Raj,Carol Chew,Oct/22/19 22,3181277131942335,Carol Chew,/carol.chew.984?refid=52&ref=104&__tn__=R
+Anthony Tan,Robin Tan,Oct/22/19 22,3182174501852598,Robin Tan,/profile.php?id=100006862093012&refid=52&ref=104&__tn__=R
+Kayden Kai,Nadiah Ahmad,Oct/22/19 22,3182024885200893,Nadiah Ahmad,/nadiah.ahmad.fittri?refid=52&ref=104&__tn__=R
+Nisha Chewzy,Aishah Sitiqah,Oct/29/19 29,3204902446246470,Aishah Sitiqah,/Sitiqahh?refid=52&ref=104&__tn__=R
+Yixiu April,Wei Ping,Oct/21/19 21,3180798448656870,Wei Ping,/chiasamuel?refid=52&ref=104&__tn__=R
+Christine Demelza,Ashley Lee consideration,Oct/21/19 21,3180970668639648,Ashley Lee,/ashley.l.choo?refid=52&ref=104&__tn__=R
+Jasmine Chee Shi Min,Susan Tan buy for happy,Oct/21/19 21,3180581135345268,Susan Tan,/profile.php?id=100023882114496&refid=52&ref=104&__tn__=R
+Bridget Yeng,Chandhini Pandey,Oct/23/19 23,3185550324848349,Chandhini Pandey,/chandhini.pandey?refid=52&ref=104&__tn__=R
+Jaclyn Png,Rebacca Becky Lau,7/hours/19 ago,3231012613635453,Rebacca Becky Lau,/RebaccaBecky?refid=52&ref=104&__tn__=R
+Santos Emm,Richard Leo Borromeo Ramos Mar San,Oct/27/19 27,3198776676859047,"Richard Leo Borromeo Ramos, Mar San","/richie.ramos?refid=52&ref=104&__tn__=R, /margot.delossantos.754?refid=52&ref=104&__tn__=R"

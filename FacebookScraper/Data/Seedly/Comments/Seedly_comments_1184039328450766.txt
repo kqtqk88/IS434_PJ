@@ -1,0 +1,5 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Sep/11/19 11,1185247608329938,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR2TWLa23r3v394aGqdwgz4ctbdsDMiYfoLGfk02_YN6F7qZG0VpPds1Nz8&h=AT00bVncKVV3N0aoaz6kheOB8eCyonnIF8CY_KQJN9OSyQLQ1mBQfq7KuMqxOIzJ2ZFvI5-fuMZrKTpkxIWSM5g0wsuo-Rj4gdjDWYHTDtxxvBAev1NiF0ewNE65MXWfkcDqyIlzSw
+Ding Neng,Focus on increasing income. The rest will fall into place.,Sep/16/19 16,1189372631250769,,
+Chloe Goh,Ché Goh,Sep/13/19 13,1186836464837719,Ché Goh,/profile.php?id=100006373532650&refid=52&ref=104&__tn__=R
+Chloe Goh,Christian Angelo Candelario,Sep/13/19 13,1186836488171050,Christian Angelo Candelario,/christian.a.candelario?refid=52&ref=104&__tn__=R

@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D  http://t.me/personalfinancesg",Aug/4/19 4,1159437124244320,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR3c4b4EGHnVkt3wEnlmclEhRClFPfZRFvfDfoM0R9rI4saPA8P-h0x3Ygk&h=AT30nig6snFJMcNgReLbGJ9-0AChiZXktzkeHT8e-eZa-STuyzyz0Vv-HV8EB7QnxwXn7q9m3-kjRGuJbdeuCtEysnjqgai-exE4TJcOwLPU0bmEc0OEzOf6HiYXaLXhpWIvXoBFEw
+Adeline Tan,Mavis Cherr Hui Yi Cherr i need to buy bike.. for exercise :p,Aug/5/19 5,1159827134205319,"Mavis Cherr, Hui Yi Cherr","/mavis.cherr?refid=52&ref=104&__tn__=R, /cherrhuiyi?refid=52&ref=104&__tn__=R"
+Chan Wei Jun,Gwendolyn Poppysmic,Aug/4/19 4,1159553724232660,Gwendolyn Poppysmic,/s.gwendolyn?refid=52&ref=104&__tn__=R

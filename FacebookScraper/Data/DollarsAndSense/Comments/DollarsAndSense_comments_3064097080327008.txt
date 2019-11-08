@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Chris Kuan,Don't confuse risk with volatility the article say and yet the measure for risk in the same article uses risk adjusted returns which is based on volatility. 😂,Sep/11/19 11,3064106730326043,,

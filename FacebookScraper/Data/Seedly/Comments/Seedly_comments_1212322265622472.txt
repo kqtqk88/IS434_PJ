@@ -1,0 +1,6 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/15/19 15,1212322382289127,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR3BLdRt_FQiCtK6wdw4DNWqOF99ht4dpXTzRINa6AvMa2zIa-ifKTAyoX4&h=AT0c70OzXolYD5nyDVnlxe4izOpC_y7VYrR5G2bT87h6vgNWAeMN2-NA5lwpWmhneoRnUa5D-1CSi6QOrjqG4FlXIJdA0GZ-NfzXf9-KFh-lAC1-WXigEFg0Ip2Q2Pyf28tdeWtGmw
+Arifin Wu,Ow... so good that it is just the basic cpf oa returns.....,Oct/16/19 16,1213216778866354,,
+Chee Keong Ong,Is the 2.5% interest guaranteed?,Oct/16/19 16,1212788705575828,,
+Han Ng,Edmund Chan short term,Oct/15/19 15,1212353662285999,Edmund Chan,/edmundcwm?refid=52&ref=104&__tn__=R
+Clarissa Lee,Jeremy Foster Chan,Oct/16/19 16,1213151195539579,Jeremy Foster Chan,/jeremy.f.chan?refid=52&ref=104&__tn__=R

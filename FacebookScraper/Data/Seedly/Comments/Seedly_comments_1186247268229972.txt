@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Sep/17/19 17,1189758614545504,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR10_wQzru5u2sFlDjfD9MRDVcx6OUnLsDDrfxrsYSjtIgfJriNuLL5fen4&h=AT3exw4XzKCUz602Xz0o9IYAgrcA4RbeFwEuCd-5-OJeueN5G-DDa7S7eyoBmDoE-lUAujz1QASdTm4v9tiKNjgpug5peiwsu9E_UjA8O1Q_Kn1LvVknUJ0qg24w0V7XC5SF0Jl9nQ
+Sam Lowell,"When you have to question affordability, it simply means you need to be realistic and get a HDB!",Sep/17/19 17,1189894074531958,,
+Adrian Yeo,where to find a 700k condo in the central core region?,Sep/18/19 18,1190522091135823,,

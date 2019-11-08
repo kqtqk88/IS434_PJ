@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D  http://t.me/personalfinancesg",Aug/28/19 28,1175568909297808,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR1At9g50IMN6waqNzIoStAFRQmBaDVEQFIAOalTpt8lE_mFBHxoyojcYrE&h=AT16GTB4W33c_aA1r6VlgSNiWxRTV5RSmYJ8eUsuw0iM0HjN6BrmRqk0e-LYS-clyAfwq6y7Ec4MkOU2l6UR1qtZ0dZ-D7KSdNdOouGsF0vcASeXS4-b5pBnKhK3kW07NtBH1ZC6Sg
+Vance Kang,ignore bus lane timings get 3 montsh jail term... this is just ridiculous,Aug/29/19 29,1176082655913100,,
+Wong Koon Meng,Fake news,Aug/29/19 29,1176090399245659,,

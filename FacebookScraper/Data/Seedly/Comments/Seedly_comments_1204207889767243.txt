@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/6/19 6,1204605283060837,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR0ZAQTBTHqQSg3r20tlWL2Izi-mWYtbXnmmkcoHworiH5HdCgzXDqtomLU&h=AT39c_OL8su7Sq967K9tXWhbqq8btHC2jLbiwForeF5vXz3XPpZQ8Q1a4Ml4PRELE2n-MoQRddW0xIDK23YO58GA1et4Bof_eh-orksxwNjr5tav0wf4v5vjGzqdKXcYnlORY3veFA
+Leon Heng,Should be mon to wed for the standard chartered promotion and up to 30 oct?,Oct/7/19 7,1205655752955790,,
+Sandar Aung,Chynna Ang,Oct/6/19 6,1204685073052858,Chynna Ang,/chynna.ang?refid=52&ref=104&__tn__=R

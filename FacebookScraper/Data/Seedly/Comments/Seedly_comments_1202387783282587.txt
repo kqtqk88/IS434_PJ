@@ -1,0 +1,5 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/3/19 3,1202388089949223,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR0s9oWRxFEwMbRob2DjxVDLaWZ1HJ0pYRwlxbcUxDhPHcuYlh3s6dODbO0&h=AT0LoMn49O5UYZTW079uUijmCjciWyHyJv5zNdVclxiXfiNEFjuLtH4qO7AuTwWPIMAprxCPhOpEZkXJb3TliWKfljjC3cjpI-qL8oVvsmQjpxvbpmsgV4nPMyeNd_2JwUNG1Tp5kw
+Alex Sim,"Weiqi Lee According to this, ISDA / Derivatives legal counsel earn lesser than AM legal counsel lehz!",Oct/9/19 9,1207400432781322,Weiqi Lee,/weiqi.lee?refid=52&ref=104&__tn__=R
+Stacy Chng,Kimberley Kan,Oct/9/19 9,1207211159466916,Kimberley Kan,/kimberleykxh?refid=52&ref=104&__tn__=R
+Roy Ng,Chua Wei Sheng Andy,Oct/3/19 3,1202415519946480,Chua Wei Sheng Andy,/chua.andy?refid=52&ref=104&__tn__=R

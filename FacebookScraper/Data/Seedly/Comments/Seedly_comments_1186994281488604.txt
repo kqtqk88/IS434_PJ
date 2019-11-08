@@ -1,0 +1,3 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Sep/16/19 16,1189058687948830,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR3-Xy8HOvi-3e_alsg_v2r7coY7j0D7aPy6TT30ACam83w8_GLWG4gCCXo&h=AT3D9vcEF7BUsZ5yewHUR_Dhnk_oAxpfEn4AOI9oPd0EuqAyXjgnW7W_4pd1UN2-sPLmcnMp4-XLjOcGPu_lCasY9JOVZKbSkCSC8_0oNMp1emLI8Xm51L0v4GCM4vu1Lw9PY7zpsQ
+Tan Gerald,"Put money in CPF easy , but cannot take out !",Sep/20/19 20,1192206194300746,,

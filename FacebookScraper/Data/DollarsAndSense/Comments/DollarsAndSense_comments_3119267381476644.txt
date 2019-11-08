@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+DollarsandSense,Join us on Telegram ➡️ http://t.me/dollarsandsense,Oct/3/19 3,3125188820884500,http://t.me/dollarsandsense,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fdollarsandsense%3Ffbclid%3DIwAR38c5E8oVqVXz5uV28RAPImtIRBkdWnM_teIoXtAbCo8QhnxHA_CoBBndU&h=AT14k74eNF_kBIZ5uih-GOpJV22l7QvnC-woL5luCcit1r4HTOoaiUtzQtAAwwNIjNe0K1lLNdbKUlb7zEsvKGpIb81Yb67t4e68FWE-WxSzkthMsHPNZuM1cU_JX7IBorHHbJq5YQ
+Shawn Chang,Isn’t this like longing/shorting CFD with a stop loss in place?,Oct/2/19 2,3123113781092004,,
+Julian Lim,So they are something like binary options but long term?,Oct/5/19 5,3131470770256305,,

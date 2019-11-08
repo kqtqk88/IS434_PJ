@@ -1,0 +1,8 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/4/19 4,1203164969871535,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR2eP4bxpQjIH38Kucyd_jpFF1oSJ_yanM2_Eg5UYWBeE-Y5P1tS2eeSK0Y&h=AT0lujIepr6pg7mEgXkvWlXOADs0jqaMV9xo1fUAdFTpACmgb_pcuva-W2gLGrwfHlih62Q_TXe7cr31uujKXF3HMDsaYtcQAk_zLKl-ANPOK2cATIJI_Z7zmOxxQw0kuyAUXSo6rQ
+Fadhillah Md Faizan,Marhamah Yusof,Oct/5/19 5,1204143156440383,Marhamah Yusof,/marhamah.yusof.5?refid=52&ref=104&__tn__=R
+Charmaine Lim Xiaomei,Oh man! Didn't know we can do PAP smears for free!,Oct/4/19 4,1203304049857627,,
+Venus Vynus,Angela Jovial,Oct/5/19 5,1204108113110554,Angela Jovial,/jo.wen.ial?refid=52&ref=104&__tn__=R
+Joseph Seah Zhongda,Huiru Chng,Oct/4/19 4,1203249716529727,Huiru Chng,/CHNGHUIRU?refid=52&ref=104&__tn__=R
+Alice Tay,Pang Siew Mee Mary,Oct/4/19 4,1203171439870888,Pang Siew Mee Mary,/profile.php?id=100005330148746&refid=52&ref=104&__tn__=R
+Celatia See,Jenniser See,Oct/4/19 4,1203236893197676,Jenniser See,/jenniser?refid=52&ref=104&__tn__=R

@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D  http://t.me/personalfinancesg",Aug/22/19 22,1171156593072373,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR3FL4N-hWwvmu41-S6iIVpzILBue_nzKpEVsfxW1qk7VQvMe8VrV-VmKYA&h=AT21dQ2bkibcr-ErLU53CQHWrfT-gHN5rg95VfXQ8Yb5zOZtMsBep5g2U02ZVCt4fWuHYB2n7Hr27109XCl2or_tlF2ksEL70RM3osHYvfTZOL3q3U2hGNfsIs2-nJe7NFzmWqEyKg
+Sultan Imd,Clancy Ng tips,Aug/23/19 23,1171906612997371,Clancy Ng,/ClancyNg?refid=52&ref=104&__tn__=R
+Ada Chan,Jerry JL 😂,Aug/22/19 22,1171158083072224,Jerry JL,/jerryjieliaw?refid=52&ref=104&__tn__=R

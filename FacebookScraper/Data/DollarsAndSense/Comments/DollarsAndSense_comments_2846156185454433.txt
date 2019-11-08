@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+DollarsandSense,Access exclusive first-hand updates and insights on Telegram 👉 http://t.me/dollarsandsense,Jun/22/19 22,2851355208267864,http://t.me/dollarsandsense,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fdollarsandsense%3Ffbclid%3DIwAR0TMZMl3cSLGSBIOqS8Dt5jKytkFF3SpiurOF7JGH2NXGh5qkgQbxlODgc&h=AT0CgQLn7wg540E2xue2udrupCBiGLBErCNOsfR_v8LZuZeGf5SRNKq_YMec1BZgVlS7f0L2I2fKHCpJAf6eRYtDTmWqEsp_ektukgBnmOF7LvyNcxRZTL8ObHwgHsiUPerVM9pkeg

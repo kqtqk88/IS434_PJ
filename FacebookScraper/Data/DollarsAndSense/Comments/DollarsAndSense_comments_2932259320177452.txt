@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Yuen H Liu,I love Indomie Mee Goreng flavour. Their competitors in Indonesia and Singapore copy the ingredients and packaging.,Jul/23/19 23,2932275490175835,,

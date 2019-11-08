@@ -1,0 +1,16 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Hariz Arthur Maloy,Missing the Traditional Financial Advisor. We set up RSP into Unit Trusts as well. :),Jul/15/19 15,2911271142276270,,
+Ka Vin,"ROI of these are lost, and are losing to Bitcoin",Jul/15/19 15,2911215692281815,,
+Surya Varman,Darshan Drum something you can look into.,Jul/15/19 15,2911147892288595,Darshan Drum,/dinesh.balakrishnan.37?refid=52&ref=104&__tn__=R
+Teo Jesline,Mohamed Fareez can consider!,Jul/15/19 15,2911209538949097,Mohamed Fareez,/Xfatcat?refid=52&ref=104&__tn__=R
+Gurpreet Singh,Sri Wahyuni,Jul/15/19 15,2911227182280666,Sri Wahyuni,/sri.wahyuni.982?refid=52&ref=104&__tn__=R
+De Wei,Darren Kwok,Jul/15/19 15,2911474388922612,Darren Kwok,/DarrenVuittonn?refid=52&ref=104&__tn__=R
+Chloe Yi En,Lam Jing Jie,Jul/17/19 17,2916299705106747,Lam Jing Jie,/JINGJIEEE?refid=52&ref=104&__tn__=R
+Rave Leong,Thinn Thiri,Jul/18/19 18,2918749418195109,Thinn Thiri,/Clairethinn2?refid=52&ref=104&__tn__=R
+Val Novel,Jake Kok,Jul/15/19 15,2911177998952251,Jake Kok,/jakekokjunwei?refid=52&ref=104&__tn__=R
+Eunice Yun,Vincent Yeo,Jul/15/19 15,2911850375551680,Vincent Yeo,/boringnier?refid=52&ref=104&__tn__=R
+Jx'Jaze Wan,Txj Tffani,Jul/16/19 16,2914051278664923,Txj Tffani,/TiffXJ?refid=52&ref=104&__tn__=R
+Yingyun Tan,Joey Tian,Jul/16/19 16,2912194848850566,Joey Tian,/joey.tian.37?refid=52&ref=104&__tn__=R
+Christine Demelza,Philip Lee,Jul/16/19 16,2912236915513026,Philip Lee,/philip.lee.58?refid=52&ref=104&__tn__=R
+Mohd. Ishak,Fikah Sweetb,Jul/15/19 15,2911843965552321,Fikah Sweetb,/profile.php?id=664310957&refid=52&ref=104&__tn__=R
+Celine Tan,Jovi Poh,Jul/15/19 15,2911792615557456,Jovi Poh,/Jovipoh?refid=52&ref=104&__tn__=R

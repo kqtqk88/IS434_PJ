@@ -1,0 +1,5 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D  http://t.me/personalfinancesg",Aug/25/19 25,1173350959519603,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR1Z8oiUVC0MNgRvQ1VOYK6HsyG5VjUuCGwSWrXS96TYo2Hgbq7kAAbSfEw&h=AT04VIJMX11PVFu48_QDlnlxy3bp4zuClkfBmQcVFVhVo6bYjzM3DLA-8_DIR5b1sksVsq_tdoZIOeq3k5UVt6oFGpYarXrFFdavan4mUU8IZpjPdLILyIZkbxr4wJzFLsnlka2JJA
+Grace Tan,This is great and so true. Especially the space filler part.,Aug/25/19 25,1173398362848196,,
+Pei Rong,Lim Han Rong,Aug/26/19 26,1174063932781639,Lim Han Rong,/lim.rong.37?refid=52&ref=104&__tn__=R
+Patrick Chia,Adeline Koh,Aug/25/19 25,1173366759518023,Adeline Koh,/koh.h.adeline?refid=52&ref=104&__tn__=R

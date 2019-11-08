@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Sk Tan,"It is not advisable to change from standard to basic especially if u had joined for a number of years, because your future payouts will reduce as you lose the interest paid on the premiums in the CPF Life Pool.",Aug/3/19 3,2961510437252340,,

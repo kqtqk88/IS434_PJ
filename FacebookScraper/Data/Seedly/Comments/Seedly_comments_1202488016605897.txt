@@ -1,0 +1,5 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Oct/3/19 3,1202496009938431,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR3ebQ0L5xyInodnkeMkH_0kkFQHw07bsjAViRnb-MLCqKtJ94JJuA_EZNU&h=AT3-OW28fWV541tUG5EO2nwR8GHAIVRI1pD2dAAUtlz-Z-3Fzi4YI3pmxQR7VYgoOFb--9jbAONfYBkpVWSg2-aLoF03lxG_W0XhwicfmZM4qXeCk64f5OS5h_RhqRWIi_MA09Wcqw
+CJ Dayrit,revolut has better security functions and more features. Tried them both in korea and italy and their rates are quite close,Oct/4/19 4,1203151159872916,,
+Sa Sa,Evon Gan,Oct/21/19 21,1217181191803246,Evon Gan,/ganevon?refid=52&ref=104&__tn__=R
+Pamela Chua,Kayden ChiaJunwen BinNi Low,Oct/9/19 9,1207300019458030,"Kayden ChiaJunwen, BinNi Low","/chia.junwen?refid=52&ref=104&__tn__=R, /lowbinni?refid=52&ref=104&__tn__=R"

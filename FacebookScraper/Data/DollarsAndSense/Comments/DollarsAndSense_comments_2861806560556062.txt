@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Julia Chan,I transferred to a new card then cancelled the old card,Jun/28/19 28,2865373376866047,,

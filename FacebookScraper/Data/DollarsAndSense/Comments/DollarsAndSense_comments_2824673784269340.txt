@@ -1,0 +1,3 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+DollarsandSense,Access exclusive first-hand updates and insights on Telegram 👉 http://t.me/dollarsandsense,Jun/12/19 12,2825100434226675,http://t.me/dollarsandsense,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fdollarsandsense%3Ffbclid%3DIwAR1054FX8zK4qage7ODEy48uF8Q0CKpNPAzhmWDsdI6LUYu6HiwGVHO2xlw&h=AT1rbXinop-M1nDGLrsWGDfexLat1Z7-te3qfeh5V3IKtbad5xwh6qkBwf6jtuiflGhuFLa935OsTS0Mi15tqOsX-BkRcdfOMlCgt1FdWjiVaj98LYDgGgkDYro1gPSL1UBS4sE9lg
+Chau Lien,Want to ask. How to sell away the bond? Because it is a 5+5 years bond. any broker platform can sell?,Jun/14/19 14,2829201253816593,,

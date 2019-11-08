@@ -1,0 +1,51 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+DollarsandSense,Access exclusive updates & insights on Telegram ➡️ http://t.me/dollarsandsense,Jul/11/19 11,2900242913379093,http://t.me/dollarsandsense,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fdollarsandsense%3Ffbclid%3DIwAR0zQjilQAK7QjlIQTWbWsJckSlpH3F7-lQV9ffY8TVSvhMePxFkXaBOuw0&h=AT3x66gJ7RxHU0AV8ttNJtiJtuUiBke6fGtu3OjcrCvaYPqQslz2jl76069yBv7GhuHdQ5GPEIrFVHgWDD1MEHTo6lplph8ktJOUqkVfdpGXZfU5o-KGM1X5_i6kvXprjGub6T4PNw
+Henry Mega Tanaka,"Question: What happened if only one party salary is credited into the joint account, will that still qualify for the interest tier bracket?",Jul/11/19 11,2900345260035525,,
+Zach Leong,"Think there is min requirement balance about average 3k , if not there will be bank charges",Jul/11/19 11,2900670403336344,,
+Mingli Lin,Leon Lin Mingliang are you maxing it right? Haha,Jul/11/19 11,2900246500045401,Leon Lin Mingliang,/mingliang.mutu?refid=52&ref=104&__tn__=R
+Timothy Joachim,You Ernest Lim,Jul/11/19 11,2900788006657917,Ernest Lim,/ernest.lim.355?refid=52&ref=104&__tn__=R
+Steven Toh,Gillian Toh applicable in our situation?,Jul/11/19 11,2900552570014794,Gillian Toh,/gillian.toh.7?refid=52&ref=104&__tn__=R
+Sheena Tan,Ryan Phoa,Jul/11/19 11,2900350956701622,Ryan Phoa,/ryan.phoa.3?refid=52&ref=104&__tn__=R
+Vosh Ong,Caysen Khor can consider leh,Jul/11/19 11,2900392456697472,Caysen Khor,/profile.php?id=100010526252856&refid=52&ref=104&__tn__=R
+Kenny Khoo,Adam Chong Crystal Chong Yin Mei,Jul/11/19 11,2900461590023892,"Adam Chong, Crystal Chong Yin Mei","/adamchong88?refid=52&ref=104&__tn__=R, /crystal.c.mei.9?refid=52&ref=104&__tn__=R"
+David Fong,Ryan Noo,Jul/11/19 11,2900385136698204,Ryan Noo,/ryan.noo.7?refid=52&ref=104&__tn__=R
+Kkel Viin,Madeline Goh,Jul/11/19 11,2900375986699119,Madeline Goh,/madeline1706?refid=52&ref=104&__tn__=R
+Theebhan Raja,Sai Prashanthnee,Jul/11/19 11,2901099343293450,Sai Prashanthnee,/prashanthnee.sweetie?refid=52&ref=104&__tn__=R
+Prince Alex Lee,Clara,Jul/11/19 11,2900293753374009,Clara,/clara.chua?refid=52&ref=104&__tn__=R
+Nicholas Lee,James Francis Alphonsus Nayar,Jul/11/19 11,2900704463332938,James Francis Alphonsus Nayar,/jamesfrancisalphonsus.nayar?refid=52&ref=104&__tn__=R
+Jeffrey Yap,Huiling Lin-Yap,Jul/11/19 11,2900240043379380,Huiling Lin-Yap,/huilinglin?refid=52&ref=104&__tn__=R
+Feisan Ang,Frederick Loh,Jul/11/19 11,2900947476641970,Frederick Loh,/frederick.loh?refid=52&ref=104&__tn__=R
+Alfred Tan,Kai Qing Thia,Jul/11/19 11,2901086789961372,Kai Qing Thia,/thiakaiqing?refid=52&ref=104&__tn__=R
+Lily MH,Pyus Zhang,Jul/11/19 11,2901469719923079,Pyus Zhang,/pyus.zhang?refid=52&ref=104&__tn__=R
+Lim SinYee,Alfresco Teo,Jul/11/19 11,2900252803378104,Alfresco Teo,/Zarapen?refid=52&ref=104&__tn__=R
+Jowell Yuen,Samuel Tng,Jul/11/19 11,2900530316683686,Samuel Tng,/samuel.tng?refid=52&ref=104&__tn__=R
+Jaskaran Singh,Gladys Ong,Jul/11/19 11,2900613056675412,Gladys Ong,/gladys.ong.95?refid=52&ref=104&__tn__=R
+Alex Sim,Does the dividend need to be credited into the joint acc in order for both parties to enjoy the higher i/r? How about credit card spending?,Jul/12/19 12,2902401413163243,,
+Michelle Lim,This is a good alternative for spending account comparing to our typical savings account but wont be an ideal account if you want to save.,Jul/20/19 20,2924374467632604,,
+Gregory Chan,I think UOB one might be better,Jul/14/19 14,2906857639384287,,
+Stel Chew,Matt Welcome You,Jul/12/19 12,2902850703118314,Matt Welcome You,/matt.isfree.3?refid=52&ref=104&__tn__=R
+Yun Xing,Hong Keat,Jul/14/19 14,2907031696033548,Hong Keat,/wonghongkeat?refid=52&ref=104&__tn__=R
+Joey Lim,Lydia Low,Jul/23/19 23,2932514516818599,Lydia Low,/llydiall?refid=52&ref=104&__tn__=R
+Timothy Joachim,See Eng Sheng,Jul/16/19 16,2913891675347550,See Eng Sheng,/seesawseenseem?refid=52&ref=104&__tn__=R
+Tan Li Ting,Stacey Tan,Jul/17/19 17,2915590681844316,Stacey Tan,/stacey.tan.98?refid=52&ref=104&__tn__=R
+Yi Luan,Chua Soon Huat,Jul/23/19 23,2931761510227233,Chua Soon Huat,/chuasoon.huat?refid=52&ref=104&__tn__=R
+Victoria Wee,Darwin Chai Sheng,Jul/20/19 20,2924005877669463,Darwin Chai Sheng,/darwin.sheng?refid=52&ref=104&__tn__=R
+Elwin Ng,Dawson Liew,Jul/12/19 12,2902372223166162,Dawson Liew,/Jc.Dawsono?refid=52&ref=104&__tn__=R
+Stephanie Ong,Alvin,Jul/20/19 20,2924582230945161,Alvin,/alvin.a.alexander?refid=52&ref=104&__tn__=R
+Lee Ying Jie,Marcus Mo,Jul/17/19 17,2914971411906243,Marcus Mo,/Mo.wipe?refid=52&ref=104&__tn__=R
+Allencw Chung,Cerlyn Teo,Jul/14/19 14,2908690452534339,Cerlyn Teo,/cerlyn.teo?refid=52&ref=104&__tn__=R
+Kenneth Leong,Cassandra Chau this one ah,Jul/19/19 19,2920194104717307,Cassandra Chau,/cassandra.chau.1?refid=52&ref=104&__tn__=R
+De Hong Khoo,Ang Wei Chang,Jul/17/19 17,2915692551834129,Ang Wei Chang,/ang.w.chang?refid=52&ref=104&__tn__=R
+Joanne Oh,JiaWei Goh,Jul/20/19 20,2923064047763646,JiaWei Goh,/jiawei.goh.1?refid=52&ref=104&__tn__=R
+Alvern Chong,Phelicia Ng,Jul/17/19 17,2914670715269646,Phelicia Ng,/PheliciaNg?refid=52&ref=104&__tn__=R
+Lim Zhi Cong,Daphne Sim,Jul/25/19 25,2938522232884494,Daphne Sim,/daphne.sim.94?refid=52&ref=104&__tn__=R
+Alvin Ong Wei Ming,Sheena Hong,Jul/24/19 24,2934934126576638,Sheena Hong,/Sheena125?refid=52&ref=104&__tn__=R
+Azen Mat,Syu Mohd,Jul/12/19 12,2902512463152138,Syu Mohd,/syuhaidah.mohamed?refid=52&ref=104&__tn__=R
+Christopher Tay,Jing Zhi,Jul/14/19 14,2909040152499369,Jing Zhi,/jing.forwaradobeast?refid=52&ref=104&__tn__=R
+Huii Miin,Jonah Chin,Jul/20/19 20,2923862407683810,Jonah Chin,/jonah.chin?refid=52&ref=104&__tn__=R
+Wong ShuQing,Nicco Chai Joyce Lim Peiling Lim Liying Genevieve Loke,Jul/24/19 24,2935140623222655,"Nicco Chai, Joyce Lim Peiling, Lim Liying, Genevieve Loke","/c.peien?refid=52&ref=104&__tn__=R, /joyce.l.peiling?refid=52&ref=104&__tn__=R, /lim.liying.5?refid=52&ref=104&__tn__=R, /genevieve.loke?refid=52&ref=104&__tn__=R"
+Gan Yeh Li,Zi Li Gan,Jul/21/19 21,2927052034031514,Zi Li Gan,/zili.gan?refid=52&ref=104&__tn__=R
+Su Ling,Gladys Ng,Jul/17/19 17,2917190388351012,Gladys Ng,/gladys.ng.108?refid=52&ref=104&__tn__=R
+Jeremy Hpesoj,Samantha Ong,Jul/21/19 21,2925799697490081,Samantha Ong,/sammivinderkaur?refid=52&ref=104&__tn__=R
+Lew Jia Yun,Quan Yu Tan,Jul/14/19 14,2908397985896919,Quan Yu Tan,/quanyu.tan?refid=52&ref=104&__tn__=R
+Jonathan Lui,Kaobei la,Jul/25/19 25,2938408322895885,,

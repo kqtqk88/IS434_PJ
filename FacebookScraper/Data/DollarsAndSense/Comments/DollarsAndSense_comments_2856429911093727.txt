@@ -1,0 +1,2 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Howard Ho,What is the difference between rent and buy?,Jun/30/19 30,2871222872947764,,

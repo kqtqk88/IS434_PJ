@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+Seedly,"Follow us on Telegram, to keep up with the fun on Personal Finance! :D http://t.me/personalfinancesg",Sep/30/19 30,1200342266820472,http://t.me/personalfinancesg,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fpersonalfinancesg%3Ffbclid%3DIwAR20LpiUGjV7x5iDGB1NO1ceqItvv-L6d5R5n49LW1xe--l8eeADMewWi0s&h=AT23gyhaAJID2QaDw5eJlxYNUjISMVtZhEtHFZd6daG7uS3Y0JoaJme1lF1UEb1rDgERj3p1sIdgmUcOU6WUWoSkRMFGKczVr2Y0ah_l4rJiXn8fkhuRCarsGCN87jtjtr0yGyzwYw
+Kenneth Chan,"Just get M1 500Mbps @ $29. If you don’t plan to spend $400 on a high end router or mesh system, your wifi won’t get more than 300Mbps anyway. 😂",Sep/30/19 30,1200255893495776,,
+Vance Kang,No one really needs more than 100 tbh ... Are u watching 4k ... I doubt it ...,Sep/30/19 30,1200286200159412,,

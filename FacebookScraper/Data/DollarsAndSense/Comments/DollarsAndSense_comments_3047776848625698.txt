@@ -1,0 +1,4 @@
+User,Comment,Date,Comment_ID,User_Tagging,User_Tagging_Link
+DollarsandSense,Join us on Telegram ➡️ http://t.me/dollarsandsense,Sep/7/19 7,3054347051302011,http://t.me/dollarsandsense,https://lm.facebook.com/l.php?u=http%3A%2F%2Ft.me%2Fdollarsandsense%3Ffbclid%3DIwAR0QaZRGQEemw_naFPpIgW1yK_Kd6_ogCKtRbZWGr7B2ETV7Bsgc1w_zZ70&h=AT3t3R0MbPpUJzNi0P_ymek2MeUTc93kiBTLhAcJweJTfk6N7TNFrdmJ6_inVtAvD7qzIKwMp4FoU76J-QO-Z-MAGnsgxx09Q1P1xQEd6i2UxAUfVL6MeuxzrrLIA8-bJ4LB1eY_VQ
+Bryan Ng,Sally Choo,Sep/5/19 5,3047891365280913,Sally Choo,/profile.php?id=1289599576&refid=52&ref=104&__tn__=R
+Kelvin Tan,Down with the de beers monopoly!,Sep/5/19 5,3047800458623337,,

@@ -7,6 +7,7 @@ import numpy as np
 import argparse
 import time
 import cv2
+import os
 
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
@@ -34,6 +35,8 @@ orig = image.copy()
 
 # count number of colors in image
 hist = cv2.calcHist(image,[0,1,2], None, (256,256,256), [0,256,0,256,0,256])
+
+boxes = []
 
 color_count = 0
 for i in hist:
@@ -153,5 +156,8 @@ if color_count < 500:
 # cv2.waitKey(0)
 
 # save output image
-outfilepath = args["out"] + "/" + filename
-cv2.imwrite(outfilepath, orig)
+outname, outext = os.path.splitext(args['out'])
+isInfographic = '-1' if len(boxes) > 2 else '-0'
+outfilename = outname + isInfographic + outext 
+print(outfilename)
+cv2.imwrite(outfilename, orig)

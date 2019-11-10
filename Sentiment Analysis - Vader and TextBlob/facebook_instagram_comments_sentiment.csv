@@ -1,0 +1,25 @@
+﻿username,platform,sentiment,value
+Seedly,Instagram,Positive,0.559
+Seedly,Instagram,Neutral,0.397
+Seedly,Instagram,Negative,0.043
+Seedly,Facebook,Positive,0.55
+Seedly,Facebook,Neutral,0.393
+Seedly,Facebook,Negative,0.055
+TheWokeSalaryMan,Instagram,Positive,0.535
+TheWokeSalaryMan,Instagram,Neutral,0.383
+TheWokeSalaryMan,Instagram,Negative,0.08
+TheWokeSalaryMan,Facebook,Positive,0.43
+TheWokeSalaryMan,Facebook,Neutral,0.453
+TheWokeSalaryMan,Facebook,Negative,0.115
+Dollars and Sense,Instagram,Positive,0.3686
+Dollars and Sense,Instagram,Neutral,0.606
+Dollars and Sense,Instagram,Negative,0.025
+Dollars and Sense,Facebook,Positive,0.338
+Dollars and Sense,Facebook,Neutral,0.59
+Dollars and Sense,Facebook,Negative,0.07
+Mortgage Consultancy,Instagram,Positive,0.625
+Mortgage Consultancy,Instagram,Neutral,0.375
+Mortgage Consultancy,Instagram,Negative,0
+Mortgage Consultancy,Facebook,Positive,0.535
+Mortgage Consultancy,Facebook,Neutral,0.357
+Mortgage Consultancy,Facebook,Negative,0.107

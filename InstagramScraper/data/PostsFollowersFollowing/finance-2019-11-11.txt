@@ -1,0 +1,6 @@
+username,posts,followers,following
+thewokesalaryman,28,23400,6
+seedlysg,190,5918,377
+mortgageconsultancy,143,2057,1696
+dnssingapore,165,2426,24
+alfaried,328,616,560
